@@ -1,0 +1,2773 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: keymaster@town.hall.org
+Originator-Key-Asymmetric:
+ MFkwCgYEVQgBAQICAgADSwAwSAJBALeWW4xDV4i7+b6+UyPn5RtObb1cJ7VkACDq
+ pKb9/DClgTKIm08lCfoilvi9Wl4SODbR1+1waHhiGmeZO8OdgLUCAwEAAQ==
+MIC-Info: RSA-MD5,RSA,
+ oQjEHoXm8Fpv1WSm3+dY8n5pfa5Sz/gHokXMu9kBC4ALszZKhsqTBfJ2DpA0VpM/
+ pWmBoJSAwEKcyOL94dNy6A==
+
+<IMS-DOCUMENT>0000893220-95-000441.txt : 19950712<IMS-HEADER>0000893220-95-000441.hdr.sgml : 19950712
+ACCESSION NUMBER:		0000893220-95-000441
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		5
+CONFORMED PERIOD OF REPORT:	19950623
+ITEM INFORMATION:		Acquisition or disposition of assets
+ITEM INFORMATION:		Other events
+ITEM INFORMATION:		Financial statements and exhibits
+FILED AS OF DATE:		19950710
+SROS:			NONE
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			K TRON INTERNATIONAL INC
+		CENTRAL INDEX KEY:			0000000020
+		STANDARD INDUSTRIAL CLASSIFICATION:	INDUSTRIAL INSTRUMENTS FOR MEASUREMENT, DISPLAY, AND CONTROL [3823]
+		IRS NUMBER:				221759452
+		STATE OF INCORPORATION:			NJ
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-09576
+		FILM NUMBER:		95553096
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1810 CHAPEL AVENUE WEST
+		STREET 2:		SUITE 130
+		CITY:			CHERRY HILL
+		STATE:			NJ
+		ZIP:			08002-4607
+		BUSINESS PHONE:		6096616240
+
+	MAIL ADDRESS:	
+		STREET 1:		1810 CHAPEL AVENUE WEST
+		STREET 2:		SUITE 130
+		CITY:			CHERRY HILL
+		STATE:			NJ
+		ZIP:			08002
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<DESCRIPTION>K-TRON INTERNATIONAL FORM 8-K DATED 6/23/95
+<TEXT>
+
+<PAGE>   1
+
+
+
+
+
+                       SECURITIES AND EXCHANGE COMMISSION
+
+                            WASHINGTON, D.C.  20549
+
+
+
+                                    FORM 8-K
+
+
+               CURRENT REPORT PURSUANT TO SECTION 13 OR 15(d) OF
+                      THE SECURITIES EXCHANGE ACT OF 1934
+
+
+
+           Date of Report (Date of earliest event reported):      June 23, 1995 
+                                                                 ---------------
+
+                          K-TRON INTERNATIONAL, INC.
+ ---------------------------------------------------------------------------
+             (Exact name of registrant specified in its charter)
+
+
+         New Jersey                   0-9576                  22-1759452    
+    --------------------       --------------------       ------------------
+       (State or other           (Commission File          (I.R.S. Employer
+       jurisdiction of               Number)             Identification No.)
+       incorporation)
+
+
+      P.O. Box 888
+      Routes 55 and 553, Pitman, New Jersey                   08071    
+    --------------------------------------------         -------------
+       (Address of principal executive offices)            (Zip Code)
+
+
+ Registrant's telephone number, including area code:     (609)589-0500 
+                                                        ---------------
+
+                          Commerce Center, Suite 130
+                           1810 Chapel Avenue West
+                      Cherry Hill, New Jersey 08002-4607
+ ---------------------------------------------------------------------------
+        (Former name or former address, if changed since last report)
+<PAGE>   2
+ITEM 2.          ACQUISITION OR DISPOSITION OF ASSETS.
+
+                 On June 23, 1995, K-Tron International, Inc., a New Jersey
+corporation ("K-Tron"), through two indirect wholly-owned subsidiaries, K-Tron
+Deutschland GmbH, a German company with limited liability ("K-Tron Germany"),
+and K-Tron Holding AG, a Swiss corporation ("K-Tron Holding"), sold to Dr.
+Dolemeyer GmbH ("Dolemeyer"), a German company with limited liability, its
+94% interest (the "Colortronic Shares") in the outstanding share capital of
+Colortronic GmbH, a German company with limited liability ("Colortronic").
+Since the remaining 6% of the outstanding Colortronic share capital was owned
+by a subsidiary of Colortronic, the effect of the sale of the Colortronic
+Shares was to transfer to Dolemeyer control of all of the outstanding
+Colortronic share capital.  The disposition of the Colortronic Shares was made
+pursuant to a Share Purchase Agreement, dated as of June 23, 1995 (the "Share
+Purchase Agreement"), by and among K-Tron Germany, K-Tron Holding and
+Dolemeyer. The Share Purchase Agreement is attached hereto as Exhibit 2.1 and
+incorporated herein by reference.
+
+                 The Colortronic Shares were sold by K-Tron Germany and K-Tron
+ Holding for a cash purchase price of $7 million.  At the same time, another
+ K-Tron subsidiary, K-Tron Technologies, Inc., a Delaware corporation, sold
+ Dolemeyer certain patents and patent applications used in the Colortronic
+ business for a cash purchase price of $2 million.
+
+                 Dolemeyer is an investment group which K-Tron has been
+advised includes affiliates of Alpinvest III B.V. and ABNAMRO Ventures B.V. as
+well as two K-Tron executives, Marcel O. Rohr, president and chief executive
+officer, and Martin Schuler, K-Tron's senior vice president - finance for
+European operations.  Messrs. Rohr and Schuler resigned from all of their
+positions with K-Tron in connection with the sale, such resignations having
+been effective on June 30, 1995, and Leo C. Beebe, K-Tron's chairman, has
+assumed the duties of chief executive officer.
+
+                 Oppenheimer & Co., Inc. acted as financial advisor to K-Tron
+in the sale of Colortronic, which was the result of a comprehensive marketing
+effort conducted by such firm.
+
+
+ITEM 5.          OTHER EVENTS.
+
+                 As previously reported, K-Tron is in default under several
+financial covenants contained in its loan agreement with three U.S. banks.
+These defaults are continuing and have not been waived.  On April 28, 1995,
+K-Tron entered into a forbearance agreement with its U.S. banks in which they
+agreed to forbear in the exercise of their rights and remedies under the loan
+documents through the earlier of July 31, 1995 or the occurrence of a new event
+of default thereunder.
+
+
+
+
+
+                                    - 2 -
+<PAGE>   3
+                 In connection with the sale of Colortronic, K-Tron entered
+into a Forbearance Agreement and Third Amendment to Revolving Credit and Term
+Loan Agreement with its U.S. banks (the "Forbearance Agreement"), in which the
+banks agreed, in exchange for a $3.45 million payment in permanent reduction of
+the loan facility thereunder (from approximately $13.5 million to approximately
+$10.0 million), to further extend the period during which they agreed to
+forbear in the exercise of their rights and remedies under the loan documents
+to the earlier of February 28, 1996 or the occurrence of a new event of default
+thereunder.
+
+                 The Forbearance Agreement is attached hereto as Exhibit 10.1
+and incorporated herein by reference.
+
+
+ITEM 7.          FINANCIAL STATEMENTS AND EXHIBITS.
+
+                 (a)      Financial Statements of Businesses Acquired.
+
+                          (not applicable)
+
+                 (b)      Pro Forma Financial Information (unaudited).
+
+                          (1)     Pro forma condensed consolidated balance 
+                                  sheet as of April 1, 1995.
+
+                          (2)     Pro forma condensed consolidated statement of
+                                  operations for the three-month period ended
+                                  April 1, 1995 and for the year ended December
+                                  31, 1994.
+
+                 (c)      Exhibits.
+
+                          (1)     Share Purchase Agreement, dated as of June
+                                  23, 1995, by and among K-Tron Holding, K-Tron
+                                  Germany and Dolemeyer (exhibits and
+                                  schedules omitted).
+
+                          (2)     Forbearance Agreement, dated June 22, 1995,
+                                  by and among K-Tron, certain of its
+                                  subsidiaries, First Fidelity Bank, N.A., PNC
+                                  Bank, N.A. and United Jersey Bank (exhibits
+                                  omitted).
+
+                          (3)     Press release, dated June 16, 1995, regarding
+                                  the disposition of Colortronic.
+
+                          (4)     Press release, dated June 23, 1995, regarding
+                                  the disposition of Colortronic and the
+                                  Forbearance Agreement.
+
+
+
+
+
+                                    - 3 -
+<PAGE>   4
+                          K-TRON INTERNATIONAL, INC.
+                PRO FORMA CONDENSED CONSOLIDATED BALANCE SHEET
+                                APRIL 1, 1995
+                                 (UNAUDITED)
+
+                                (IN THOUSANDS)
+
+
+
+<TABLE>
+<CAPTION>
+                                          AS REPORTED    PRO FORMA        PRO FORMA
+                                             K-TRON     ADJUSTMENTS      CONSOLIDATED
+                                          -----------   -----------      ------------
+<S>                                         <C>          <C>                <C>
+
+ASSETS
+
+  CASH & CASH EQUIVALENTS                   $   1,260    $(     86)(2)       $  1,174
+                                                                          
+  ACCOUNTS RECEIVABLE                          31,835     (  9,774)(2)         22,061
+  INVENTORIES                                  31,131     (  7,210)(2)         23,921
+  OTHER CURRENT ASSETS                          2,756     (    523)(2)          2,233
+                                            ---------    ----------          --------
+   TOTAL CURRENT ASSETS                        66,982     ( 17,593)            49,389
+                                                                          
+  PROPERTY, PLANT & EQUIPMENT                  34,629     ( 13,457)(2)         21,172
+  PATENTS & LICENSES                              851     (    178)(2)            673
+  EXCESS OF COST OVER NET ASSETS ACQUIRED      20,574     (  5,845)(2)          6,329
+                                                          (  8,400)(1)    
+  OTHER ASSETS                                    521                             521
+                                            ---------    ----------          --------
+                                            $ 123,557    $( 45,473)          $ 78,084
+                                            =========    ==========          ========
+                                                                          
+LIABILITIES AND SHAREHOLDERS' EQUITY                                      
+                                                                          
+  NOTES PAYABLE TO BANKS                    $  35,258     (  7,994)(2)       $ 18,864
+                                                          (  8,400)(1)    
+  ACCOUNTS PAYABLE AND ACCRUED EXPENSES        29,670     (  7,294)(2)         22,376
+                                                                          
+  DEFERRED TAXES                                  850     (     39)(2)            811
+  CURRENT PORTION OF LONG-TERM DEBT             1,522     (    443)(2)          1,079
+                                            ---------    ----------          --------
+   TOTAL CURRENT LIABILITIES                   67,300     ( 24,170)            43,130
+                                                                          
+  LONG-TERM DEBT                               31,428     (  7,502)(2)         23,926
+                                                                          
+  ACCRUED PENSION                               3,395     (  3,395)(2)              0
+  DEFERRED INCOME                               2,725                           2,725
+  DEFERRED INCOME TAXES                           399                             399
+                                                                            
+  SHAREHOLDERS' EQUITY                         18,310     ( 10,406)(2)(5)       7,904
+                                            ---------    ----------          --------
+                                            $ 123,557    $( 45,473)          $ 78,084
+                                            =========    ==========          ========
+</TABLE>
+
+SEE NOTES TO UNAUDITED PRO FORMA CONDENSED CONSOLIDATED FINANCIAL STATEMENTS.
+<PAGE>   5
+                          K-TRON INTERNATIONAL, INC.
+           PRO FORMA CONDENSED CONSOLIDATED STATEMENT OF OPERATIONS
+                       THREE MONTHS ENDED APRIL 1, 1995
+                                 (UNAUDITED)
+
+                   (IN THOUSANDS EXCEPT EARNINGS PER SHARE)
+
+
+
+<TABLE>
+<CAPTION>
+                                                         PRO FORMA     PRO FORMA
+                                             K-TRON     ADJUSTMENTS   CONSOLIDATED
+                                          -----------   -----------   ------------
+<S>                                         <C>          <C>             <C>
+REVENUES                                    $  30,503    $( 11,149)(3)   $  19,324
+                                                          (     30)(4)
+
+COST OF SALES                                  19,292     (  8,352)(3)      10,940
+SELLING, GENERAL & ADMINISTRATVE               10,210     (  3,013)(3)       7,097
+                                                          (    100)(4)
+RESEARCH & DEVELOPMENT                            976     (    360)(3)         616
+INTEREST                                        1,305     (    778)(3)         637
+                                                               110 (4)
+                                            ----------   ----------       --------
+                                               31,783     ( 12,493)         19,290
+
+(LOSS) INCOME BEFORE INCOME TAXES              (1,280)       1,314              34
+
+INCOME TAXES (REFUND)                                              (5)           0
+                                            ----------   ----------       --------
+NET (LOSS) INCOME                              (1,280)       1,314              34
+                                            ==========   ==========       ========
+
+NET (LOSS) EARNINGS PER SHARE               $    -.42                     $    .01
+                                            ==========                    ========
+                                                         
+COMMON AND COMMON EQUIVALENT
+  SHARES OUTSTANDING                            3,065                        3,065
+                                            ==========                    ========
+</TABLE>
+
+SEE NOTES TO UNAUDITED PRO FORMA CONDENSED CONSOLIDATED FINANCIAL STATEMENTS.
+<PAGE>   6
+                          K-TRON INTERNATIONAL, INC.
+           PRO FORMA CONDENSED CONSOLIDATED STATEMENT OF OPERATIONS
+                         YEAR ENDED DECEMBER 31, 1994
+                                 (UNAUDITED)
+
+                   (IN THOUSANDS EXCEPT EARNINGS PER SHARE)
+
+
+
+<TABLE>
+<CAPTION>
+                                          AS REPORTED    PRO FORMA     PRO FORMA
+                                             K-TRON     ADJUSTMENTS   CONSOLIDATED
+                                          -----------   -----------   ------------
+<S>                                         <C>          <C>             <C>
+REVENUES                                    $ 104,772    $( 35,334)(3)   $  69,538
+                                                               100 (4)
+
+COST OF SALES                                  67,145     ( 26,540)(3)      40,605
+SELLING, GENERAL & ADMINISTRATIVE              35,768     (  9,737)(3)      25,581
+                                                          (    450)(4)
+RESEARCH & DEVELOPMENT                          4,439     (  1,514)(3)       2,925
+INTEREST                                        4,472     (  3,049)(3)       1,903
+                                                               480 (4)
+                                            ----------   ----------       ---------
+                                              111,824     ( 40,810)         71,014
+
+(LOSS) BEFORE INCOME TAXES                   (  7,052)       5,576        (  1,476)
+
+INCOME TAXES (REFUND)                        (    226)             (5)    (    226)
+                                            ----------   ----------       ---------
+
+NET (LOSS)                                  $ ( 6,826)   $   5,576        $( 1,250)
+                                            ==========   ==========       =========
+
+NET (LOSS) PER SHARE                        $   -2.22                     $   -.41
+                                            ==========                    =========
+                                                         
+COMMON AND COMMON EQUIVALENT
+  SHARES OUTSTANDING                            3,079                        3,079
+                                            ==========                    ========
+</TABLE>
+
+SEE NOTES TO UNAUDITED PRO FORMA CONDENSED CONSOLIDATED FINANCIAL STATEMENTS.
+<PAGE>   7
+                  K-TRON INTERNATIONAL, INC. AND SUBSIDIARIES
+        NOTES TO PRO FORMA CONDENSED CONSOLIDATED FINANCIAL INFORMATION
+                                  (UNAUDITED)
+                                (In thousands)
+
+
+The unaudited pro forma condensed consolidated financial information has been
+prepared to reflect the sale (acquired by K-Tron April 30, 1992) of 
+Colortronic GmbH by the Company. The sales price for the Colortronic share 
+capital was determined as a result of arm's-length negotiations between 
+representatives of the Company and the purchaser.
+
+
+1.     To apply the proceeds ($7,000) from the sale of Colortronic GmbH
+       and the sale of certain patents and patent applications ($2,000) net
+       of estimated disposal costs ($600) to the reduction of short-term 
+       debt.
+
+2.     To record the disposal of the carrying values of Colortronic GmbH.
+
+3.     To reverse the revenue and expenses associated with the operations of 
+       Colortronic.
+
+4.     Changes to continuing expenses:                                       
+
+
+<TABLE>
+<CAPTION>                                                          Three-Months
+                                                  Year Ended           Ended
+                                              December 31, 1994    April 1, 1995
+                                              -----------------    -------------
+       <S>                                           <C>                <C>
+       Ongoing interest expense
+       associated with continuing
+       debt levels                                   $(480)             $(120)
+
+       Reduction in salary and fringes
+       associated with the resignation
+       of two K-Tron officers who are
+       part of the investment group
+       acquiring Colortronic                           450                110
+
+       Intercompany transaction that
+       would be considered third party
+       transactions                                    100                (30)
+                                                     -----              -----
+       Additional income (expense)                   $  70              $ (40)
+                                                     =====              =====
+</TABLE>
+
+5.     The estimated tax benefit (approximately $3,000) from the use of the
+       loss associated with the sale of Colortronic has not been reflected
+       in the accompanying balance sheet. The Company is currently analyzing
+       the extent to which the tax benefit may be accrued as an asset in its
+       balance sheet in accordance with FAS109.
+<PAGE>   8
+                                   SIGNATURE
+
+
+                 Pursuant to the requirements of the Securities Exchange Act of
+1934, the registrant has duly caused this report to be signed on its behalf by
+the undersigned hereunto duly authorized.
+
+
+                                        K-TRON INTERNATIONAL, INC.
+                                        (Registrant)
+
+
+                                        By  /s/ Robert L. Weinberg
+                                            ----------------------
+                                            Robert L. Weinberg 
+                                            Senior Executive Vice 
+                                            President, Chief Financial 
+                                            Officer and Treasurer
+
+
+Dated:  July 10, 1995
+
+
+
+
+
+<PAGE>   9
+                                Exhibit Index
+
+
+Exhibit
+
+
+2.1         Share Purchase Agreement, dated as of June 23, 1995, by and among
+            K-Tron Holding AG, K-Tron Deutschland GmbH and Dr. Dolemeyer GmbH
+            (exhibits and schedules omitted)
+
+10.1        Forbearance Agreement and Third Amendment to Revolving Credit and
+            Term Loan Agreement, dated June 22, 1995, by and among K-Tron
+            International, Inc., K-Tron America, Inc., K-Tron Technologies,
+            Inc., K-Tron Investment Co., K-Tron Patent, Inc., First Fidelity
+            Bank, N.A. (successor-by-merger to First Fidelity Bank, N.A., New
+            Jersey), PNC Bank, N.A. and United Jersey Bank (successor-by-merger
+            to United Jersey Bank/South, N.A.) (exhibits omitted)
+
+99.1        Press release, dated June 16, 1995
+
+99.2        Press release, dated June 23, 1995
+
+
+
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-2.1
+<SEQUENCE>2
+<DESCRIPTION>SHARE PURCHASE AGREEMENT DATED JUNE 23, 1995
+<TEXT>
+
+<PAGE>   1
+               ------------------------------------------------
+
+
+
+
+
+                               K-TRON HOLDING AG,
+
+                            K-TRON DEUTSCHLAND GmbH
+
+                                      and
+
+                               DR. DoLEMEYER GmbH
+
+
+
+
+
+                            SHARE PURCHASE AGREEMENT
+
+                       Relating to the Sale and Transfer
+                                  of Shares of
+
+                                COLORTRONIC GmbH
+
+
+
+
+
+                           Dated as of June 23, 1995
+
+
+
+
+
+               ------------------------------------------------
+<PAGE>   2
+                               TABLE OF CONTENTS
+<TABLE>
+<CAPTION>
+                                                                                                                        Page
+<S>                                                                                                                       <C>
+PREAMBLE  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    1
+
+1.       SALE AND TRANSFER OF SHARES  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    2
+
+2.       CLOSING DATE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    2
+         2.1     Closing  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    2
+         2.2     Delivery at Closing  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    3
+
+3.       PURCHASE PRICE AND PAYMENT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    3
+         3.1     Purchase Price . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    3
+         3.2     Payment of Purchase Price  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    3
+
+4.       ANCILLARY COVENANTS AND AGREEMENTS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    3
+         4.1     Intellectual Property Agreements . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    3
+         4.2     Non-Solicitation of Employees  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    4
+         4.3     Resignations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    4
+         4.4     Intercompany Accounts  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    4
+         4.5     Operations Pending Closing . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    5
+
+5.       REPRESENTATIONS AND WARRANTIES OF SELLERS  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    5
+         5.1     Statements in the Preamble . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    5
+         5.2     Capitalization . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    5
+         5.3     Share Ownership  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    5
+         5.4     Authority and Binding Effect . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    6
+         5.5     Subsidiaries; No Interest in Other Entities  . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    6
+         5.6     Charter, Organization, Association, Other Similar Documents and Share Books  . . . . . . . . . . . . .    7
+         5.7     Conflict with Other Agreements; Approvals  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    7
+         5.8     Acquisition of Ownership . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    8
+         5.9     Financial Statements . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    8
+         5.10    Absence of Undisclosed Liabilities and Obligations . . . . . . . . . . . . . . . . . . . . . . . . . .    8
+         5.11    Tax Returns  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    8
+         5.12    Absence of Material Adverse Changes or Events  . . . . . . . . . . . . . . . . . . . . . . . . . . . .    9
+         5.13    Assets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    9
+         5.14    Litigation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   10
+         5.15    Disclosure . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   10
+         5.16    Sellers' Knowledge . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   10
+
+6.       REPRESENTATIONS AND WARRANTIES OF PURCHASER  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   11
+         6.1     Authority and Binding Effect . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   11
+         6.2     Conflict with Other Agreements; Approvals  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   11
+         6.3     Forecasts, Projections, etc. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   11
+
+7.       INDEMNITIES  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   11
+
+8.       SURVIVAL OF REPRESENTATIONS AND WARRANTIES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   12
+9.       MISCELLANEOUS  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   13
+</TABLE>
+
+
+
+
+
+                                      -i-
+<PAGE>   3
+<TABLE>
+         <S>     <C>                                                                                                      <C>
+         9.1     Costs  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   13
+         9.2     Cooperation  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   13
+         9.3     Termination  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   13
+         9.4     Entire Agreement . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   13
+         9.5     Notices  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   14
+         9.6     Severability . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   16
+         9.7     Statements in Schedules  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   16
+         9.8     Governing Law; Jurisdiction; Arbitration . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   16
+</TABLE>
+
+
+
+
+
+                                      -ii-
+<PAGE>   4
+                            SHARE PURCHASE AGREEMENT
+
+
+THIS SHARE PURCHASE AGREEMENT, dated as of June 23, 1995, is by and among
+
+1.       K-TRON HOLDING AG, having an office at Industrie Lenzhard, CH5702
+         Niederlenz, Switzerland,
+
+                 - hereinafter referred to as "SELLER I"
+
+2.       K-TRON DEUTSCHLAND GmbH, having an office at Munster-
+         strasse 69, D-49525 Lengerich, Germany,
+
+                 - hereinafter referred to as "SELLER II"
+
+         - Seller I and Seller II collectively hereinafter also referred to as
+         "SELLERS" and individually also as "SELLER."
+
+
+and
+
+
+3.       DR. DoLEMEYER GmbH, being registered under HRB 5356 in the Commercial
+         Register of the Local Court at Bad Homburg v.d.H., and having its
+         offices at Kaiser-Friedrich-Promenade 43, D-61348 Bad Homburg v.d.H.,
+
+                 - hereinafter referred to as "PURCHASER."
+
+PREAMBLE.
+
+A.       Sellers are the owners of 94% of the share capital of  Colortronic
+         GmbH, being registered under HRB 419,7 in the Commercial Register of
+         the Local Court at Bad Homburg v.d.H. and having its offices at
+         Otto-Hahn-Strasse 20, D-61371 Friedrichsdorf 2, Germany (hereinafter
+         referred to as the "COMPANY").
+
+B.       The stated capital of the Company amounts to DM 6,000,000, and is
+         divided into
+
+         - one share with a nominal value of DM 50,000,
+         - one share with a nominal value of DM 2,522,000,
+         - one share with a nominal value of DM 2,572,000,
+         - one share with a nominal value of DM 106,000,
+         - two shares with a nominal value of DM 128,000 each,
+         - one share with a nominal value of DM 14,000,
+         - one share with a nominal value of DM 120,000, and
+         - one share with a nominal value of DM 360,000.
+<PAGE>   5
+         Seller I is the owner of all the shares except for the shares with the
+         nominal value of DM 120,000 and DM 360,000.  Seller II is the owner of
+         the share with the nominal value of DM 120,000 (the shares in the
+         Company held by Sellers will hereinafter collectively be referred to
+         as the "SHARES").
+
+
+C.       The remainder of the shares are held by Colortronic Maschinenbau GmbH
+         (hereinafter referred to as "MASCHINENBAU GmbH" or the "SUBSIDIARY"),
+         registered under HRB 2828 in the Commercial Register of the Local
+         Court at Bad Homburg v.d.H. and having its offices at
+         Otto-Hahn-Strasse 20, 61371 Friedrichsdorf 2, Germany.  Maschinenbau
+         GmbH is the owner of the share with the nominal value of DM 360,000.
+         The Company owns all of the shares in Maschinenbau GmbH, whose stated
+         capital amounts to DM 500,000.
+
+D.       The Company and the Subsidiary are engaged in the design, manufacture,
+         sale and repair of blending, conveying and drying equipment,
+         granulators, silos and related products and systems for injection,
+         extrusion and blow molding applications in the plastics industry.
+
+E.       Sellers wish to sell and transfer all of the Shares to Purchaser, and
+         Purchaser desires to purchase and acquire all of the Shares from
+         Sellers, for the purchase price and upon and subject to the terms and
+         conditions hereinafter set forth.
+
+1.       SALE AND TRANSFER OF SHARES.
+
+Subject to the terms and conditions of this Agreement, at the Closing
+(hereinafter defined), Sellers shall sell and assign to Purchaser, and
+Purchaser shall purchase, and accept from Sellers the assignment of, the
+Shares, together with all dividend rights attaching thereto, for the Purchase
+Price set forth hereinafter in SECTION 3.  The sale and transfer of the Shares
+shall be effective as of the Closing Date (hereinafter defined).
+
+
+2.       CLOSING DATE.
+
+         2.1  CLOSING.  The closing (the "CLOSING") of the transactions
+described herein shall be held on the third business day after the obligations
+of the parties in Appendix I (which the  party responsible therefor shall use
+its best efforts to perform) shall have been satisfied (as set forth therein),
+at 9:00 a.m. local time, at the offices of Schurmann, Rausch & Rohrer,
+Limmatquai #3, CH-8001 Zurich, Switzerland or at such other time or place as
+Seller I and Purchaser shall mutually agree (the date of such Closing, the
+"CLOSING DATE").
+
+
+
+
+
+                                      -2-
+<PAGE>   6
+         2.2     DELIVERY AT CLOSING.  At the Closing on the Closing Date,
+Purchaser shall deliver to Sellers the Purchase Price in accordance with
+SECTION 3.3.
+
+
+3.       PURCHASE PRICE AND PAYMENT.
+
+         3.1  PURCHASE PRICE.   The purchase price for the Shares and the
+intercompany accounts (the "PURCHASE PRICE") shall be an amount equal to US
+$7,000,000 (Seven Million U.S. dollars).
+
+         3.2  PAYMENT OF PURCHASE PRICE.
+
+                 (a)      On or before June 21, 1995, Purchaser shall pay US
+$7,000,000 to the Escrow Agent under the Escrow Agreement attached hereto as
+EXHIBIT A (the "ESCROW AGREEMENT"), to be held and disbursed by the Escrow
+Agent thereunder in accordance with the terms thereof.  Purchaser and Sellers
+agree that the transfer of the Shares to the Purchaser shall take effect upon
+payment of the Purchase Price by the Escrow Agent to Sellers as set out above.
+
+                 (b)      After Purchaser has made the US $9,000,000 payments
+to the Escrow Agent referred to in SECTION 3.2(a) and SECTION 4.1, Sellers
+shall not solicit or initiate any proposal to acquire the Company.  If Sellers
+receive an unsolicited proposal to acquire the Company, they may negotiate and
+otherwise respond to such proposal and may terminate this Agreement to enter
+into an agreement to sell the Company to another party, in which case Sellers'
+sole obligation to Purchaser will be to pay it a termination fee (payable upon
+consummation of such other transaction) of US $500,000.
+
+                 (c)      In addition, the obligations with respect to
+exclusive negotiations of Sellers and Sellers' Affiliates (hereinafter defined)
+under paragraphs 3, 4 and 10 of the Memorandum of Understanding, dated as of
+June 7, 1995, between certain affiliates of Purchaser and K-Tron International,
+Inc. (the "MEMORANDUM OF UNDERSTANDING"), shall continue until and shall
+terminate upon the making of the $9,000,000 payments referred to in SECTION
+3.2(b).
+
+
+4.       ANCILLARY COVENANTS AND AGREEMENTS.
+
+
+         4.1  INTELLECTUAL PROPERTY AGREEMENTS.  Before the Closing Date,
+Sellers shall cause the Company and K-Tron Technologies, Inc., a Delaware, USA,
+corporation, to execute and deliver intellectual property agreements with
+Purchaser substantially in the forms attached hereto as EXHIBIT B.  On or
+before June 21, 1995, Purchaser on behalf of the Company shall pay US
+$2,000,000
+
+
+
+
+
+                                      -3-
+<PAGE>   7
+to the Escrow Agent under the Escrow Agreement, to be held and disbursed by the
+Escrow Agent thereunder in accordance with the terms thereof, such payment to
+be with respect to such intellectual property agreements.
+
+
+         4.2     NON-SOLICITATION OF EMPLOYEES.  Until the third anniversary of
+the Closing Date, Purchaser agrees that neither Purchaser nor the Company nor
+any subsidiary of either nor any Company Affiliate (hereinafter defined) will
+directly or indirectly solicit, offer employment to, or employ any person who
+is, or who was during the six months preceding such solicitation, offer or
+employment, an employee of Sellers or any Seller Affiliate at the time of
+Closing, except for Marcel Rohr, Martin Schuler and those employees listed on
+SCHEDULE 4.2 hereto, without the prior written consent of Sellers' ultimate
+parent, K-Tron International, Inc.  For purposes of this Section 4.2, "COMPANY
+AFFILIATE" means any person or entity directly or indirectly controlling,
+controlled by or under common control with the Company which has any business
+association of any nature with either Marcel Rohr or Martin Schuler, including,
+by way of example and not limitation, as a shareholder, director, officer,
+employee, consultant, advisor or otherwise.
+
+
+         4.3     RESIGNATIONS.  At the Closing, Sellers will make available to
+Purchaser the written resignations of all the directors of the Company and the
+Subsidiary effective as of the Closing except for Marcel Rohr.  At or before
+the Closing, Purchaser will deliver to Sellers the written resignations of
+Marcel Rohr and Martin Schuler from all positions as directors, officers or
+employees of Sellers and all Seller Affiliates and Sellers agree, on behalf of
+themselves and K-Tron International, Inc., that Messrs. Rohr and Schuler shall
+thereafter have no obligations to provide future services to them or any Seller
+Affiliate.
+
+         4.4     INTERCOMPANY ACCOUNTS.
+
+                 (a)      From and after May 31, 1995, the Company shall have
+no obligation to any Seller or Seller Affiliate, and no Seller or Seller
+Affiliate shall have any obligation to the Company, with respect to any
+intercompany payable or receivable existing prior to May 31, 1995 (but shall be
+responsible for orders placed but not shipped on or before May 31, 1995).
+"SELLER AFFILIATE" means each entity directly or indirectly controlling,
+controlled by or under common control with either Seller, other than the
+Company and the Subsidiary.
+
+                 (b)      The Company shall not have any obligation to make
+intercompany payments for orders shipped or services performed on or prior to
+May 31, 1995 (but shall be responsible for orders
+
+
+
+
+
+                                      -4-
+<PAGE>   8
+placed but not shipped on or before May 31, 1995).  The Company shall timely
+make all payments for all such orders and services, shipped or performed after
+May 31, 1995, arising in the ordinary course of business consistent with past
+practice and for all such other intercompany orders, goods and services as
+Purchaser may consent.
+
+         4.5     OPERATIONS PENDING CLOSING.  From the date hereof to the
+Closing, Sellers will cause the Company (a) to operate only in the ordinary
+course of business and shall use their reasonable efforts consistent with
+available financing to preserve and maintain its properties, businesses and
+relationships with suppliers, customers, employees, agents and others having
+business dealings with the Company and (b) to make no dividends or
+distributions, to incur no Funded Debt (defined in Appendix I) in excess of the
+maximum availability under current credit lines, or engage in any intercompany
+transactions outside of the ordinary course of business consistent with past
+practice.
+
+
+5.       REPRESENTATIONS AND WARRANTIES OF SELLERS.  Sellers, jointly and
+severally, hereby represent and warrant to Purchaser as follows:
+
+         5.1     STATEMENTS IN THE PREAMBLE.  The statements made in the
+Preamble to this Agreement are true and correct.
+
+
+         5.2     CAPITALIZATION.  A true, correct and complete copy of the
+excerpt from the Commercial Register relating to the Company is attached as
+SCHEDULE 5.2.  The Company's capital has been paid in full and has not been
+reduced.  All of the shares in the Company have been duly authorized and
+validly issued, are fully paid and nonassessable, were not issued in violation
+of any agreement or other understanding binding upon the Company, and were
+issued in compliance with all applicable charter documents of the Company and
+all applicable laws and regulations.  Except for those set forth in the
+Company's Articles of Association, there are, and have been, no preemptive
+rights applicable to the issuance of the shares in the Company.  The Company
+does not have outstanding any subscriptions, options, warrants, convertible
+securities, calls, commitments, rights or agreements to purchase or otherwise
+acquire, issue, sell or otherwise dispose of any of its shares.
+
+
+         5.3     SHARE OWNERSHIP.  Each Seller is the lawful owner of record
+and beneficially of the Shares as set forth in the Preamble; Maschinenbau GmbH
+is the lawful owner of record and beneficially of the share of the Company
+having a nominal value of DM 360,000 (hereinafter referred to as "THE
+MASCHINENBAU GmbH SHARE"); in each of the foregoing cases free and clear of all
+
+
+
+
+
+                                      -5-
+<PAGE>   9
+pledges, liens, encumbrances, claims and other charges and restrictions of
+every kind, including, without limitation, any agreements, proxies,
+subscriptions, options, warrants, calls, commitments or rights of any character
+granting to any person any interest in or right to acquire from any of the
+Sellers or Maschinenbau GmbH at any time, or upon the happening of any stated
+event, any of the Shares or the Maschinenbau GmbH Share.
+
+
+         5.4     AUTHORITY AND BINDING EFFECT.  Each Seller has the full power
+and authority to execute and deliver this Agreement and to carry out the
+transactions contemplated hereby.  This Agreement has been duly executed and
+delivered by or on behalf of each Seller and constitutes the legal, valid and
+binding obligation of each Seller enforceable against such Seller in accordance
+with its terms.
+
+
+         5.5     SUBSIDIARIES; NO INTEREST IN OTHER ENTITIES.
+
+                 5.5.1    The Subsidiary is the only subsidiary of the Company.
+                          The Subsidiary is a corporation duly organized and
+                          validly existing under the laws of its jurisdiction
+                          of incorporation, and has all requisite corporate
+                          power and authority to own its properties and assets
+                          and to carry on its business as now conducted.
+
+                 5.5.2    The authorized, issued and outstanding shares of
+                          capital stock of the Subsidiary are set forth in
+                          paragraph C of the Preamble hereto.  All of such
+                          issued and outstanding shares of capital stock have
+                          been duly authorized and validly issued, are fully
+                          paid and non-assessable, were not issued in violation
+                          of any agreement or understanding binding upon the
+                          Subsidiary, and were issued in compliance with all
+                          applicable charter documents of the Subsidiary and
+                          all applicable laws and regulations.  There are, and
+                          have been, no preemptive rights granted by the
+                          Company or with the consent of the Company by the
+                          Subsidiary applicable to the issuance of the shares
+                          or stock of any Subsidiary.  There are no outstanding
+                          subscriptions, options, warrants, convertible
+                          securities, calls, commitments, rights or agreements
+                          granted by the Company or with the consent of the
+                          Company by the Subsidiary to purchase or otherwise
+                          acquire, issue, sell or otherwise
+
+
+
+
+
+                                      -6-
+<PAGE>   10
+                          dispose of any shares or capital stock or other
+                          securities of the Subsidiary.
+
+                 5.5.3    The Company is the lawful owner of record and
+                          beneficially of all of the issued and outstanding
+                          shares of the Subsidiary, free and clear of all
+                          pledges, liens, encumbrances, claims and other
+                          charges and restrictions of every nature, including,
+                          without limitation, any agreements, proxies,
+                          subscriptions, options, warrants, calls, commitments
+                          or rights of any character granting to any person any
+                          interest in or right to acquire from the Company at
+                          any time, or upon the happening of any stated event,
+                          any shares or capital stock of the  Subsidiary.
+
+                 5.5.4    To Sellers' knowledge, neither the Company nor any
+                          Subsidiary has any investment in or owns any
+                          securities of any corporation, association,
+                          partnership, joint venture or other organization,
+                          public or private, except for bank accounts,
+                          certificates of deposit, commercial paper, money
+                          market funds and similar money equivalents.
+
+
+         5.6     CHARTER, ORGANIZATION, ASSOCIATION, OTHER SIMILAR DOCUMENTS
+AND SHARE BOOKS.  Copies of all charter, organization, association and other
+similar documents and of all amendments thereto of the Company and the
+Subsidiary have been made available, and at or prior to the Closing Date will
+be delivered to Purchaser, and they are true, correct and complete copies
+thereof.
+
+
+         5.7     CONFLICT WITH OTHER AGREEMENTS; APPROVALS.  Neither the
+execution and delivery of this Agreement by Sellers, nor the performance of
+Sellers' obligations hereunder, will (a) violate, conflict with or constitute a
+default under, any terms of Sellers' or the Company's Articles of Association
+or any provision under German law or of any material contract, order, judgment
+or decree relating to any Seller or to the Company and their respective
+businesses; or (b) require any authorization, consent, approval, exemption or
+action of or by any court, or any administrative, governmental or regulatory
+official, body or authority or any other person which has not been given or
+done.
+
+
+         5.8     ACQUISITION OF OWNERSHIP.  Upon conclusion of this Agreement
+and the payment of the Purchase Price to Sellers,
+
+
+
+
+
+                                      -7-
+<PAGE>   11
+Purchaser acquires, as of the Closing Date, the entire legal and beneficial
+ownership and title to all of the Shares, free and clear of any liens or claims
+by third parties.
+
+
+         5.9     FINANCIAL STATEMENTS.  Sellers have delivered to Purchaser the
+unaudited balance sheet of the Company as at December 31, 1994 and the related
+statements of operations and shareholders' equity for the 12 months then ended
+(such financial statements as at December 31, 1994 and for the 12 months then
+ended, the "1994 FINANCIAL STATEMENTS"), as well as the unaudited balance sheet
+of the Company as at April 30, 1995 and the related statements of operations
+and shareholders' equity for the four months then ended (such financial
+statements as at April 30, 1995 and for the four months then ended, the
+"INTERIM FINANCIAL STATEMENTS").  To Sellers' knowledge, such financial
+statements present fairly in all material respects the financial position and
+results of operations of the Company as of their respective dates in accordance
+with US GAAP (defined in Appendix I), subject to normal recurring year-end
+adjustments in the case of the Interim Financial Statements and to the omission
+of certain notes, comments, schedules and supplemental data which would be
+required to be included therein pursuant to US GAAP.  Whenever the term
+"INTERIM BALANCE SHEET DATE" is used herein, such term shall be deemed to refer
+to April 30, 1995.
+
+
+         5.10    ABSENCE OF UNDISCLOSED LIABILITIES AND OBLIGATIONS.  Except as
+disclosed on SCHEDULE 5.10, to Sellers' knowledge, on the Closing Date the
+Company and the Subsidiary have no material liabilities or obligations
+attributable to their respective businesses of any nature or whatsoever,
+whether absolute, contingent or otherwise, except for those reflected in the
+1994 Financial Statements or the Interim Financial Statements and those
+incurred or accrued since the Interim Balance Sheet Date either in the ordinary
+course of business or disclosed to Purchaser pursuant to SECTION 5.12 hereof.
+
+
+         5.11    TAX RETURNS.  To Sellers' knowledge, all national, local and
+other tax returns, reports and statements (the "TAX RETURNS") required to be
+filed by the Company and Maschinenbau GmbH have been filed with the appropriate
+governmental agencies in all jurisdictions in which the Tax Returns were
+required to be filed, and the Tax Returns properly reflect the taxable income
+or loss and the tax liabilities of the Company and Maschinenbau GmbH.  To
+Sellers' knowledge, all taxes due and payable by the Company and Maschinenbau
+GmbH as set forth in the Tax Returns and all claims, demands, assessments,
+judgments, costs and expenses connected therewith as of the Interim Balance
+Sheet Date have been properly paid or accrued.  To Sellers' knowledge, the
+accruals for taxes in the 1994 Financial Statements are adequate
+
+
+
+
+
+                                      -8-
+<PAGE>   12
+to cover the tax liabilities (whether or not assessed) of the Company and
+Maschinenbau GmbH as of December 31, 1994.
+
+
+         5.12    ABSENCE OF MATERIAL ADVERSE CHANGES OR EVENTS.  Except for
+restrictions imposed by the Company's banks, to Sellers' knowledge, since the
+Interim Balance Sheet Date there has been no change in the business,
+management, operations, results of operations, assets, liabilities or
+properties of the Company or the Subsidiary which has materially adversely
+affected the business or operations of the Company or the Subsidiary, and
+during such period the Company has been operated in the ordinary course of
+business consistent with past practice.
+
+
+         5.13    ASSETS.  To Sellers' knowledge, on the Closing Date each of
+the Company and Maschinenbau GmbH is the owner of and has good title to all of
+its properties and assets, free of liens, including, without limitation, those
+properties and assets reflected in the 1994 Financial Statements and the
+Interim Financial Statements (except for (a) Permitted Encumbrances
+(hereinafter defined), (b) properties and assets disposed of since the Interim
+Balance Sheet Date in the ordinary course of business consistent with past
+practice, (c) usual commercial retention of title rights of third parties) and
+(d) liens and security interests granted or existing with respect to Funded
+Debt.
+
+         "PERMITTED ENCUMBRANCES" means (a) any mortgage, lien, pledge,
+hypothecation, assignment, security interest or restriction of any kind for
+real estate taxes either not yet overdue or being contested in good faith by
+appropriate proceedings and for which adequate reserves have been provided on
+the books of the Company, (b) any laws, ordinances, restrictions, exemptions,
+reservations, conditions, limitations or covenants that do not individually or
+in the aggregate materially impair the use of any property for the purposes
+currently conducted or contemplated, (c) mechanic's, materialmen's, workmen's,
+warehousemen's and other similar liens incurred in the ordinary course of
+business of the Company, with respect to obligations which are not past due for
+a period longer than sixty (60) days or which are being contested in good faith
+by appropriate proceedings and for which adequate reserves have been provided
+on the books of the Company, and (d) easements, rights-of-way, restrictions,
+and other similar encumbrances which, individually or in the aggregate, do not
+materially detract from the value of any real property and which do not
+materially impair the use of any real property for the purpose currently
+conducted or contemplated.
+
+
+
+
+
+                                      -9-
+<PAGE>   13
+         5.14    LITIGATION.  To Sellers' knowledge (a) no claim, action, suit,
+arbitration, investigation or other proceeding is pending, threatened or
+contemplated, against the Company or Maschinenbau GmbH or any of their
+properties before any court, governmental or regulatory official, body or
+authority, arbitrator or "impartial mediator," wherein an unfavorable judgment,
+decision, ruling or finding may adversely affect the business, management,
+operations, results of operations, assets, liabilities, properties, prospects
+or condition (financial or otherwise) of the Company or the Subsidiary, (b)
+there are no judgments, consents, decrees, injunctions, or any other judicial
+or administrative mandates outstanding against the Company or the  Subsidiary
+and (c) no litigation has been brought or threatened, or is contemplated,
+respecting the transaction contemplated by this Agreement; except, in the case
+of clauses (a) and (b) for items involving not more than US $3,000 individually
+and US $30,000 in the aggregate.  To Sellers' knowledge, there are no pollution
+or other environmental damages caused by the Company in the conduct of its
+business, directly or indirectly except for items involving not more than US
+$3,000 individually and US $30,000 in the aggregate.
+
+
+         5.15    DISCLOSURE.  To Sellers' knowledge: (a) no representation or
+warranty made by any Seller in this Agreement or information contained in the
+financial statements referred to in SECTION 5.9 or any Schedule contains any
+untrue statement of material fact or omits to state a material fact necessary
+in order to make the statements contained herein or therein not misleading, and
+(b) copies of all documents referred to in the Schedules have been delivered or
+made available to Purchaser and are true, correct and complete copies thereof
+and include all amendments, supplements and modifications thereto or waivers
+thereunder.
+
+
+         5.16    SELLERS' KNOWLEDGE.  For purposes of this SECTION 5, "Sellers'
+knowledge" or words of similar import shall be conclusively deemed to be only
+that knowledge actually possessed by those persons identified in SCHEDULE 5.16.
+Sellers shall not be deemed to have actual or constructive knowledge of any
+fact, circumstance or occurrence known to any person other than as set forth in
+the preceding sentence.
+
+
+Sellers do not give any representations and warranties other than those given
+in this SECTION 5.
+
+
+6.       REPRESENTATIONS AND WARRANTIES OF PURCHASER.  Purchaser hereby
+represents and warrants to Sellers as follows:
+
+
+
+
+
+                                      -10-
+<PAGE>   14
+         6.1     AUTHORITY AND BINDING EFFECT.  Purchaser has the full power
+and authority to execute and deliver this Agreement and to carry out the
+transactions contemplated hereby.  This Agreement has been duly executed and
+delivered by Purchaser and constitutes the legal, valid and binding obligation
+of Purchaser enforceable against Purchaser in accordance with its terms.
+
+
+         6.2     CONFLICT WITH OTHER AGREEMENTS; APPROVALS.  Neither the
+execution and delivery of this Agreement by Purchaser, nor the performance of
+Purchaser's obligations hereunder, (a) will violate, conflict with or
+constitute a default under, any terms of the Purchaser's Articles of
+Association or any provision under German law or of any contract, order,
+judgment or decree relating to the Purchaser or its business; or (b) require
+any authorization, consent, approval, exemption or action of or by any court,
+or any administrative, governmental or regulatory official, body or authority
+or any other person which has not been given or done.
+
+
+         6.3     FORECASTS, PROJECTIONS, ETC.  Purchaser acknowledges that (a)
+Purchaser has made its own evaluation of the adequacy, completeness and
+accuracy of various forecasts, projections, opinions and similar material
+heretofore furnished by the Sellers, any Seller Affiliate or their
+representatives to Purchaser in connection with Purchaser's investigations of
+the Company and the Subsidiary and their respective businesses, assets, and
+liabilities, and (b) there are uncertainties inherent in attempting to make
+projections and forecasts and render opinions, Purchaser is familiar with such
+uncertainties, and Purchaser is not relying on any projections, forecasts or
+opinions furnished to it by Sellers or any Seller Affiliate or any of their
+representatives.
+
+
+7.       INDEMNITIES.
+
+         7.1     In the event of a legal defect (Rechtsmangel) within the
+meaning of Section 434 German Civil Code (BGB) with respect to the Shares,
+Purchaser's remedies shall be governed by Section 440 German Civil Code (BGB).
+
+         7.2     If a claim shall be made by any tax authority which, if
+successful, would result in the indemnification of Purchaser pursuant to
+SECTION 5.11 or, if a tax field audit is commenced by any tax authority with
+respect to any tax that could give rise to such tax indemnity, Purchaser shall
+promptly notify Sellers in writing of such claim or such tax field audit as the
+case may be. Sellers shall be given every opportunity to participate in any
+negotiations with tax authorities or any such tax field audit. Sellers shall
+have the right, at their option, upon timely notice
+
+
+
+
+
+                                      -11-
+<PAGE>   15
+to Purchaser, to assume and control together with Purchaser the conduct of any
+tax field audit and the defense of any suit, action or proceeding with respect
+to any tax claim at their own expense and with their own counsel.
+
+
+         7.3     In respect of a breach of representations and warranties other
+than those referred to in SECTION 7.1 above, Purchaser's exclusive remedy
+against Sellers shall be a claim or claims for actual damages, provided that
+claims relating to the value of the Shares beyond such actual damages shall be
+excluded, and further provided that
+
+                 7.3.1    Purchaser shall have no cause of action against
+                          Sellers if the individual violation results in a
+                          claim by Purchaser of less than DM 50,000 and of all
+                          claims in the aggregate of less than DM 200,000;
+
+                 7.3.2    Purchaser shall have no cause of action against
+                          Sellers if Purchaser, including Marcel Rohr or Martin
+                          Schuler or any other of the management persons to be
+                          employed by the Company at the request of Purchaser
+                          had knowledge of the facts and circumstances
+                          underlying Sellers' breach of a representation or
+                          warranty hereunder or which otherwise gives rise to
+                          any claim against any Seller or Seller Affiliate; and
+
+                 7.3.3    Sellers' liability shall be joint and several.
+
+
+8.       SURVIVAL OF REPRESENTATIONS AND WARRANTIES.  Unless otherwise provided
+for herein, the representations and warranties given by Sellers under this
+Agreement shall survive until the earlier of (a) the completion of the
+Company's 1995 audit (which Purchaser shall cause it to promptly complete) and
+(b) the date 12 months after the Closing Date.
+
+
+9.       MISCELLANEOUS.
+
+         9.1     COSTS.  Purchaser and Sellers shall each pay their own
+expenses, including, without limitation, their own counsel and accountant,
+incurred in connection with this Agreement.  Purchaser shall pay the notary
+fees and transfer taxes incurred in connection with this Agreement and the
+transactions contemplated hereby.
+
+
+
+
+
+                                      -12-
+<PAGE>   16
+         9.2     COOPERATION.  Subject to the terms and conditions herein
+provided, each of the parties hereto shall use its reasonable best efforts to
+take, or cause to be taken, such action, to execute and deliver, or cause to be
+executed and delivered, such governmental notifications and additional
+documents and instruments and to do, or cause to be done, all things necessary,
+proper or advisable under the provisions of this Agreement and under applicable
+law to consummate and make effective the transactions contemplated by this
+Agreement.
+
+         9.3     TERMINATION.
+
+                 9.3.1    Anything herein or elsewhere to the contrary
+                          notwithstanding, this Agreement may be terminated by
+                          written notice of termination at any time before the
+                          Closing Date only as follows:
+
+                          (i)  by mutual consent of Sellers and Purchaser; or
+
+                          (ii)  by either Purchaser or Sellers after July 15,
+                          1995, if any of the obligations in Appendix I have
+                          not been satisfied.
+
+                 9.3.2    In the event of the termination and abandonment
+                          hereof pursuant to the provisions of this SECTION
+                          9.3, this Agreement shall become void and have no
+                          effect, without any liability on the part of any of
+                          the parties or their directors or officers or
+                          shareholders in respect of this Agreement.
+
+
+         9.4     ENTIRE AGREEMENT.  This Agreement, which includes the
+Appendix, Exhibits and Schedules hereto and the Arbitration Agreement referred
+to in SECTION 9.8, sets forth the entire understanding of the parties with
+respect to the subject matter hereof.  Any previous agreements or
+understandings between the parties regarding the subject matter hereof are
+merged into and superseded by this Agreement.
+
+
+         9.5     NOTICES.  All notices, consents, waivers or other
+communications which are required or permitted hereunder shall be sufficient if
+given in writing and delivered personally, by recognized courier service or by
+registered or certified by telefax (with the original to follow in accordance
+with the other provisions of this SECTION 9.5), mail, return receipt requested,
+postage prepaid, as follows (or to such other addressee or address as shall be
+set forth in a notice given in the same manner):
+
+
+
+
+
+                                      -13-
+<PAGE>   17
+         If to Purchaser:
+
+                                  Dr. Dolemeyer GmbH
+                                  Kaiser-Friedrich-Promenade 43
+                                  61348 Bad Homburg v.d.H.
+                                  Germany
+                                  Fax:  06172-27614
+
+                          and to
+
+                                  ATCO Partner Beteiligungsberatung GmbH
+                                  Stresemannstrasse 43
+                                  40202 Dusseldorf, Germany
+                                  Fax:  0211-164-0869
+
+                          and to:
+
+                                  c/o Alpinvest III BV
+                                  Gooimeer 3, 1410 AB Naarden
+                                  The Netherlands
+                                  Fax:  02159-47525
+
+                          and to:
+
+                                  ABN AMRO Ventures BV
+                                  Foppingadreef 22, Amsterdam
+                                  The Netherlands
+                                  Fax:  020-628-7822
+
+                          and to:
+
+                                  Mr. Martin Schuler
+                                  Kirchtalstrasse 27
+                                  CH-5703
+                                  Seon, Switzerland
+                                  No telefax notices.
+
+                          with a required copy to:
+
+                                  Dr. jur. Hans-Joachim Dolemeyer
+                                  Kaiser-Friedrich-Promenade 43
+                                  61348 Bad Homburg v.d.H.
+                                  Germany
+                                  Fax:  06172-27614
+
+
+
+
+
+                                      -14-
+<PAGE>   18
+If to any Seller:
+
+                                  K-Tron Holding AG
+                                  c/o Schurmann, Rausch & Rohrer
+                                  Limmatquai #3
+                                  CH-8001
+                                  Zurich, Switzerland
+                                  Attention:  Dr. Hans Jurg Scheurmann
+                                  Fax:  1-262-50-05
+
+                          with required copies to:
+
+                                  K-Tron International, Inc.
+                                  Routes 55 and 553
+                                  Pitman, NJ 08071
+                                  U.S.A.
+                                  Attention: Chairman
+                                  Fax:  609-256-3281
+
+                          and to:
+
+                                  Morgan, Lewis & Bockius
+                                  2000 One Logan Square
+                                  Philadelphia, PA 19103
+                                  U.S.A.
+                                  Attention: Edward B. Cloues, II
+                                  Fax:  215-963-5299
+
+                          and to:
+
+                                  Morgan, Lewis & Bockius
+                                  Siesmayerstrasse 44
+                                  60323 Frankfurt/Main
+                                  Germany
+                                  Attention:  Christopher C. King
+                                  Fax:  (49-69) 17-27-44
+
+
+         All such notices shall be deemed to have been given on the date
+delivered, or seven days after the date mailed in the manner provided above.
+
+         9.6     SEVERABILITY.  If any provision of this Agreement or the
+application thereof to any person or circumstance is held invalid or
+unenforceable in any jurisdiction, the remainder of this Agreement, and the
+application of such provision to such person or circumstance in any other
+jurisdiction or to other persons or circumstances in any jurisdiction, shall
+not be affected thereby, and to this end the provisions of this Agreement shall
+be severable.
+
+
+
+
+
+                                      -15-
+<PAGE>   19
+         9.7     STATEMENTS IN SCHEDULES.  For purposes of this Agreement any
+disclosure made by Sellers in any one Schedule and the documents referred to
+thereon shall be deemed to be a disclosure for purposes of any of the
+representations and warranties given in SECTION 5 hereof.
+
+
+         9.8     GOVERNING LAW; JURISDICTION; ARBITRATION.  This Agreement
+shall be construed and interpreted in accordance with the laws of Germany.  Any
+dispute, controversy or claim arising out of or relating to this Agreement, or
+the breach, termination or invalidity thereof, shall be exclusively settled by
+arbitration in accordance with the provisions set forth in a separate
+Arbitration Agreement.
+
+
+
+
+
+                                      -16-
+<PAGE>   20
+IN WITNESS WHEREOF, this Agreement has been executed on the day and year first
+above written.
+
+
+
+K-TRON HOLDING AG
+
+
+/s/ Johannes Wirth     
+- -----------------------
+Johannes Wirth
+(by proxy)
+
+
+K-TRON DEUTSCHLAND GmbH
+
+
+/s/ Johannes Wirth     
+- -----------------------
+Johannes Wirth
+(by proxy)
+
+
+DR. DoLEMEYER GmbH
+
+
+/s/ Martin W. Schuler             /s/ Dr. Wolfgang Lenoir
+- -----------------------           -----------------------
+Martin W. Schuler                 Dr. Wolfgang Lenoir
+(by proxy)                        (by proxy)
+
+
+
+
+
+                                      -17-
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.1
+<SEQUENCE>3
+<DESCRIPTION>FORBEARANCE AGREEMENT & THIRD AMENDMENT TO CREDIT
+<TEXT>
+
+<PAGE>   1
+
+
+                   FORBEARANCE AGREEMENT AND THIRD AMENDMENT
+                  TO REVOLVING CREDIT AND TERM LOAN AGREEMENT
+
+
+                 This Forbearance Agreement and Third Amendment to Revolving
+Credit and Term Loan Agreement (the "Forbearance Agreement and Third
+Amendment") dated June 22, 1995, is by and among K-Tron International, Inc., a
+New Jersey corporation ("K-Tron International") and K-Tron America, Inc.
+(formerly known as K-Tron North America, Inc.), a Delaware corporation ("K-Tron
+America") (each individually, a "Borrower" and collectively, the "Borrowers");
+K-Tron Technologies, Inc., a Delaware corporation ("K-Tron Technologies"),
+K-Tron Investment Co., a Delaware corporation ("K-Tron Investment"), and K-Tron
+Patent, Inc., a Delaware corporation ("K-Tron Patent") (each individually a
+"Surety" and collectively the "Sureties") (the Borrowers and Sureties are
+collectively referred to herein as the "Obligors"); First Fidelity Bank, N.A.
+(successor-by-merger to First Fidelity Bank, N.A., New Jersey) ("FFB"), PNC
+Bank, N.A. ("PNC"), and United Jersey Bank (successor-by-merger to United
+Jersey Bank/South, N.A.)("UJB") (each individually, a "Bank" and collectively,
+the "Banks"); and FFB as agent for the Banks (FFB in such capacity, the
+"Agent").
+
+                                   BACKGROUND
+
+                 1.       The Borrowers, the Banks and the Agent have entered
+into that certain Revolving Credit and Term Loan Agreement dated June 28, 1993,
+as amended by that certain First Amendment to Loan Agreement dated as of June
+30, 1994, and as further amended by that certain Forbearance Agreement and
+Second Amendment to Revolving Credit and Term Loan Agreement dated April 28,
+1995 (the "Forbearance Agreement and Second Amendment") (collectively, the
+"Existing Loan Agreement").
+
+                 2.       K-Tron Technologies has executed that certain
+Suretyship Agreement dated June 28, 1993 in favor of the Agent (the "1993
+Suretyship Agreement") pursuant to which the Surety guaranteed and became the
+surety for the Guaranteed Obligations (as such term is defined in the 1993
+Suretyship Agreement).
+
+                 3.       The Borrowers notified the Banks in December, 1994
+that they were projecting certain financial covenant defaults under the
+Existing Loan Agreement to occur as of December 31, 1994.
+
+                 4.       Events of Default under the Existing Loan Agreement
+have occurred, are now continuing and the Borrowers believe will continue
+throughout the Forbearance Period (defined hereafter) under the Existing Loan
+Agreement as a result of, inter alia, the Borrowers' failure to comply with
+various financial covenants in the Existing Loan Agreement as more fully
+
+                                      1
+<PAGE>   2
+described on Exhibit 3.1 to the Forbearance Agreement and Second Amendment
+(collectively, the "Existing Defaults").
+
+                 5.       Pursuant to the Forbearance Agreement and Second
+Amendment, the Agent and the Banks agreed to forbear from exercising their
+rights under the Existing Loan Agreement and the other Loan Documents, upon the
+terms and conditions contained therein, until not later than July 31, 1995.
+
+                 6.       The Term Loan (as such term is defined in the
+Existing Loan Agreement) matures on July 31, 1995, and the Obligors believe
+that they may not be able to pay the Term Loan in full upon its maturity, which
+would cause an additional Event of Default under the Existing Loan Agreement
+and the other Loan Documents.
+
+                 7.       The Obligors have informed the Banks that they intend
+to sell an indirect subsidiary of K-Tron International, Colortronic GmbH
+("Colortronic") and certain patents and trademarks currently licensed to
+Colortronic and pay a portion of the proceeds of such sale to the Banks.
+
+                 8.       The Agent and the Banks have agreed to continue to
+forbear for a limited period of time, from exercising their rights under the
+Existing Loan Agreement and the other Loan Documents upon the terms and
+conditions contained herein.
+
+                 NOW, THEREFORE, incorporating the Background herein, and for
+good and valuable consideration, the receipt and sufficiency of which is hereby
+acknowledged, and intending to be legally bound hereby, the Borrowers, the
+Sureties, the Banks and the Agent, agree as follows:
+
+                         ARTICLE 1 - CAPITALIZED TERMS
+
+                 All capitalized terms used herein and not otherwise defined
+herein shall have the meanings given to such terms in the Existing Loan
+Agreement as amended by the provisions of Article 2 of this Forbearance
+Agreement and Third Amendment.
+
+                    ARTICLE 2 - AMENDMENTS TO LOAN AGREEMENT
+
+                 2.1      Amendments.  The Existing Loan Agreement is hereby
+amended as follows:
+
+                          (a)     The following defined terms and their
+respective definitions in Section 1.1 of the Existing Loan Agreement are hereby
+amended and restated in their entirety as follows:
+
+                          "Forbearance Agreement" means collectively  the
+                 Forbearance Agreement and
+
+
+
+
+
+                                    - 2 -
+<PAGE>   3
+                 Second Amendment and the Forbearance Agreement and Third 
+                 Amendment.
+
+                          (b)     Section 1.1 of the Existing Loan Agreement is
+hereby amended by adding the following new defined terms in the appropriate
+alphabetical order:
+
+                          "Forbearance Agreement and Second Amendment" means
+                 that certain Forbearance Agreement and Second Amendment to
+                 Revolving Credit and Term Loan Agreement dated April 28, 1995
+                 by and among the Borrowers, the Sureties, the Banks and the
+                 Agent, together with all amendments and modifications thereto.
+
+                          "Forbearance Agreement and Third Amendment" means
+                 that certain Forbearance Agreement and Third Amendment to
+                 Revolving Credit and Term Loan Agreement dated June 22, 1995
+                 by and among the Borrowers, the Sureties, the Banks and the
+                 Agent, together with all amendments and modifications thereto.
+
+                          (c)     Section 2.2 of the Loan Agreement is hereby
+amended and restated in its entirety as follows:
+
+                          2.2. Interest on the Revolving Credit Loans.  The
+                 unpaid principal amount of the Revolving Credit Loans shall
+                 bear interest (i) from and after June 28, 1993 through June
+                 30, 1994 at an annual rate equal to the Base Rate plus  1/4%;
+                 (ii) from and after July 1, 1994 through April 30, 1995 at an
+                 annual rate equal to the Base Rate plus  3/4%; (iii) from and
+                 after May 1, 1995 until June 22, 1995 at an annual rate equal
+                 to the Base Rate plus 1%; and (iv) from and after June 23,
+                 1995 until due at an annual rate equal to the Base Rate plus
+                 2% (subject to possible reduction in such interest rate as
+                 provided in Section 4.22 of the Forbearance Agreement and
+                 Third Amendment or increase in such rate upon an Event of
+                 Default).  Such interest shall be payable (a) monthly in
+                 arrears, on the first day of each month until the Revolving
+                 Credit Loans are repaid in full, and (b) on the date the
+                 Revolving Credit Loans are repaid in full.
+
+                 (d)      The first sentence of Section 2.14(A) is hereby
+amended and restated in its entirety as follows:
+
+
+
+
+
+                                    - 3 -
+<PAGE>   4
+                 (A)      Rate.  During the Base Rate Period, K-Tron America
+                          shall pay interest on the unpaid principal amount of
+                          the Term Loan (i) from and after June 28, 1993
+                          through June 30, 1994 at the Base Rate plus  1/2%;
+                          (ii) from and after July 1, 1994 until June 22, 1995
+                          at the Base Rate plus 1%; and (iii) from and after
+                          June 23, 1995 until payment in full of the Term Loan
+                          at the Base Rate plus 2% (subject to possible
+                          reduction in such interest rate as provided in
+                          Section 4.22 of the Forbearance Agreement and Second
+                          Amendment or increase in such rate upon an Event of
+                          Default).
+
+                 (e)      Section 11.2 of the Existing Loan Agreement is hereby
+amended by deleting the specified addressee for PNC, only and replacing such
+addressee with William R. Breisch, Vice President.
+
+                 2.2  No Other Amendments.  Except as expressly set forth in
+Article 2 hereof, the Existing Loan Agreement shall remain in full force and
+effect and the Borrowers shall comply with all of the terms, covenants and
+provisions set forth in the Existing Loan Agreement, as amended hereby.
+
+
+                          ARTICLE 3 - ACKNOWLEDGEMENTS
+
+                 3.1          Acknowledgement of Defaults; Existing Loan
+Documents; Waiver of Defenses.  The Obligors acknowledge and agree that:
+
+                              (a)     the Existing Defaults as enumerated in
+Exhibit 3.1 attached to the Forbearance Agreement and Second Amendment
+currently exist;
+
+                              (b)     the Existing Defaults are material in
+nature;
+
+
+                              (c)     as a result of the Existing Defaults, the
+Agent, with the consent of the Required Banks, currently has the right to
+demand that all amounts outstanding under the Loan Documents are due and owing
+immediately to the Banks by the Obligors;
+
+                              (d)     the Agent and the Banks are presently
+entitled to exercise their remedies under the Loan Documents and applicable
+law;
+
+                              (e)     the Loan Documents are valid and
+enforceable against those Obligors which are parties thereto in
+
+
+
+
+
+                                    - 4 -
+<PAGE>   5
+every respect, and all of the terms and conditions thereof are binding upon
+such Obligors; and
+
+                              (f)     to the extent that any defenses, set-offs
+or counterclaims exist as of this date, the Obligors hereby waive any and all
+such defenses, set-offs, and counterclaims which they or any of them may have
+to the enforcement by the Agent and/or the Banks of the Loan Documents and to
+the exercise by the Agent and/or the Banks of their rights and remedies under
+the Loan Documents and/or applicable law.
+
+                 3.2          Acknowledgment of Indebtedness.  The Obligors
+acknowledge and agree that as of June 20, 1995:
+
+                 (a) the Borrowers are indebted and liable to the Agent and the
+Banks under the Revolving Credit Loans in the principal amount of:  Ten Million
+Three Hundred Fifty Thousand Dollars ($10,350,000) and interest in the amount
+of $53,259.38 for a total of $10,403,259.38, and K-Tron America is indebted and
+liable to the Agent and the Banks under the Term Loan in the principal amount
+of $3,127,780 and interest in the amount of $16,507.73 for a total of
+$3,144,287.73 together with the Agent's and the Banks' reasonable fees, costs
+and expenses (collectively, the "Current Outstanding Obligations").
+
+                 3.3          Acknowledgement of Liens, Collateral and
+Priority.  The Obligors acknowledge and agree that:
+
+                 (a)  FFB, for itself and as Agent for the Banks, has a duly
+recorded, valid, first-priority mortgage lien on certain real property of
+K-Tron America, as more fully described in the Mortgage, as amended by that
+certain First Amendment of Mortgage and Security Agreement dated April 28, 1995
+between K-Tron America and the Agent (the "Mortgage Amendment"); the Mortgage
+being recorded on July 30, 1993, with the Clerk's Office of Gloucester County,
+New Jersey, at Book 2433, page 292.
+
+                 (b)  Pursuant to the Mortgage, the Agent also has duly
+perfected, first-priority security interests in and liens on certain personal
+property of K-Tron America, including fixtures.
+
+                 (c)  FFB for itself and as Agent for the Banks, also has duly
+perfected, first-priority security interests in and liens on all of the
+property and assets of the Obligors, as more fully described in the Security
+Agreements.
+
+                 (d)  The Mortgage as amended by the Mortgage Amendment and the
+collateral described in the 1994 Security Agreement as amended shall secure all
+of the Obligations (as hereinafter defined) of K-Tron America; and all of the
+collateral described in the Security Agreements and the other Loan Documents
+and Supplemental Loan Documents granted, pledged or transferred by
+
+
+
+
+
+                                    - 5 -
+<PAGE>   6
+any Obligor in favor of the Agent and/or the Banks ("Existing Collateral")
+shall secure, inter alia, all of the Obligations (hereinafter defined) of the
+Obligors. For purposes of this Agreement, the word "Obligations" shall mean any
+and all obligations, liabilities and indebtedness of each Obligor to the Agent
+and/or the Banks of every kind and description, direct and indirect, absolute
+and contingent, sole, joint, several, or joint and several, primary or
+secondary, due or to become due, now existing or hereafter arising, regardless
+of how they arise or by what agreement or instrument they may be evidenced or
+whether evidenced by any agreement or instrument and includes obligations to
+perform acts and refrain from taking actions as well as obligations to pay
+money and also includes all indebtedness, liabilities and obligations of the
+Obligors or any Obligor to the Banks evidenced by or arising under the
+Supplemental Loan Documents and/or the existing Loan Documents as they may be
+amended by the Supplemental Loan Documents.
+
+                 3.4          Reaffirmation of Security Interests.  The
+Obligors hereby reaffirm their prior grant and conveyance to the Agent for the
+benefit of the Banks of a continuing security interest in and lien on all
+Existing Collateral (except for such collateral that will be released pursuant
+to Section 5.4 hereof) and reaffirm that the Loan Documents are legal, valid
+and binding in every respect against such Obligors that are parties thereto.
+Each Obligor hereby confirms, ratifies, reaffirms and acknowledges that the
+Loan Documents remain in full force and effect except as the Existing Loan
+Agreement is expressly amended hereby.  Without limiting the generality of the
+foregoing, each Surety hereby confirms, ratifies, reaffirms and acknowledges
+that each Suretyship Agreement remains in full force and effect; and all
+representations and warranties set forth in each Suretyship Agreement are true
+and correct as of the date hereof, and there are no defaults thereunder.
+
+
+                        ARTICLE 4 - OBLIGORS' COVENANTS
+
+                 In the event of any inconsistency between this Article 4 and
+Article 4 of the Forbearance Agreement and Second Amendment, this Article 4
+shall govern.  The Obligors covenant and agree as follows from the date hereof
+and until the satisfaction of their Obligations, unless the Agent shall
+otherwise consent in writing:
+
+                 4.1          Payments During the Forbearance Period.
+
+                              (a)     At all times, from and after the date of
+this Agreement, the Borrowers shall continue to pay principal and accrued
+interest (i) on the Revolving Credit Loans at the applicable interest rates and
+on the dates as provided in the Existing Loan Agreement, as amended hereby; and
+(ii) on the Term
+
+
+
+
+
+                                    - 6 -
+<PAGE>   7
+Loan as follows:  principal in the amount of $50,000 per month on the first day
+of each successive month beginning on July 1, 1995 together with accrued
+interest as provided in the Loan Agreement.
+
+                              (b)     The Obligors shall pay to the Banks the
+sum of $3,450,000, as provided in Section 6.1(c) of this Forbearance Agreement
+and Third Amendment, to be applied as a permanent reduction to the Revolving
+Credit Loans.
+
+                              (c)     K-Tron America shall sell its Colortronic
+inventory, collect its accounts receivable relating to the Colortronic
+inventory and remit the gross proceeds thereof, as and when received by K-Tron
+America, to the Agent for the benefit of the Banks.  Without limiting the
+generality of the foregoing, the Obligors shall pay to the Agent for the
+benefit of the Banks a minimum amount of not less than $1,500,000 payable in
+installments of $400,000 on or before August 15, 1995, $500,000 on or before
+October 15, 1995, and $600,000 on or before December 15, 1995; which payments
+shall be applied as a permanent reduction to such Obligations as the Banks may
+determine in their sole discretion.
+
+                              (d)     The Obligors shall pay to the Agent for
+the benefit of the Banks all state and federal income tax refunds as and when
+received by the Obligors to be applied as a permanent reduction to such
+Obligations as the Banks may determine in their sole discretion.
+
+                 4.2          Payment of the Agent's and Banks' Attorneys'
+Fees, Costs and Expenses.  The Borrowers shall pay on or before the date
+hereof, and thereafter promptly after demand therefor, all reasonable
+attorneys' and other professionals' fees, and out-of-pocket costs and expenses
+incurred by the Agent and the Banks in connection with the negotiation,
+preparation and enforcement of the Loan Documents including, without
+limitation, this Forbearance Agreement and Third Amendment Loan Documents.
+
+                 4.3          Existing Covenants.  Unless otherwise provided
+herein, the Borrowers shall comply with all of the covenants set forth in the
+Loan Documents.
+
+                 4.4          Repayment of Term Loan and Revolving Credit
+Loans.  On or before the expiration of the Forbearance Period (as defined in
+Section 5.1 hereof), the Obligors shall pay to the Agent for the benefit of the
+Banks all outstanding principal and accrued interest on the Term Loan and the
+Revolving Credit Loans.
+
+                 4.5          No Transfers of Assets without Agent's Written
+Consent.  The Obligors shall not convey, transfer, consign, pledge or grant
+liens on or security interests in any of their respective assets to any entity
+other than the Banks or the Agent except: (a) transfers permitted by the
+Security Agreements; (b)
+
+
+
+
+
+                                    - 7 -
+<PAGE>   8
+purchase money liens on equipment granted for purchases of such equipment in
+the ordinary course of Obligors' respective businesses (and refinancings of
+same); and (c) K-Tron America's sale of Colortronic inventory, the proceeds of
+which shall be paid to the Banks in the amounts provided in Section 4.1(c)
+hereof.
+
+                 4.6          No Additional Debt.  No Obligor shall incur
+additional debt other than debt to the Banks, the Agent and/or trade debt or
+equipment leases in the ordinary course of such Obligor's business.
+
+                 4.7          Other Payments.  The Obligors shall not make any
+payments during the Forbearance Period, as hereinafter defined, to any bank or
+financial institution other than the Agent or the Banks on account of
+indebtedness for money borrowed.
+
+                 4.8          Cash Flow Forecast.  On or before July 31, 1995,
+the Borrowers shall deliver to the Agent and the Banks their detailed, weekly
+cash flow forecast and their detailed monthly and quarterly cash flow forecast
+for the Forbearance Period together with a detailed description of all
+assumptions utilized in formulating such forecasts (collectively, the
+"Forecast"). The Forecast shall be prepared for K-Tron America separately and
+also for the Obligors combined, and shall be acceptable to the Banks.
+
+                 4.9          Actual to Projected Cash Flow.  On the second
+business day of each week during the Forbearance Period, the Borrowers shall
+deliver to the Banks a comparison of their actual cash flow to the Forecast (or
+any prior forecasts delivered to the Banks, as applicable) for the prior week,
+together with any necessary revisions or corrections to the Forecast (or such
+prior forecast, as applicable).
+
+                 4.10         Weekly Certification.  On the second business day
+of each week during the Forbearance Period, the Borrowers shall deliver to the
+Banks the information described on Exhibit 4.10 together with a certification
+by each Borrower's chief financial officer or by the chief financial officer of
+K-Tron International (or in such officer's absence, any other appropriate
+officer) for all Borrowers as to the truth and accuracy thereof.
+
+                 4.11         Assignment of Income Tax Refunds.  The Obligors
+represent and warrant to the Banks that they file their federal income tax
+returns on a consolidated basis and they are entitled to a federal income tax
+refund for the year ending December 31, 1994 of approximately $442,000 (of
+which they received approximately $42,000 in February, 1995).  Prior to filing
+any tax return requesting a refund, including, without limitation, for the year
+ending December 31, 1994 or thereafter until the
+
+
+
+
+
+                                    - 8 -
+<PAGE>   9
+Obligations are satisfied, K-Tron International and the other Obligors shall
+notify the Agent of its or their intent to file a tax return requesting such
+refund at least one week before filing such a return so that the assignment of
+its income tax refund (and any other necessary or appropriate papers) may be
+attached to such tax return prior to the filing thereof.  The Obligors shall
+deliver to the Agent, immediately upon receipt thereof, any payment received
+(with any necessary endorsement) pursuant to any income tax refund to be
+applied to permanently reduce such Obligations as the Banks may determine in
+their sole discretion; and prior to delivery thereof to the Agent, any such
+income tax refund shall be held in trust for the benefit of the Agent and the
+Banks.
+
+                 4.12         Financial Information; Tax Returns.  Upon the
+filing of any document with the Securities Exchange Commission or any income
+tax return or quarterly income tax filing with any governmental agency,
+authority or body, the Obligors shall simultaneously deliver to the Agent and
+the Banks copies of such documents, returns or filings.
+
+                 4.13         Accounts Receivable from Foreign Affiliates.  The
+Borrowers: (i) represent and warrant to the Banks that their net aggregate
+accounts receivable due from any and all of their foreign Affiliates was
+$870,000 as of June 3, 1995; (ii) agree that after June 30, 1995, they shall
+cause their foreign Affiliates to pay to the Borrowers (or otherwise reduce)
+within 30 days of the end of each fiscal month, the amount of any net
+incremental aggregate accounts receivable in excess of $590,000 due from the
+Borrowers' foreign Affiliates as of the end of such fiscal month ("Excess
+A/R"); provided however that: (a) if such Excess A/R is greater than $150,000
+and is not paid by the foreign Affiliates (or otherwise reduced to below
+$150,000) within such 30-day-period, then within such 30-day-period, the
+Borrowers shall pay the remaining amount of such Excess A/R over $150,000 to
+the Agent for the benefit of the Banks to be applied to the Obligations); and
+(b) if such Excess A/R is equal to $150,000 or less (or has been reduced to
+such level during the initial 30 day period) and is not paid by the foreign
+Affiliates (or otherwise reduced) within 60 days of the end of such fiscal
+month, then within such 60 day period, the Borrowers shall pay the amount of
+such Excess A/R to the Agent for the benefit of the Banks to be applied to the
+Obligations.  The Borrowers further agree that: (i) any amounts that may
+hereafter become due from K-Tron America and/or K-Tron International to their
+foreign Affiliates shall be netted (i.e. setoff) against accounts receivable
+due from their foreign Affiliates; and (ii) they shall deliver to the Agent for
+the benefit of the Banks, to be applied to the Obligations, an amount equal to
+any reduction in such net accounts receivable from foreign Affiliates as of the
+end of each month below $590,000 less any prior amounts paid pursuant to this
+
+
+
+
+
+                                    - 9 -
+<PAGE>   10
+clause (but not more than $590,000 in the aggregate) within 30 days of the end
+of such month.
+
+                 4.14         Third Party Accounts Payable.  Third party
+accounts payable of K-Tron America shall not exceed more than: (i) $4.0 million
+at any time on or before November 30, 1995; or (ii) $3.5 million at any time on
+or after December 1, 1995.  For purposes of this section, any commissions that
+are not paid when due shall be included in K-Tron America's accounts payable.
+
+                 4.15         No Payments to Affiliates Without Fair
+Consideration.  No Obligor shall make any payments or transfers to any of its
+Affiliates unless fair and reasonable consideration is received therefor and
+such Affiliate is not liable to such Obligor for any accounts receivable or
+other amounts due to such Obligor.
+
+                 4.16         Liability for Corporate Overhead.  K-Tron America
+shall not be liable to K-Tron International for more than its proportionate
+share of corporate expenses based upon K-Tron International's Corporate Expense
+Budgets for 1995 and 1996, which shall be subject to review of the Banks as
+provided in Section 6.2 hereof.  K-Tron International shall use its best
+efforts to cause its European Affiliates to pay their share of monthly
+corporate expenses (including all management fees) each month within 30 days of
+the end of each month.  K-Tron America shall not pay more than its fair share
+of K-Tron International's research and development and international marketing
+expenditures on an interim and annual basis; and in any event K-Tron America
+shall not pay more than $1,350,000 during the fiscal year ending December 31,
+1995 or $325,000 for the fiscal quarter ending March 31, 1996 for research and
+development and international marketing expenditures.  Within 45 days of the
+end of each calendar quarter, K-Tron America shall provide to the Banks a
+report of its year to date and quarterly research and development and
+international marketing expenditures.
+
+                 4.17         Inventory Purchases.  K-Tron America shall not
+purchase more inventory than is reasonably required to fill orders that have
+been accepted or budgeted in the Forecast (or any prior forecast delivered to
+the Banks, as applicable) or purchase inventory from any Affiliate for a price
+that is higher than prices for comparable products supplied by entities that
+are not Affiliates.
+
+                 4.18         Deposit Accounts.  The Obligors shall maintain
+all of their deposit and other accounts at FFB.
+
+                 4.19         Execution of Other Documents.  At the Agent's
+request, the Obligors shall execute and deliver to the Agent such other
+documents and agreements which the Agent, in its sole and reasonable
+discretion, deems necessary or convenient to carry out
+
+
+
+
+
+                                    - 10 -
+<PAGE>   11
+the terms of this Forbearance Agreement and Third Amendment or the other Loan
+Documents.
+
+                 4.20         Patent Licenses.  K-Tron Technologies shall
+obtain (as licensee) royalty-free, perpetual, transferable licenses of the
+Lehmann and Rohr patents described on Exhibit 5.4 hereto.  K-Tron Technologies
+hereby grants to the Agent for the benefit of the Banks a security interest in
+and lien on such now owned and hereafter acquired licenses to secure the
+Obligations.
+
+                 4.21         Lock Box.  The Obligors shall enter into lock box
+agreement(s), in form and substance satisfactory to the Agent, with the Agent
+pursuant to which the Obligors shall continue to use their best efforts to
+cause their customers to remit payment directly to a lock box maintained by the
+Agent.
+
+                 4.22         Interest Rate Reduction.  Upon the payment in
+full of all amounts as provided in Section 4.1(b) and the second sentence in
+Section 4.1(c) and if no Event of Default has occurred (unless the same has
+been waived by the Banks), the interest rates applicable to the Loans shall be
+reduced to the Base Rate plus 1 1/2%.
+
+                 4.23         Net Worth.  Obligors shall maintain a
+consolidated net worth as of the end of each fiscal quarter commencing with the
+second quarter of 1995 in an amount that is not less than $5,000,000 after: (i)
+eliminating the impact of foreign exchange rate changes after June 30, 1995 in
+the equity section of the balance sheet (as identified by the line item
+entitled "Cumulative Translation Adjustment"); and (ii) eliminating the
+incremental impact of any losses recognized after June 3, 1995 derived from or
+attributable to the sale of K-Tron France Sarl and Hasler Freres Brazil Ind.e
+com Ltda.  Obligors must deliver the calculation of net worth to the Agent
+within forty-five (45) days after the end of each of the first three quarters
+of each fiscal year of the Borrowers and within sixty (60) days of the end of
+the last quarter of each fiscal year of the Obligors.
+
+                 4.24         Inventory.  Obligors shall maintain their
+inventory such that their consolidated level of inventory shall not exceed
+$9,500,000 at the end of the third fiscal quarter of 1995, and $9,000,000 at
+the end of each subsequent fiscal quarter.  Obligors must deliver a statement
+of the consolidated inventory level to the Agent within forty-five (45) days
+after the end of each of the first three quarters of each fiscal year of the
+Borrowers and within sixty (60) days of the end of the last quarter of each
+fiscal year of the Obligors.
+
+
+
+
+
+                                    - 11 -
+<PAGE>   12
+                          ARTICLE 5 - BANK'S COVENANTS
+
+                 5.1          Forbearance.  The Agent and the Banks shall
+forbear in the exercise of their rights and remedies (including, without
+limitation, the imposition of default rate interest) under the Loan Documents
+and applicable law from the date hereof through the earlier to occur of
+February 28, 1996 or an Event of Default, as defined below, other than the
+Existing Defaults, which Existing Defaults the Obligors expect to continue
+indefinitely (the "Forbearance Period").
+
+                 5.2          Permitted Borrowing.  During the Forbearance
+Period, the Borrowers shall continue to be permitted to borrow amounts under
+Section 2.1 of the Loan Agreement, as amended by this Forbearance Agreement and
+Third Amendment.
+
+                 5.3          Revolving Credit Commitments.  Upon the Banks'
+receipt of the payments specified in Section 4.1(b) hereof, the Revolving
+Credit Commitments shall be permanently reduced from $10,350,000 to $6,900,000.
+The Revolving Credit Commitments shall be further permanently reduced by the
+application of payments received by the Banks pursuant to Section 4.1(c) and/or
+(d) hereof, as determined by the Banks in their sole discretion.
+
+                 5.4          Release of Liens.  Effective automatically upon
+satisfaction by the Obligors of the conditions precedent to the effectiveness
+of this Forbearance Agreement and Third Amendment set forth in Section 6.1
+hereof, the Agent on behalf of the Banks hereby releases the Banks' security
+interests in and liens on only the patents and trademarks described on Exhibit
+5.4 attached hereto and made a part hereof.  Upon satisfaction by the Obligors
+of the conditions precedent to the effectiveness of this Forbearance Agreement
+and Third Amendment set forth in Section 6.1 hereof, and upon receipt of
+confirmation from the United States Patent and Trademark Office ("P.T.O.") that
+notice of the Banks' liens and security interests in the aforementioned patents
+and trademarks has been recorded, the Agent shall promptly send the P.T.O.
+notice of the release of the Banks' liens and security interests against such
+United States patents and trademarks, or applications therefor, described in
+Exhibit 5.4 attached hereto.  The Agent shall promptly provide the Obligors
+with a copy of such notices and all confirmations thereof received from the
+P.T.O.
+
+
+                ARTICLE 6 - CONDITIONS PRECEDENT AND SUBSEQUENT
+
+                 The Agent's and Banks' obligations hereunder, are conditioned
+upon the fulfillment by the Obligors of the following conditions precedent and
+subsequent:
+
+                 6.1          Conditions Precedent to Closing.  The
+effectiveness of this Forbearance Agreement and Third Amendment
+
+
+
+
+
+                                    - 12 -
+<PAGE>   13
+is expressly conditioned upon satisfaction of all of the conditions set forth
+in Section 6.1 hereof, and the failure of the Obligors to satisfy all such
+conditions shall cause this Forbearance Agreement and Third Amendment to be
+null and void.  The Obligors shall deliver or cause to be delivered on or
+before June 30, 1995 to the Agent and the Banks, in form and substance
+satisfactory to the Agent and the Banks, the following:
+
+                              (a)     This Forbearance Agreement and Third
+Amendment duly executed by the Obligors, which condition the Banks acknowledge
+has been satisfied;
+
+                              (b)     Opinion of Obligors' counsel, which
+condition the Banks acknowledge has been satisfied;
+
+                              (c)     The sum of $3,450,000 in immediately
+available funds which constitutes proceeds of the Obligors' sale of the patents
+and trademark described on Exhibit 5.4 and proceeds of the Obligors'
+intercompany accounts receivable;
+
+                              (d)     The Obligors' best estimate of their
+operating income for the period of January 1, 1995 through June 30, 1995 and
+the period of March 1, 1995 through June 30, 1995, which condition the Banks
+acknowledge has been satisfied;
+
+                              (e)     The Obligors' pro-forma balance sheet
+describing their assets, liabilities and equity following the sale of
+Colortronic, which condition the Banks acknowledge has been satisfied;
+
+                              (f)     An organization chart of K-Tron
+International and its direct and indirect subsidiaries, which condition the
+Banks acknowledge has been satisfied; and
+
+                              (g)     The Obligors' allocation of management
+fees, corporate overhead and other shared costs among the direct and indirect
+subsidiaries of K-Tron International, which condition the Banks acknowledge has
+been satisfied.
+
+                 6.2          Conditions Subsequent to Closing.  The Obligors
+shall deliver or shall cause to be delivered to the Agent and the Banks, the
+following:
+
+                              (a)     On or before July 3, 1995, Certificates
+of Incumbency executed by the Secretary or Assistant Secretary of each Obligor,
+dated as of the date of this Agreement, certifying the incumbency and signature
+of the officers of each Obligor executing this Agreement and any other
+documents to be delivered pursuant hereto, together with evidence of the
+incumbency of such Secretary;
+
+
+
+
+
+                                    - 13 -
+<PAGE>   14
+                              (b)     On or before July 3, 1995, Corporate
+Resolutions for each Obligor;
+
+                              (c)     On or before July 31, 1995, the Borrowers'
+Forecast;
+
+                              (d)     On or before July 31, 1995, K-Tron
+International's allocated expense budget for the second half of fiscal year
+1995 and the first half of fiscal year 1996 (including detailed corporate
+overhead, management fees, research and development costs, marketing expenses
+and the procedure for allocating corporate expenses among the various U.S. and
+foreign Affiliates and/or subsidiaries of K-Tron International;
+
+                              (e)     On or before June 30, 1995, K-Tron
+America will implement a continuing, acceptable netting procedure that will
+reduce the foreign exchange risk on K-Tron America's purchases from and sales
+to its foreign Affiliates (which shall be subject to the Bank's review and
+approval);
+
+                              (f)     On or before July 31, 1995, copies of the
+Obligors' formulas, calculations and/or agreements for determining management
+and licensing fees, reflecting the sale of Colortronic, which shall be subject
+to the Bank's review and approval;
+
+                              (g)     As soon as Obligors become aware of any
+material changes to any of the foregoing after delivery thereof to the Banks,
+the Obligors shall so advise the Banks; and
+
+                              (h)     On or before June 26, 1995, the most
+current aged listing of KTA's accounts receivable related to the sale of
+Colortronic products.
+
+
+                  ARTICLE 7 - GENERAL RELEASE BY THE OBLIGORS;
+                           RELIEF FROM STAY; WAIVERS           
+
+                 7.1          General Release.  Each Obligor for itself and all
+persons and entities claiming by, through or under such Obligor (collectively,
+the "Releasors") hereby jointly and severally unconditionally remise, release
+and forever discharge, and reaffirm their prior release of, the Agent and each
+Bank and their past, present and future officers, directors, employees, agents,
+attorneys, parent, Affiliates, subsidiaries and the heirs, executors, personal
+administrators, successors and assigns, as applicable, of any such persons and
+entities (collectively, the "Releasees"), of and from any and all actions,
+causes of action, suits, claims, counterclaims, defenses, setoffs, liabilities,
+damages and demands whatsoever, whether known or unknown, at law or in equity,
+direct or indirect, if any, which any of the Releasors ever had, now has, claim
+to have
+
+
+
+
+
+                                    - 14 -
+<PAGE>   15
+had, now claim to have or hereafter can, shall or may claim to have against any
+of the Releasees upon or by reason of any matter, cause or thing, from the
+beginning of the world to the date hereof arising from or relating to the Loan
+Documents, the Supplemental Loan Documents, this Forbearance Agreement and
+Third Amendment and the related transactions, obligations, and business
+dealings between the Agent, on behalf of the Banks, and the Obligors.  The
+Obligors warrant and represent that they have not assigned, pledged,
+hypothecated and/or otherwise divested themselves and/or encumbered all or any
+part of the claims being released hereby and that they hereby agree to
+indemnify and hold harmless any and all of the Releasees against whom any such
+claim so assigned, pledged, hypothecated, divested and/or encumbered is
+asserted.
+
+                 7.2          Relief from the Automatic Stay.  In the event
+that any Obligor shall:  (i) file with any bankruptcy court or be the subject
+of any petition under Title 11 of the U.S. Code, as amended (the "Bankruptcy
+Code"), (ii) be the subject of any order for relief issued under the Bankruptcy
+Code, (iii) file or be the subject of any petition seeking any reorganization,
+arrangement, composition, readjustment, liquidation, dissolution or similar
+relief under any present or future foreign, federal or state act or law
+relating to bankruptcy, insolvency or other relief from creditors, (iv) have
+sought or consented to or acquiesced in the appointment of any trustee,
+receiver, conservator or liquidator, or (v) be the subject of any order,
+judgment or decree entered by any court of competent jurisdiction approving a
+petition filed against such party for any reorganization, arrangement,
+composition, readjustment, liquidation, dissolution or similar relief under any
+present or future federal or state act or law relating to bankruptcy,
+insolvency or other relief from creditors; then, the Agent and the Banks shall
+thereupon be entitled to relief from any automatic stay imposed by Section 362
+of the Bankruptcy Code or otherwise to exercise any or all of their respective
+rights and remedies available under any of the Loan Documents and/or
+non-bankruptcy law; and Obligors shall consent to such relief and take all
+actions deemed necessary or desirable by the Agent and/or the Required Banks to
+implement this Section.
+
+                 7.3          Waivers.  In the event the Agent and/or the Banks
+seek to take possession of any or all of the Collateral by court process, the
+Obligors hereby irrevocably waive any bonds and any surety or security relating
+thereto required by any statute, court rule or otherwise as an incident to such
+possession, and waive any demand for possession prior to the commencement of
+any suit or action to recover such Collateral.
+
+
+
+
+
+                                    - 15 -
+<PAGE>   16
+                   ARTICLE 8 - REPRESENTATIONS AND WARRANTIES
+
+                 To induce the Agent and the Banks to enter into this
+Forbearance Agreement and Third Amendment, and as partial consideration for the
+terms and conditions contained herein, the Obligors represent and warrant to
+the Agent and the Banks, each and all of which shall survive the execution and
+delivery of this Forbearance Agreement and Third Amendment and all of the other
+documents executed in connection herewith:
+
+                 8.1          Reaffirmation of Representations and Warranties.
+The Obligors hereby reaffirm all of their representations and warranties in
+Article 8 of the Forbearance Agreement and Second Amendment as if such
+representations and warranties were made as of the date hereof.
+
+                 8.2          Authorization; Valid and Binding Agreement.  All
+corporate action required to be taken by each Obligor and its officers,
+directors and/or shareholders and all actions required to be taken by their
+respective principals for the authorization, execution, delivery and
+performance of this Forbearance Agreement and Third Amendment and the other
+documents contemplated hereby have been taken.  Each person executing this
+Forbearance Agreement and Third Amendment on behalf of an Obligor is an
+authorized officer and is authorized to execute same.  This Forbearance
+Agreement and Third Amendment is, and each of the documents executed pursuant
+hereto will be, legal, valid, and binding obligations of the party or parties
+thereto, enforceable against each such party in accordance with their
+respective terms, subject only to bankruptcy, insolvency, reorganization,
+moratorium and other laws or equitable principles affecting creditors' rights
+generally.
+
+                 8.3          No Liabilities to Colortronic Management.  The
+Obligors shall have no future and/or continuing liabilities and/or obligations
+(other than health insurance, vacation benefits, 401-K and other non-severance
+type employee benefits up to $250,000) to Marcel Rohr or any other employee of
+or equity holder in Colortronic following the sale thereof.
+
+                 8.4          Corporate Existence.  There have been no changes
+to the Obligors' Certificates or Articles of Incorporation and By-Laws since
+April 28, 1995.
+
+                 8.5          Colortronic Patents and Trademarks.  All of the
+patents and trademarks listed on Exhibit 5.4 are used in connection with
+Colortronic products.
+
+
+
+
+
+                                    - 16 -
+<PAGE>   17
+                         ARTICLE 9 - EVENTS OF DEFAULT
+
+                 Each of the following shall constitute an "Event of Default"
+under this Forbearance Agreement and Third Amendment and all other Loan
+Documents:
+
+                 9.1          Payment.  Failure of any Obligor to make any
+payment of principal, interest or other amounts due on the date such payment is
+due under the Loan Agreement, this Forbearance Agreement and Third Amendment
+and/or under any other Loan Document.
+
+                 9.2          Covenants.  Failure of any Obligor to observe any
+non-monetary covenant set forth herein or in any of the Loan Documents which
+default is not cured within the time period, if any, specified herein or in the
+Loan Documents.
+
+                 9.3          Agreements Invalid.  (A) The validity, binding
+nature or enforceability of any material term or provision of this Forbearance
+Agreement and Third Amendment, any other Supplemental Loan Document or any of
+the other Loan Documents is disputed by, on behalf of, or in the right or name
+of any Obligor or (B) this Forbearance Agreement and Third Amendment, the
+Supplemental Loan Documents and the other Loan Documents are found or declared
+to be invalid, avoidable, or unenforceable by any court of competent
+jurisdiction.
+
+                 9.4          False Warranties; Breach of Representations.  Any
+warranty or representation made or reaffirmed by any Obligor in this
+Forbearance Agreement and Third Amendment or in any other Supplemental Loan
+Document or in any certificate or other writing delivered under or pursuant to
+this Forbearance Agreement and Third Amendment or any other Supplemental Loan
+Document, or in connection with any provision of this Forbearance Agreement and
+Third Amendment or related to the transactions contemplated hereby shall prove
+to have been false or incorrect or breached in any material respect as of the
+date made.
+
+                 9.5          Judgments.  A final judgment or judgments is
+entered, or an order or orders of any judicial authority or governmental entity
+is issued against any Obligor (i) for payment of money in the aggregate in
+excess of $25,000 or (ii) for injunctive or declaratory relief which would have
+a material adverse effect on the ability of any Obligor to conduct its business
+as presently conducted; and such judgment or order is not discharged or
+execution thereon or enforcement thereof is not stayed pending appeal, within
+thirty (30) days after entry or issuance thereof, or, in the event of such a
+stay, such judgment or order is not discharged within thirty days after such
+stay expires.
+
+
+
+
+
+                                    - 17 -
+<PAGE>   18
+                 9.6          Liens.  Any execution, garnishment, attachment,
+distraint, or lien is filed, entered, or issued against any Obligor or any of
+its property or any order is entered enjoining or restraining any Obligor
+and/or restraining or seizing any property of any Obligor which is not stayed,
+discharged or bonded within 45 days (provided, however, that all borrowing
+availability shall terminate immediately and automatically upon the
+commencement and during such 45 day period).
+
+                 9.7          Bankruptcy or Insolvency of an Obligor.
+
+                              (a)     Any Obligor becomes insolvent, or
+generally fails to pay, or is generally unable to pay or admits in writing its
+inability to pay its debts as they become due, or applies for, consents to or
+acquiesces in, the appointment of a trustee, receiver or other custodian for
+that Obligor, as the case may be, or a substantial part of its property, or
+makes a general assignment for the benefit of creditors;
+
+                              (b)     Any Obligor commences any bankruptcy,
+reorganization, debt adjustment, or other case or proceeding under any state or
+federal bankruptcy or insolvency law, or any dissolution or liquidation
+proceeding;
+
+                              (c)     Any bankruptcy, reorganization, debt
+arrangement or other case or proceeding under any state or federal bankruptcy
+or insolvency law or any dissolution or liquidation proceeding is involuntarily
+commenced against or in respect of an Obligor and the same shall not be stayed
+or dismissed within 45 days (provided, however, that all borrowing availability
+shall terminate immediately and automatically upon the commencement and during
+such 45 day period);
+
+                              (d)     A trustee, receiver or other custodian is
+appointed for any Obligor or a substantial part of such entity's property and
+the same shall not be stayed or dismissed within 45 days (provided, however,
+that all borrowing availability upon the commencement shall terminate
+immediately and automatically during such 45 day period).
+
+                 9.8          Cross-Default.  A default or an event of default
+(other than the Existing Defaults) occurs under any Loan Document that is not
+cured within the applicable grace period, if any.
+
+                 9.9          Change in Ownership.  A change in control or
+ownership or the sale of any division of any of K-Tron International's direct
+or indirect domestic subsidiaries, K-Tron (Schweiz) AG and/or K-Tron Holding AG
+(other than intercompany mergers and consolidations of foreign subsidiaries).
+
+
+
+
+
+                                    - 18 -
+<PAGE>   19
+                             ARTICLE 10 - REMEDIES
+
+                 Upon the earlier of (i) the occurrence of any one or more
+Events of Default (other than the Existing Defaults), or (ii) February 28,
+1996; (a) all Obligations shall become due and payable immediately and without
+notice to the Obligors, (b) the obligations of the Agent and the Banks
+hereunder shall terminate automatically and immediately, without notice to the
+Obligors, and (c) the Agent and the Banks shall have all the remedies set forth
+in any of the Loan Documents and/or under applicable law.
+
+                           ARTICLE 11 - MISCELLANEOUS
+
+                 11.1         Costs, Expenses and Attorneys' Fees.  The
+Obligors agree to pay on demand by the Agent:
+
+                              (a)     All reasonable out-of-pocket costs and
+expenses incurred by the Agent and/or the Banks, including without limitation,
+all reasonable fees and out-of-pocket expenses of counsel, accountants and
+other professionals for the Agent and/or the Banks in connection with:
+
+                                      (i)      the negotiation, preparation and
+enforcement of this Forbearance Agreement and Third Amendment, all other Loan
+Documents and the documents relating thereto;
+
+                                      (ii)     the assertion by any person,
+entity or organization, other than the Banks, of any claim or lien,
+encumbrance, security interest, or other interest in any of the assets of the
+Obligors (except to the extent such interest is permitted under any Loan
+Document), including any attachment, garnishment, levy, notice of debtor's
+examination, notice of examination, judgment lien or execution lien, regardless
+of when such fees or expenses are incurred;
+
+                                      (iii) the enforcement or exercise by the
+Agent and/or the Banks of the Agent's and/or any Bank's rights or remedies with
+respect to the collection of the Obligations or to preserve, protect or enforce
+the Agent's and/or any Bank's interests in any bankruptcy, insolvency or
+reorganization case which may affect any Obligor and any litigation, dispute,
+case, arbitration or action with respect to any attachment, garnishment, levy,
+notice of debtor's examination, judgment lien or execution which may affect any
+Obligor; and
+
+                              (b)     Any stamp or documentary tax or other
+similar taxes and any filing, recording, lien, mortgage, release, satisfaction
+or search fees which may be payable in connection with the execution, delivery
+or performance of this Forbearance Agreement and Third Amendment, all other
+Loan Documents or the documents comprising or relating hereto and thereto.
+
+
+
+
+
+                                    - 19 -
+<PAGE>   20
+                 All Obligations provided for in this section shall survive any
+termination of the Banks' and the Agent's obligations under this Forbearance
+Agreement and Third Amendment.
+
+                 11.2         Cooperation; Other Documents.  At all times
+following the execution of this Forbearance Agreement and Third Amendment, the
+Obligors shall execute and deliver to the Agent, or shall cause to be executed
+and delivered to the Agent any other document required by the Agent to protect
+its rights under this Forbearance Agreement and Third Amendment and shall do or
+cause to be done, all such other acts and things as the Agent may reasonably
+deem to be necessary or desirable to assure the Agent and the Banks of the
+benefit of this Forbearance Agreement and Third Amendment and the documents
+comprising or relating to this Forbearance Agreement and Third Amendment.
+Furthermore, at all times following the execution of this Forbearance Agreement
+and Third Amendment, the Agent, the Banks, or their representatives shall have
+the right to examine each Borrowers' or Sureties' books and records at any time
+during normal business hours.
+
+                 11.3         Remedies Cumulative; No Waiver.       The
+respective rights, powers and remedies of the Agent and Banks in this
+Forbearance Agreement and Third Amendment and in the documents comprising or
+relating to this Forbearance Agreement and Third Amendment are cumulative and
+not exclusive of any right, power or remedy provided in the Loan Documents, by
+law or equity and no failure or delay on the part of the Agent or the Banks in
+the exercise of any right, power or remedy shall operate as a waiver thereof,
+nor shall any single or partial exercise of any right, power or remedy preclude
+any other or further exercise thereof, or the exercise of any other right,
+power or remedy.
+
+                 11.4         Notices.  Any notice given pursuant to this
+Forbearance Agreement and Third Amendment or pursuant to any document
+comprising or relating to this Forbearance Agreement and Third Amendment shall
+be given in conformity with Section 11.2 of the Loan Agreement.
+
+                 11.5         Survival of Representations and Warranties.  All
+representations and warranties of the Obligors contained in this Forbearance
+Agreement and Third Amendment and in the documents comprising or relating to
+this Forbearance Agreement and Third Amendment shall survive the execution of
+this Forbearance Agreement and Third Amendment and are material and have been
+or will be relied upon by the Agent and the Banks, notwithstanding any
+investigation made by any person, entity or organization on either the Agent's
+or any Bank's behalf.  No implied representations or warranties are created or
+arise as a result of this Forbearance Agreement and Third Amendment or the
+documents comprising or relating to this Forbearance Agreement and Third
+Amendment.  For purposes of the foregoing, all statements in any certificate or
+other writing required by this
+
+
+
+
+
+                                    - 20 -
+<PAGE>   21
+Forbearance Agreement and Third Amendment to be delivered to the Agent on or
+after the execution of this Forbearance Agreement and Third Amendment by or on
+behalf of any Obligor pursuant to and in accordance with this Forbearance
+Agreement and Third Amendment or any document comprising or relating to this
+Forbearance Agreement and Third Amendment or in connection with the
+transactions contemplated thereby shall be deemed to be representations and
+warranties contained in this Forbearance Agreement and Third Amendment.
+
+                 11.6         Integration.  This Forbearance Agreement and
+Third Amendment and all documents referred to, comprising or relating to this
+Forbearance Agreement and Third Amendment, including, without limitation, the
+Loan Documents, constitute the sole agreement of the parties with respect to
+the subject matter hereof and thereof and supersede all oral negotiations, term
+sheets and other prior writings with respect to the subject matter hereof and
+thereof.
+
+                 11.7         Amendment and Waiver.  No amendment of this
+Forbearance Agreement and Third Amendment, and no waiver, discharge or
+termination of any one or more of the provisions hereof, shall be effective
+unless set forth in writing and signed by all of the parties hereto.
+
+                 11.8         Consistency of Provisions.  This Forbearance
+Agreement and Third Amendment, the other Supplemental Loan Documents, and the
+other Loan Documents, and any other document related hereto and thereto are
+intended to be consistent.  However, in the event of any inconsistencies among
+any of such documents, such inconsistency shall not affect the validity or
+enforceability of any such document.  The Obligors agree that in the event of
+any express inconsistency or ambiguity in any of such documents, the terms of
+this Forbearance Agreement and Third Amendment shall govern.
+
+                 11.9         Continuing Effectiveness of Loan Agreement.  The
+Loan Agreement, as amended hereby, and the other Loan Documents shall remain in
+full force and effect.
+
+                 11.10        Counterparts.  This Forbearance Agreement and
+Third Amendment may be executed in one or more counterparts, all of which taken
+together shall constitute one and the same agreement.
+
+                 11.11        Governing Law.  This Forbearance Agreement and
+Third Amendment shall be governed by, and construed in accordance with, the
+laws of the State of New Jersey.
+
+                 11.12        Severability.  Any provision of this Forbearance
+Agreement and Third Amendment which is prohibited or unenforceable in any
+jurisdiction shall, as to such jurisdiction
+
+
+
+
+
+                                    - 21 -
+<PAGE>   22
+be ineffective to the extent of such prohibition or unenforceability without
+invalidating the remaining provisions of this Forbearance Agreement and Third
+Amendment or affecting the validity or enforceability of such provision in any
+other jurisdiction.
+
+                 11.13        Headings.  Article and Section headings in this
+Forbearance Agreement and Third Amendment are included for convenience of
+reference only and shall not constitute a part of this Forbearance Agreement
+and Third Amendment for any other purpose.
+
+                 11.14        Successors and Assigns.  The provisions of this
+Forbearance Agreement and Third Amendment shall be binding upon and inure to
+the benefit of the parties hereto and their respective successors and assigns.
+
+                 11.15        Jurisdiction and Venue.  IN ANY JUDICIAL
+PROCEEDING INVOLVING, DIRECTLY OR INDIRECTLY, ANY MATTER ARISING OUT OF OR
+RELATING TO THIS FORBEARANCE AGREEMENT AND THIRD AMENDMENT OR THE RELATIONSHIP
+ESTABLISHED HEREUNDER, THE OBLIGORS HEREBY IRREVOCABLY SUBMIT THEMSELVES TO THE
+JURISDICTION OF ANY STATE OR FEDERAL COURT LOCATED IN ANY COUNTY OR FEDERAL
+JUDICIAL DISTRICT IN THE STATE OF NEW JERSEY WHERE THE AGENT MAINTAINS AN
+OFFICE AND AGREE NOT TO RAISE ANY OBJECTION TO SUCH JURISDICTION OR TO THE
+VENUE OF ANY SUCH COURT.  THE OBLIGORS AGREE THAT SERVICE OF PROCESS IN ANY
+SUCH PROCEEDING MAY BE DULY EFFECTED UPON THEM BY MAILING A COPY THEREOF,
+POSTAGE PREPAID TO THE OBLIGORS AT THE ADDRESS SET FORTH IN THE LOAN AGREEMENT
+AND/OR THE SECURITY AGREEMENT.
+
+                 11.16        Waiver of Jury Trial; Damages.  EACH PARTY HERETO
+HEREBY IRREVOCABLY WAIVES ANY RIGHT TO TRIAL BY JURY IN ANY JUDICIAL PROCEEDING
+INVOLVING, DIRECTLY OR INDIRECTLY, ANY MATTER (WHETHER SOUNDING IN TORT,
+CONTRACT OR OTHERWISE) IN ANY WAY ARISING OUT OF OR RELATING TO THIS
+FORBEARANCE AGREEMENT AND THIRD AMENDMENT OR THE RELATIONSHIP BETWEEN THE
+PARTIES.  THIS PROVISION IS A MATERIAL INDUCEMENT FOR THE BANKS AND THE AGENT
+TO ENTER INTO THIS FORBEARANCE AGREEMENT AND THIRD AMENDMENT.  IN ADDITION,
+EACH PARTY HEREBY IRREVOCABLY WAIVES ANY RIGHT WHICH IT MAY HAVE TO CLAIM OR
+RECOVER, IN ANY SUCH JUDICIAL PROCEEDING, ANY SPECIAL, EXEMPLARY, PUNITIVE,
+CONSEQUENTIAL OR OTHER DAMAGES, EXCEPT FOR ACTUAL DAMAGES.
+
+
+
+
+
+                                    - 22 -
+<PAGE>   23
+                 IN WITNESS WHEREOF, the Agent, the Banks and the Obligors have
+executed this Forbearance Agreement and Third Amendment as of the date and year
+first above written.
+
+
+                                                 K-TRON INTERNATIONAL, INC.
+
+
+                                          By:    /s/ Robert L. Weinberg      
+                                                 ----------------------------
+                                                 Name:  Robert L. Weinberg
+                                                 Title: Senior Executive
+                                                          Vice President, CFO
+                                                          and Treasurer
+
+
+                                                 K-TRON AMERICA, INC.
+
+
+                                          By:    /s/ Robert L. Weinberg      
+                                                 ----------------------------
+                                                 Name:  Robert L. Weinberg
+                                                 Title: Vice President and
+                                                          Treasurer
+
+
+                                                 K-TRON TECHNOLOGIES, INC.
+
+
+                                          By:    /s/ Robert L. Weinberg      
+                                                 ----------------------------
+                                                 Name:  Robert L. Weinberg
+                                                 Title: President
+
+
+                                                 K-TRON PATENT, INC.
+
+
+                                          By:    /s/ Robert L. Weinberg      
+                                                 ----------------------------
+                                                 Name:  Robert L. Weinberg
+                                                 Title: Vice President and
+                                                          Treasurer
+
+
+
+                                                 K-TRON INVESTMENT CO.
+
+
+                                          By:    /s/ Robert L. Weinberg      
+                                                 ----------------------------
+                                                 Name:  Robert L. Weinberg
+                                                 Title: Vice President and
+                                                          Treasurer
+
+
+                       SIGNATURES CONTINUED ON NEXT PAGE
+
+
+
+
+
+                                    - 23 -
+<PAGE>   24
+                                                 FIRST FIDELITY BANK, N.A.
+                                                 FOR ITSELF AND AS AGENT FOR 
+                                                 THE BANKS
+                                          
+                                          
+                                          By:    /s/ Elizabeth B. Styer      
+                                                 ----------------------------
+                                                 Name:  Elizabeth B. Styer
+                                                 Title: Senior Vice President
+                                          
+                                          
+                                                 PNC BANK, N.A.
+                                          
+                                          
+                                          By:    /s/ William R. Breisch      
+                                                 ----------------------------
+                                                 Name:  William R. Breisch
+                                                 Title: Vice President
+                                          
+                                          
+                                                 UNITED JERSEY BANK, N.A.
+                                          
+                                          
+                                          By:    /s/ Kevin Behan             
+                                                 ----------------------------
+                                                 Name:  Kevin Behan
+                                                 Title: Vice President
+
+
+
+
+
+                                    - 24 -
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>4
+<DESCRIPTION>PRESS RELEASE DATED JUNE 16, 1995
+<TEXT>
+
+<PAGE>   1
+K-TRON           K-Tron International, Inc.                       NEWS
+                 Commerce Center
+                 1810 Chapel Ave. West
+                 Cherry Hill, NJ  08002
+                 (609) 661-6240
+                 FAX (609) 661-6241
+
+
+
+For Release:              Immediately
+
+Contact:                  Robert L. Weinberg, Senior Executive Vice
+                          President and Chief Financial Officer
+
+
+
+         Cherry Hill, New Jersey -- June 16, 1995 -- K-Tron International, Inc.
+(NASDAQ - KTII) today announced that it has agreed to sell its German
+subsidiary, Colortronic GmbH, to an investment group for $9 million in cash.
+The Colortronic stock sale will also reduce K-Tron's worldwide bank
+indebtedness by approximately $14 million.  The closing of the transaction is
+subject to the completion of documentation and the satisfaction of certain
+conditions but is expected to occur before the end of the month.
+
+         The investment group includes affiliates of Alpinvest III B.V. and
+ABNAMRO Ventures B.C. as well as two K-Tron executives, Marcel O. Rohr,
+president and chief executive officer, and Martin Schuler, K-Tron's senior vice
+president - finance for European operations.  Messrs. Rohr and Schuler will
+resign from all of their positions with K-Tron in connection with the sale, and
+Leo C.  Beebe, K-Tron's chairman, will assume the duties of chief executive
+officer.
+
+         Commenting on the sale, Mr. Beebe said "The divestiture is a major
+step in our turnaround program to streamline and focus on our traditional
+feeder business where K-Tron has excelled for 30 years.  While K-Tron will
+incur a net loss of approximately $10 million on the sale after giving effect
+to anticipated future tax benefits, this loss is primarily a non-cash write off
+of goodwill which will have no adverse effect on K-Tron's future operations or
+cash flow.  Furthermore, the sale will significantly reduce K-Tron's bank debt
+and interest expense, simplify its organization and accelerate the company's
+goal of returning to profitability in 1995."
+
+         K-Tron International, Inc., through its subsidiaries, is a major
+producer of gravimetric and volumetric feeders, blenders and related process
+control and material handling equipment, with facilities and customers
+throughout the world.
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.2
+<SEQUENCE>5
+<DESCRIPTION>PRESS RELEASE DATED JUNE 23, 1995
+<TEXT>
+
+<PAGE>   1
+
+K-TRON           K-Tron International, Inc.              NEWS
+                 Commerce Center 
+                 1810 Chapel Ave. West
+                 Cherry Hill, NJ  08002 
+                 (609) 661-6240 
+                 FAX (609) 661-6241
+
+
+
+For Release:      Immediately
+
+Contact:          Robert L. Weinberg, Senior Executive Vice President
+                  and Chief Financial Officer
+
+
+
+           Cherry Hill, New Jersey -- June 23, 1995 -- K-Tron International,
+Inc. (NASDAQ - KTII) today announced that it had completed the
+previously-announced sale of its German subsidiary, Colortronic GmbH, to an
+investment group for $9 million and that, in a related development, the
+forbearance agreement with its U.S. banks had been extended from July 31, 1995
+to February 28, 1996.
+
+           K-Tron further announced that it had applied approximately $8
+million of the Colortronic sale proceeds to pay down bank debt in Switzerland
+and the United States.  The Colortronic stock sale also reduced the company's
+bank debt in Germany by approximately $14 million, resulting in a total
+reduction of worldwide bank debt of approximately $22 million.
+
+           K-Tron International, Inc., through its subsidiaries, is a major
+producer of gravimetric and volumetric feeders and related equipment, with
+facilities and customers throughout the world.
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

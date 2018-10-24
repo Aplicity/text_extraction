@@ -1,0 +1,2373 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: keymaster@town.hall.org
+Originator-Key-Asymmetric:
+ MFkwCgYEVQgBAQICAgADSwAwSAJBALeWW4xDV4i7+b6+UyPn5RtObb1cJ7VkACDq
+ pKb9/DClgTKIm08lCfoilvi9Wl4SODbR1+1waHhiGmeZO8OdgLUCAwEAAQ==
+MIC-Info: RSA-MD5,RSA,
+ g2TvXVzZ40nCttA2QAQ/Ob0rM39FKpRh/kE/s/4NDTbrUgxuTuv/RuezHshNXIjF
+ rifPy2orD0f6FuxVFUQK4A==
+
+<IMS-DOCUMENT>0000893220-95-000352.txt : 19950614
+<IMS-HEADER>0000893220-95-000352.hdr.sgml : 19950614
+ACCESSION NUMBER:		0000893220-95-000352
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	19950401
+FILED AS OF DATE:		19950516
+SROS:			NONE
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			K TRON INTERNATIONAL INC
+		CENTRAL INDEX KEY:			0000000020
+		STANDARD INDUSTRIAL CLASSIFICATION:	3823
+		IRS NUMBER:				221759452
+		STATE OF INCORPORATION:			NJ
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-09576
+		FILM NUMBER:		95540256
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1810 CHAPEL AVENUE WEST
+		STREET 2:		SUITE 130
+		CITY:			CHERRY HILL
+		STATE:			NJ
+		ZIP:			08002-4607
+		BUSINESS PHONE:		6096616240
+
+	MAIL ADDRESS:	
+		STREET 1:		1810 CHAPEL AVENUE WEST
+		STREET 2:		SUITE 130
+		CITY:			CHERRY HILL
+		STATE:			NJ
+		ZIP:			08002
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<DESCRIPTION>FORM 10-Q K-TRON INTERNATIONAL
+<TEXT>
+
+<PAGE>   1
+
+                       SECURITIES AND EXCHANGE COMMISSION
+
+                             WASHINGTON, D.C. 20549
+
+                                   FORM 10-Q
+
+                Quarterly Report Pursuant to Section 13 or 15(d)
+                     of the Securities Exchange Act of 1934
+
+
+For the Quarter Ended               April 1, 1995                     
+                     -----------------------------------------------------------
+
+Commission File Number                   0-9576                       
+                      ----------------------------------------------------------
+
+                          K-TRON INTERNATIONAL, INC.
+- - --------------------------------------------------------------------------------
+            (Exact name of registrant as specified in its charter)
+
+
+          New Jersey                                           22-1759452       
+- - -------------------------------                        -------------------------
+(State or other jurisdiction of                            (IRS Employer ID #)
+ incorporation of organization)
+
+
+   Commerce Center, Suite 130
+   1810 Chapel Avenue West
+   Cherry Hill, New Jersey                                     08002-4607       
+- - -------------------------------                         ------------------------
+(Address of Principal Executive                                (Zip Code)
+  Offices)
+
+
+
+Registrant's Telephone Number (Including Area Code)  (609) 661-6240   
+                                                   ------------------
+
+Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports) and (2) has been subject to such
+filing requirements for the past 90 days.
+
+                                                   YES   X     NO 
+                                                      -------    ------
+
+The number of shares of Common Stock outstanding as of    04/01/95   
+                                                      -----------------
+
+                                3,087,937 Shares
+                                ---------
+<PAGE>   2
+
+                  K-TRON INTERNATIONAL, INC. AND SUBSIDIARIES
+
+
+                                     INDEX
+
+<TABLE>
+<CAPTION>
+                                                                                 Page No.
+                                                                                 --------
+<S>         <C>           
+PART  I.                  FINANCIAL INFORMATION
+                          ---------------------
+
+            Item 1.       Financial Statements                                       3
+                          --------------------
+
+                          Consolidated Balance Sheets
+                           April 1, 1995 & December 31, 1994                         3
+
+                          Consolidated Statements of Operations
+                           and Retained Earnings
+                           Three Months Ended
+                           April 1, 1995 and April 2, 1994                           4
+                          
+                          Consolidated Statements of Cash Flows
+                           Three Months Ended April 1, 1995 and
+                           April 2, 1994                                             5
+
+                          Notes to Consolidated Financial
+                           Statements                                                7
+                          
+            Item 2.       Management's Discussion and Analysis
+                           of Financial Condition of Operations                      8
+
+PART II.                  OTHER INFORMATION
+                          -----------------
+
+            Item 3.       Defaults Upon Senior Securities                            12
+
+            Item 6.       Exhibits and Reports on Form 8-K                           12
+</TABLE>
+<PAGE>   3
+                         PART I. FINANCIAL INFORMATION
+
+ITEM 1.  FINANCIAL STATEMENTS
+
+                   K-TRON INTERNATIONAL, INC. & SUBSIDIARIES
+                          CONSOLIDATED BALANCE SHEETS
+                    (Dollars in Thousands except Share Data)
+<TABLE>
+<CAPTION>
+                                                                              April 1,          December 31,
+                                                                                1995                1994    
+                                                                             ----------         ------------
+                                ASSETS                                       (Unaudited)         (Audited)
+                                ------                                                                    
+<S>                                                                          <C>                    <C>
+CURRENT ASSETS:                               
+   Cash and cash equivalents                                                 $  1,260               $  1,086
+   Accounts receivable (less allowance for
+      doubtful accts. of $1,764 & $1,523)                                      31,835                 29,214
+   Inventories                                                                 31,131                 25,458
+   Income tax refund refund receivable                                            400                    442
+   Deferred income taxes                                                          328                    328
+   Prepaid expenses & other current assets                                      2,028                  1,145
+                                                                             --------               --------
+      TOTAL CURRENT ASSETS                                                     66,982                 57,673
+PROPERTY, PLANT & EQUIPMENT (Net)                                              34,629                 31,673
+PATENTS AND LICENSES (Net of accumulated
+ amortization of $7,758 & $7,657)                                                 851                    908
+EXCESS OF COST OVER NET ASSETS ACQUIRED
+  (Net of accumulated amortization of $6,018 & $4,888)                         20,574                 18,661
+OTHER ASSETS                                                                      136                    650
+DEFERRED INCOME TAXES, Net                                                        385                    385
+                                                                             --------               --------
+TOTAL ASSETS                                                                 $123,557               $109,950
+                                                                             ========               ========
+</TABLE>
+
+<TABLE>
+<CAPTION>
+                         LIABILITIES & SHAREHOLDERS' EQUITY
+                         ----------------------------------
+<S>                                                                          <C>                    <C>
+CURRENT LIABILITIES:
+   Notes payable to banks                                                    $ 35,258               $ 31,175
+   Current portion of long-term debt                                            1,522                  1,337
+   Accounts payable                                                            15,811                 12,251
+   Accrued expenses & other current liabilities                                 3,637                  2,469
+   Accrued payroll                                                              2,793                  2,211
+   Accrued commissions                                                          3,132                  3,039
+   Customer advances                                                            1,800                  2,720
+   Accrued warranty                                                             1,220                    930
+   Income taxes payable                                                         1,277                  1,241
+   Deferred income taxes                                                          850                    849
+                                                                             --------               --------
+      TOTAL CURRENT LIABILITIES                                                67,300                 58,222
+
+LONG-TERM DEBT                                                                 31,428                 27,413
+DEFERRED GAIN ON SALE/LEASEBACK                                                 2,725                  2,456
+DEFERRED INCOME TAXES                                                             399                    399
+NONCURRENT PENSION LIABILITY                                                    3,395                  2,939
+COMMITMENTS AND CONTINGENCIES
+SERIES A JUNIOR PARTICIPATING PREFERRED SHARES,
+ $.01 par value-authorized 50,000 shares; none issued
+SHAREHOLDERS' EQUITY:
+   Preferred stock, $.01 par value - authorized,
+      950,000 shares; none issued
+   Common stock, $.01 par value - authorized,
+      15,000,000 shares; issued 4,150,887 shares
+      and 4,150,887 shares                                                         41                     41
+   Paid-in capital                                                             13,865                 13,865
+   Retained earnings                                                           13,790                 15,070
+   Cumulative translation adjustments                                           1,178                    109
+                                                                             --------               --------
+                                                                               28,874                 29,085
+   Treasury stock, 1,062,950 shares - at cost                                 (10,564)               (10,564)
+                                                                             --------               -------- 
+      TOTAL SHAREHOLDERS' EQUITY                                               18,310                 18,521
+                                                                             --------               --------
+TOTAL LIABILITIES AND SHAREHOLDERS' EQUITY                                   $123,557               $109,950
+                                                                             ========               ========
+</TABLE>
+
+                 See Notes to Consolidated Financial Statements
+<PAGE>   4
+                   K-TRON INTERNATIONAL, INC. & SUBSIDIARIES
+          CONSOLIDATED STATEMENTS OF OPERATIONS & RETAINED EARNINGS  
+                    (Dollars in Thousands except Share Data)
+                                  (Unaudited)
+<TABLE>
+<CAPTION>
+                                                                                             Three Months Ended
+                                                                                       April 1,              April 2,
+                                                                                         1995                  1994
+                                                                                         ----                  ----
+<S>                                                                                   <C>                   <C>
+REVENUE                                                                                 $30,503               $21,914
+                                                                                        -------               -------
+COSTS AND EXPENSES
+   Cost of Sales                                                                         19,292                13,006
+   Selling, general
+    & administrative                                                                     10,210                 7,631
+   Research & development                                                                   976                 1,044
+   Interest                                                                               1,305                   910
+                                                                                        -------               -------
+     Total costs and expenses                                                            31,783                22,591
+                                                                                        -------               -------
+
+(LOSS) BEFORE INCOME TAXES                                                               (1,280)                 (677)
+INCOME TAXES                                                                              --                      --  
+                                                                                        -------                -------
+
+NET(LOSS)                                                                                (1,280)                 (677)
+
+RETAINED EARNINGS
+   Beginning of Period                                                                   15,070                 21,896
+                                                                                        -------               --------
+   End of Period                                                                        $13,790                $21,219
+                                                                                        =======                =======
+(LOSS)PER SHARE                                                                         $ ( .41)               $ ( .22)
+                                                                                        ========               ========
+
+WEIGHTED AVERAGE NUMBER OF
+   COMMON AND COMMON EQUIVALENT
+   SHARES OUTSTANDING                                                                 3,089,000              3,065,000
+                                                                                      =========              =========
+</TABLE>
+
+
+                 See Notes to Consolidated Financial Statements
+<PAGE>   5
+                   K-TRON INTERNATIONAL, INC. & SUBSIDIARIES
+                     CONSOLIDATED STATEMENTS OF CASH FLOWS
+                             (Dollars in Thousands)
+                                  (Unaudited)
+<TABLE>
+<CAPTION>
+                                                                                               Three Months Ended
+                                                                                               ------------------
+                                                                                        Apr. 1,               Apr. 2,
+                                                                                         1995                   1994
+                                                                                         ----                   ----
+<S>                                                                                    <C>                     <C>
+OPERATING ACTIVITIES:
+  Net (loss)                                                                            $(1,280)               $ (677)
+  Adjustments to reconcile net loss to
+   net cash used in operating activities:
+  Depreciation and amortization                                                           1,642                 1,526
+  Amortization of deferred gain on
+   sale/leaseback transaction                                                               (96)                  (96)
+  Deferred income taxes                                                                    (113)                 (204)
+Changes in assets and liabilities
+    which provided (used) cash:
+  Accounts receivable, net                                                                  350                 2,014
+  Inventories                                                                            (3,130)                 (710)
+  Prepaid expenses and other current assets                                                (679)                  (60)
+  Other assets                                                                               99                   (57)
+  Accounts payable                                                                        1,965                  (846)
+  Accrued expenses and other current liabilities                                            163                (1,500)
+  Accrued warranty                                                                          156                  (161)
+  Income taxes payable                                                                       64                    99
+                                                                                        -------                ------
+  Net cash used in operating activities                                                    (859)                 (672)
+                                                                                        -------                ------
+
+INVESTING ACTIVITIES:
+  Capital expenditures                                                                     (233)                 (383)
+  Investment in patents and licenses                                                         (1)                  (25)
+                                                                                        -------                ------
+  Net cash used in investing activities                                                    (234)                 (408)
+                                                                                        -------                ------
+FINANCING ACTIVITIES:
+  Net borrowings under notes payable to banks                                             1,490                   930
+  Net borrowings under long-term lines of credit                                                                  400
+  Principal payments on long-term debt                                                     (103)                 (978)
+                                                                                        -------                ------
+  Net cash provided by financial activities                                               1,387                   352
+                                                                                        -------                ------
+EFFECT OF EXCHANGE RATE CHANGES ON CASH
+  AND CASH EQUIVALENTS                                                                     (120)                  (38)
+                                                                                        -------                ------
+NET INCREASE (DECREASE)IN CASH
+  AND CASH EQUIVALENTS                                                                      174                  (766)
+CASH AND CASH EQUIVALENTS
+  Beginning of period                                                                     1,086                 1,643
+                                                                                        -------                ------
+  End of period                                                                         $ 1,260                $  877
+                                                                                        =======                ======
+</TABLE>
+
+
+                 See Notes to Consolidated Financial Statements
+<PAGE>   6
+
+Consolidated Statements of Cash Flows (continued):
+(Unaudited)
+
+<TABLE>
+<CAPTION>
+                                                                                               Three Months Ended
+                                                                                               ------------------
+                                                                                        Apr. 1,               Apr. 2,
+                                                                                         1995                   1994
+                                                                                         ----                   ----
+<S>                                                                                      <C>                    <C>
+SUPPLEMENTAL DISCLOSURES OF CASH FLOW INFORMATION:
+  Cash paid during the period for:
+    Interest                                                                             $1,086                 $ 931
+    Income taxes                                                                            350                     2
+</TABLE>
+
+
+
+
+
+                        Disclosure of Accounting Policy:
+
+For purposes of the statement of cash flows, the Company considers all highly
+liquid short-term investments purchased with a maturity of three months or less
+to be cash equivalents.
+
+
+
+
+
+                 See Notes to Consolidated Financial Statements
+<PAGE>   7
+                   K-TRON INTERNATIONAL, INC. & SUBSIDIARIES
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                  (Unaudited)
+
+
+
+1.   Basis of Presentation
+
+     The accompanying unaudited financial statements have been prepared in
+     accordance with the instructions for Form 10-Q and do not include all of
+     the information and footnotes required by generally accepted accounting
+     principles for complete financial statements.  The consolidated financial
+     statements include the accounts of K-Tron International, Inc. (the
+     "Company") and its subsidiaries.  All intercompany transactions have been
+     eliminated in consolidation.  In the opinion of management, all
+     adjustments (consisting of a normal recurring nature) considered necessary
+     for a fair presentation of results for interim periods have been made.
+     The results for the interim periods are not necessarily indicative of the
+     results for a full year.
+
+     The unaudited financial statements herein should be read in conjunction
+     with the Company's Annual Report on Form 10-K for the year ended December
+     31, 1994 which was previously filed with the Securities and Exchange
+     Commission.
+<PAGE>   8
+ITEM 2.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF
+         FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+         THREE MONTHS ENDED APRIL 1, 1995
+
+Financial Condition
+
+     As reported in the Company's Annual Report on Form 10-K for the fiscal
+year ended December 31, 1994, the Company is in default under several financial
+covenants contained in its loan agreement with three U.S. banks.  These
+defaults are continuing and have not been waived.  However, on April 28, 1995,
+the Company entered into a forbearance agreement with its U.S. banks in which
+they agreed to forbear in the exercise of their rights and remedies under the
+loan documents through the earlier of July 31, 1995 or the occurrence of a new
+event of default thereunder.  The forbearance agreement also modified the
+existing loan documents in certain aspects, including the granting of
+additional collateral.  At April 1, 1995, the principal amount outstanding 
+under the Company's U.S. loan agreement was $13,628,000.
+
+     The Company is seeking alternative debt or equity financing and has
+retained two investment banking firms (Oppenheimer & Co., Inc. and Berwind
+Financial Group, Inc.) to assist in these efforts and in the evaluation and
+possible implementation of other possible courses of action.  At this time, the
+Company has not obtained the commitments needed to replace the U.S. banks, and
+its ability to continue as a going concern depends on the future availability
+of its existing U.S. credit facility or a replacement line of credit or the
+raising of cash through the sale of assets or additional equity.  If the
+Company is unsuccessful in these efforts, it may be unable to meet its
+obligations in a timely manner, making it necessary to undertake such other
+actions as may be appropriate to preserve asset values.
+
+     K-Tron is an international company with more than 70 percent of its
+business arising from sources outside the United States, primarily in
+Europe, and Germany has become the Company's largest single market as measured
+by the Company's revenues.  As such, the financial position and performance of
+the Company is sensitive to both translation and transaction fluctuations in
+foreign exchange rates.
+
+Results of Operations
+
+           In the first quarter of 1995, the Company reported a net loss of
+$1,280,000.  Profit margins were negatively affected by heavily discounted
+orders booked in 1994 and the inability to pass on increased material costs
+caused by the appreciation of the Swiss franc to customers in other European
+countries, costs related to the forebearance agreement and costs related to the
+Company's efforts to arrange new financing or sell assets.  First quarter 1995 
+results at the Company's German subsidiary, Colortronic, have improved.
+
+     The following table sets forth the Company's results of operations
+expressed as a percentage of total revenues for the periods indicated:
+<PAGE>   9
+<TABLE>
+<CAPTION>
+                                                                                             Three Months Ended
+                                                                                       April 1,              April 2,
+                                                                                         1995                  1994
+                                                                                         ----                  ----
+  <S>                                                                                     <C>                  <C>
+  Total Revenues                                                                          100.0%                100.0%
+  Cost of Sales                                                                            63.3                  59.4
+                                                                                          -----                 -----
+  Gross Margins                                                                            36.7                  40.6
+
+  Selling General and Administrative                                                       33.4                  34.8
+  Research and Development                                                                  3.2                   4.8
+  Interest                                                                                  4.3                   4.1
+                                                                                          ------                ------
+
+  (Loss) before income taxes                                                               (4.2%)                (3.1%)
+                                                                                           ======                ======
+
+  Quarter-end backlog (in thousands)                                                    $34,357               $23,310*
+                                                                                        =======               ======= 
+</TABLE>
+
+*At April 1, 1995 foreign exchange translation rates
+
+     Translation of the Company's foreign revenues and results of operations
+into U.S. dollars is affected by changes in foreign exchange rates,
+particularly with respect to the Swiss franc and the Deutsche mark.  Revenues
+and earnings in the first quarter of 1995 were affected by changes in the
+average U.S. dollar/Swiss franc exchange rate, which increased 17% to $.806 per
+Swiss franc in the first quarter of 1995 from $.690 in the same period of 1994,
+and by a change in the U.S. dollar/Deutsche mark exchange rate, which increased
+16% to $.677 per Deutsche mark in the first quarter of 1995 from $.582 for the
+same period in 1994.
+
+     Total revenues increased by $8.6 million or 39% ($5.5 million or 25% when
+using a constant foreign exchange rate) in the first quarter of 1995 versus the
+same period in 1994.  Total revenues increased due to the strong European and
+United States year end 1994 backlog, and the effect of a weaker U.S. dollar
+relative to the Swiss franc and Deutsche mark.
+
+     Gross margin as a percent of revenues declined to 36.7% in the first
+quarter of 1995 as compared to 40.6% for the same period in 1994.  The decline
+in the first quarter 1995 margin was primarily due to heavily discounted orders
+booked in 1994, as well as the inability to pass on increased material costs
+caused by the appreciation of the Swiss franc to customers in other European
+countries.
+
+     Selling, general and administrative (SG&A) expense increased by $2.6
+million, or 33.8% in the first quarter of 1995 as compared to the same period
+in 1994.   The increase was primarily due to higher foreign exchange
+translation rates, commissions and selling expenses related to the increased
+sales volume.  In addition, the Company incurred costs related to the 
+forebearance agreement and costs related to the Company's efforts to arrange 
+new financing or sell assets.  As a percent of revenues, SG&A was 33.4% in 
+1995 and 34.8% in 1994.  The decrease in SG&A as a percent of revenues in 
+1995 was primarily due to the increase in revenues.
+<PAGE>   10
+     Research and development (R&D) expenditures in the first quarter of 1995
+decreased $.1 million as compared to the same period in 1994 due to synergies
+realized from the integration of the Company's brands, offset in part by the
+higher foreign exchange translation rate.  R&D expense as a percent of revenues
+was 3.2% in 1995 and 4.8% in 1994.  The decrease in R&D as a percent of
+revenues in 1995 was primarily due to the increase in revenues.
+
+     Interest expense as a percent of revenues increased in the first quarter
+of 1995 primarily due to increased European borrowings and higher interest
+rates in the United States offset in part by reduced interest rates in Europe.
+
+     The Company did not have any income tax expense due to the losses incurred.
+
+     The backlog of orders increased at the end of the first quarter of 1995 by
+47% as compared to the same period in 1994 primarily due to the European
+recovery from recession and strong bookings in the United States.
+
+     Increased selling prices and reduced production and distribution costs
+should improve future margins, and the Company's objective continues to be to
+return to profitability later in 1995.
+
+     Liquidity and Capital Resources
+
+     The Company's capitalization as of the end of the first quarter of
+1995 and fiscal year 1994 is set forth below:
+
+<TABLE>
+<CAPTION>
+                                                                               April 1,              Dec. 31,
+(Dollars in Thousands)                                                          1995                   1994
+                                                                                ----                   ----
+         <S>                                                                   <C>                    <C>
+         Short-term debt including current
+                 portion of long-term debt                                     $36,780                $32,512
+         Long-term debt                                                         31,428                 27,413
+                                                                                ------                 ------
+
+         Total debt                                                             68,208                 59,925
+
+         Shareholders' equity                                                   18,310                 18,521
+                                                                                ------                 ------
+
+         Total debt and shareholders' equity                                   $86,518                $78,446
+                                                                               =======                =======
+
+         Percent debt to total capitalization                                      79%                    76%
+
+         Percent long-term debt to equity                                         172%                   148%
+</TABLE>
+
+     Total debt increased since year end 1994 by $8,283,000 of which
+$6,896,000 was due to the effect of foreign exchange translation.  Total debt
+without the effect of the foreign exchange translation increased by $1,387,000.
+European debt increased by $2,064,000 while U.S. debt decreased $677,000.  The
+Company had available $1,190,000 of unused long and short-term credit
+facilities as of April 1, 1995.
+<PAGE>   11
+     At the end of the first quarter of 1995 and year end 1994, working
+capital was ($318,000) and ($549,000) respectively and the ratio of current
+assets to current liabilities was .99 to 1.0.
+
+     Cash used in 1995 operating activities was $859,000.  The decline in
+operating cash flow was primarily the result of the increase in inventories
+needed to support the increase in backlog.
+
+     Cash used in financing activities in 1995 was primarily the result of
+changes required to support working capital needs.
+
+     Changes in foreign exchange rates, particularly with respect to the
+Swiss franc and Deutsche mark, caused a translation adjustment increase in
+shareholders' equity of $1,069,000 in the first quarter of 1995.
+<PAGE>   12
+                          PART II.  OTHER INFORMATION
+
+
+Item 3.  Defaults Upon Senior Securities
+
+         As reported in the Company's Annual Report on Form 10-K for the fiscal
+         year ended December 31, 1994, the Company is in default under several
+         financial covenants contained in its loan agreement with three U.S. 
+         banks.  These defaults are continuing and have not been waived.
+         However, on April 28, 1995, the Company entered into a forbearance
+         agreement with its U.S. banks in which they agreed to forbear in the
+         exercise of their rights and remedies under the loan documents through
+         the earlier of July 31, 1995 or the occurrence of a new event of
+         default thereunder.  The forbearance agreement also modified the
+         existing loan documents in certain aspects, including the granting of
+         additional collateral.  At April 1, 1995, the principal amount 
+         outstanding under the Company's U.S. loan agreement was $13,628,000.
+
+         See "Management's Discussion and Analysis of Financial Condition and
+         Results of Operations" contained in Part I herein.
+
+Item 6.  Exhibits and Reports on Form 8-K
+
+(a)      Exhibits
+
+10.1     Forbearance Agreement and Second Amendment to Revolving Credit and
+         Term Loan Agreement dated April 28, 1995 by and among K- Tron
+         International, Inc. and K-Tron America, Inc., First Fidelity Bank,
+         N.A., PNC Bank, N.A. and United Jersey Bank/South N.A.
+
+11.1     Computation of (loss) Per Share
+
+27       Financial Data Schedule
+
+(b)      Reports on Form 8-K.
+
+         There were no reports on Form 8-K for the three months ended April 1,
+         1995.
+<PAGE>   13
+                                   SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on his behalf by the
+undersigned thereunto duly authorized.
+
+
+                                        K-TRON INTERNATIONAL, INC.
+Date: May 15, 1995        
+      ------------        
+                                        By:   /s/ Robert L. Weinberg
+                                              ----------------------
+                                              Robert L. Weinberg
+                                              Senior Executive Vice President,
+                                              Chief Financial Officer, and
+                                              Treasurer
+                                              (Duly authorized officer
+                                              and principal financial
+                                              officer of the registrant)
+                          
+                          
+                                        By:   /s/ Alan R. Sukoneck      
+                                              --------------------------
+                                              Alan R. Sukoneck
+                                              Vice President & Controller
+                                              (Duly authorized officer and
+                                              principal accounting officer
+                                              of the registrant)
+<PAGE>   14
+                                 EXHIBIT INDEX
+
+
+
+<TABLE>
+<CAPTION>
+Exhibit
+- - -------
+<S>     <C>
+10.1    Forbearance Agreement and Second Amendment
+        to Revolving Credit and Term Loan Agreement
+        dated April 28, 1995 by and among K-Tron
+        International, Inc. and K-Tron America,
+        Inc., First Fidelity Bank, N.A., PNC Bank,
+        N.A. and United Jersey Bank/South N.A.
+
+11.1    Computation of (loss) Per Share
+
+27      Financial Data Schedule
+</TABLE>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.1
+<SEQUENCE>2
+<DESCRIPTION>FORBEARANCE AGREEMENT
+<TEXT>
+
+<PAGE>   1
+
+                  FORBEARANCE AGREEMENT AND SECOND AMENDMENT
+                 TO REVOLVING CREDIT AND TERM LOAN AGREEMENT
+
+
+                 This Forbearance Agreement and Second Amendment to Revolving
+Credit and Term Loan Agreement (the "Forbearance Agreement") dated April 28,
+1995, is by and among K-Tron International, Inc., a New Jersey corporation
+("K-Tron International") and K-Tron America, Inc. (formerly known as K-Tron
+North America, Inc.), a Delaware corporation ("K-Tron America") (each
+individually, a "Borrower" and collectively, the "Borrowers"); K-Tron
+Technologies, Inc., a Delaware corporation ("K-Tron Technologies"), K-Tron
+Investment Co. a Delaware corporation ("K-Tron Investment") and K-Tron Patent,
+Inc., a Delaware corporation ("K-Tron Patent") (each individually a "Surety"
+and collectively the "Sureties") (the Borrowers and Sureties are collectively
+referred to herein as the "Obligors"); First Fidelity Bank, N.A.
+(successor-by-merger to First Fidelity Bank, N.A., New Jersey) ("FFB"), PNC
+Bank, N.A.  ("PNC"), and United Jersey Bank (successor-by-merger to United
+Jersey Bank/South, N.A.)("UJB") (each individually, a "Bank" and collectively,
+the "Banks"); and FFB as agent for the Banks (FFB in such capacity, the
+"Agent").
+
+                 WHEREAS, the Borrowers, the Banks and the Agent have entered
+into that certain Revolving Credit and Term Loan Agreement dated June 28, 1993,
+as amended by that certain First Amendment to Loan Agreement dated as of June
+30, 1994, (collectively, the "Loan Agreement"); and
+
+                 WHEREAS, K-Tron Technologies has executed that certain
+Suretyship Agreement dated June 28, 1993 in favor of the Agent (the "1993
+Suretyship Agreement") pursuant to which the Surety guaranteed and became the
+surety for the Guaranteed Obligations (as such term is defined in the 1993
+Suretyship Agreement); and
+
+                 WHEREAS, the Borrowers notified the Banks in December, 1994
+that they were projecting certain financial covenant defaults under the Loan
+Agreement to occur as of December 31, 1994; and
+
+                 WHEREAS, Events of Default under the Loan Agreement have
+occurred, are now continuing and the Borrowers believe will continue throughout
+the Forbearance Period (defined hereafter) under the Loan Agreement as a result
+of, inter alia, the Borrowers' failure to comply with various financial
+covenants in the Loan Agreement as more fully described on Exhibit 3.1 hereto
+(collectively, the "Existing Defaults");
+
+                 WHEREAS, as a result of the Existing Defaults, the Agent, with
+the consent of the Required Banks (as such term is defined in the Loan
+Agreement), currently has a right to declare the entire unpaid principal
+balance under the Notes (as such term is defined in the Loan Agreement) and the
+Loan Agreement all
+<PAGE>   2
+interest accrued and unpaid thereon, and all other amounts payable under the
+Loan Documents (as such term is defined in the Loan Agreement) immediately due
+and payable;
+
+                 WHEREAS, the Agent and the Banks have agreed to forbear, for a
+limited period of time, from exercising their rights under the Loan Agreement
+and the other Loan Documents, upon the terms and conditions contained herein.
+
+                 NOW, THEREFORE, incorporating the Background herein, and for
+good and valuable consideration, the receipt and sufficiency of which is hereby
+acknowledged, and intending to be legally bound hereby, the Borrowers, the
+Sureties, the Banks and the Agent, agree as follows:
+
+                         ARTICLE 1 - CAPITALIZED TERMS
+
+                 All capitalized terms used herein and not otherwise defined
+herein shall have the meanings given to such terms in the Loan Agreement.
+
+                    ARTICLE 2 - AMENDMENTS TO LOAN AGREEMENT
+
+                 2.1      Amendments.  The Loan Agreement is hereby amended as
+follows:
+
+                          (a)     The first paragraph of the Loan Agreement is
+hereby amended by replacing the term "K-Tron North America, Inc." with the term
+"K-Tron America, Inc.," and by replacing the defined term "K-Tron, N.A." with
+"K-Tron America"; and the new defined term "K-Tron America" shall replace the
+term "K-Tron, N.A." wherever such term appears in the Loan Agreement and the
+other Loan Documents.
+
+                          (b)     The first paragraph of the Loan Agreement is
+hereby amended by replacing the term "United Jersey Bank/South, N.A." with the
+term "United Jersey Bank".
+
+                          (c)     The following defined terms and their
+respective definitions in Section 1.1 of the Loan Agreement are hereby amended
+and restated in their entirety as follows:
+
+                          "Loan Documents" means the Loan Agreement, the Notes,
+                 the Suretyship Agreement, the Mortgage, the Bank Assignment
+                 Agreements, the Security Agreements, all other Supplemental
+                 Loan Documents and all of the documents, instruments and
+                 agreements executed in connection with any of the foregoing,
+                 together with all amendments and modification thereto.
+
+
+
+
+
+                                     - 2 -
+<PAGE>   3
+                          "Surety" means collectively K-Tron International (in
+                 its capacity as surety for K-Tron America), K-Tron
+                 Technologies, K-Tron Investment and K-Tron Patent.
+
+                          "Suretyship Agreement" means collectively that
+                 certain Suretyship Agreement dated June 28, 1993 executed by
+                 K-Tron Technologies in favor of the Agent for the benefit of
+                 the Banks, as amended and restated by that certain Amended and
+                 Restated Guaranty and Suretyship Agreement dated April 28,
+                 1995 executed by K-Tron Technologies in favor of the Agent for
+                 the benefit of the Banks, that certain Guaranty and 
+                 Suretyship Agreement dated April 28, 1995 executed by K-Tron 
+                 International in favor of the Agent for the benefit of the 
+                 Banks, that certain Guaranty and Suretyship Agreement dated 
+                 April 28, 1995 executed by K-Tron Patent in favor of the 
+                 Agent for the benefit of the Banks, and that certain Guaranty 
+                 and Suretyship Agreement dated April 28, 1995 executed by 
+                 K-Tron Investment in favor of the Banks and the Agent for the
+                 benefit of the Banks.
+
+                          "Term Loan Maturity Date" means July 31, 1995.
+
+                          (d)     Section 1.1 of the Loan Agreement is hereby
+amended by adding the following new defined terms in the appropriate
+alphabetical order:
+
+                          "Bank Assignment Agreements" means, collectively,
+                 that certain Assignment and Acceptance Agreement dated August
+                 24, 1993 among K-Tron America, K-Tron International, UJB and
+                 FFB and accepted by FFB on August 24, 1993, and that certain
+                 Assignment and Acceptance Agreement dated August 24, 1993
+                 among K-Tron America, K-Tron International, PNC and FFB and
+                 accepted by FFB on August 24, 1993.
+
+                          "Collateral" means all property and assets of the
+                 Obligors (and each of them) now or hereafter in the
+                 possession, custody or control of the Agent, the Banks and/or
+                 any Affiliate, in any capacity whatsoever including, but not
+                 limited to, any balance or share of any deposit, trust or
+                 agency account, and all property and assets of the Obligors
+                 (and each of them) now or hereafter subject to a security
+                 agreement, pledge, mortgage, assignment or other document or
+                 agreement granting the Agent and/or the Banks a security
+                 interest therein or lien or encumbrance thereon including,
+                 without limitation, the Collateral (as such term is
+
+
+
+
+
+                                     - 3 -
+<PAGE>   4
+                 defined in each of the Security Agreements) and the Mortgaged
+                 Premises.
+
+                          "Forbearance Agreement" means that certain
+                 Forbearance Agreement and Second Amendment to Revolving Credit
+                 and Term Loan Agreement dated April 28, 1995 by and among the
+                 Borrowers, the Sureties, the Banks and the Agent, together
+                 with all amendments and modifications thereto.
+
+                          "K-Tron Investment" means K-Tron Investment Co., a
+                 Delaware corporation.
+
+                          "K-Tron Patent" means K-Tron Patent, Inc., a Delaware
+                 corporation.
+
+                          "Loan Agreement" means this Agreement, as amended by
+                 that certain First Amendment to Loan Agreement dated as of
+                 June 30, 1994 by and among the Borrowers, the Banks and the
+                 Agent and as further amended by the provisions of Article 2 of
+                 the Forbearance Agreement, together with all amendments and
+                 modifications thereto from time to time.
+
+                          "Obligors" means the Borrowers and the Surety.
+
+                          "PNC Bank, N.A." or "PNC" means PNC Bank, N.A., a 
+                 national banking association.
+
+                          "Pro Rata Share" means for each Bank the percentage
+                 set forth opposite such Bank's name on Exhibit 2.1 hereto and
+                 incorporated herein by reference.
+
+                          "Security Agreements" means collectively that certain
+                 Security Agreement dated as of May 11, 1994 by K-Tron America
+                 in favor of the Agent, as amended and restated by that certain
+                 Amended and Restated Security Agreement dated as of April 28,
+                 1995 by K-Tron America in favor of the Agent for the benefit
+                 of the Banks; that certain General Security Agreement dated as
+                 of April 28, 1995 by K-Tron International in favor of the
+                 Agent for the benefit of the Banks; that certain General
+                 Security Agreement dated as of April 28, 1995 by K-Tron
+                 Technologies in favor of the Agent for the benefit of the
+                 Banks; that certain General Security Agreement dated as of
+                 April 28, 1995, by K-Tron Patent in favor of the Agent for the
+                 benefit of the Banks; that certain General
+
+
+
+
+
+                                     - 4 -
+<PAGE>   5
+                 Security Agreement dated as of April 28, 1995, by K-Tron
+                 Investment in favor of the Agent for the benefit of the Banks;
+                 and any and all other security agreements executed and/or
+                 delivered to the Agent in connection with the Loan Agreement
+                 together with all amendments and modifications thereto.
+
+                          "Supplemental Loan Documents" means the Forbearance
+                 Agreement and all documents, instruments and agreements
+                 executed and delivered in connection therewith and as required
+                 thereby.
+
+                          "United Jersey Bank" or "UJB" means United Jersey
+                 Bank, successor by merger to United Jersey Bank/South N.A., a
+                 New Jersey state chartered bank.
+
+                 (e)      The defined terms "Affiliate" and "Subsidiary" in
+Section 1.1 of the Loan Agreement are hereby amended by replacing the word
+"Borrowers" in the definitions thereof with the word: "Obligors."
+
+                 (f)      Section 2.1 of the Loan Agreement is hereby amended
+and restated in its entirety as follows:
+
+                          2.1.  Revolving Credit Commitment.  Each Bank
+                 severally (but not jointly) agrees, on the terms and
+                 conditions set forth in this Loan Agreement and the
+                 Forbearance Agreement to make loans (the "Revolving Credit
+                 Loans") to the Borrowers from time to time during the period
+                 from the date of this Agreement up to but not including the
+                 Revolving Credit Termination Date in an aggregate amount not
+                 to exceed at any time outstanding the lesser of: (i) such
+                 Bank's Pro Rata Share of $10,350,000 or (ii) an aggregate
+                 amount not to exceed at any time the amount set forth opposite
+                 such Bank's name on Exhibit 2.1 hereto and incorporated herein
+                 by reference as such amount may be reduced pursuant to Section
+                 2.5 or 9.2 hereof or modified by reason of an assignment under
+                 Section 11.11(B) (individually the "Revolving Credit
+                 Commitment" of each Bank and collectively the "Revolving
+                 Credit Commitment").
+
+                 (g)      Section 2.2 of the Loan Agreement is hereby amended
+and restated in its entirety as follows:
+
+                          2.2. Interest on the Revolving Credit Loans.  The 
+                 unpaid principal amount of the
+
+
+
+
+
+                                     - 5 -
+<PAGE>   6
+                 Revolving Credit Loans shall bear interest (i) from and after
+                 June 28, 1993 through June 30, 1994 at an annual rate equal to
+                 the Base Rate plus  1/4%; (ii) from and after July 1, 1994
+                 through April 30, 1995 at an annual rate equal to the Base
+                 Rate plus  3/4%; and (iii) from and after May 1, 1995 until
+                 due at an annual rate equal to the Base Rate plus 1%.  Such
+                 interest shall be payable (a) monthly in arrears, on the first
+                 day of each month until the Revolving Credit Loans are repaid
+                 in full, and (b) on the date the Revolving Credit Loans are
+                 repaid in full.
+
+                 (h)      Section 2.3 of the Loan Agreement is hereby amended
+and restated in its entirety as follows:
+
+                          2.3.  Use of Revolving Credit Loan Proceeds.  The
+                 proceeds of the Revolving Credit Loans hereunder shall be used
+                 by the Borrowers only for working capital.
+
+                 (i)      Section 2.10 of the Loan Agreement is hereby amended
+and restated in its entirety as follows:
+
+                          2.10.  Default Interest.  Upon and following an Event
+                 of Default hereunder, whether before or after acceleration of
+                 the indebtedness or entry of judgment, interest on the unpaid
+                 principal balance of the Revolving Credit Loans shall accrue
+                 at an annual rate which is equal to two percent (2%) above the
+                 then applicable rate of interest for the Revolving Credit
+                 Loans ("Revolving Credit Default Interest")
+
+                 (j)      Section 2.11 of the Loan Agreement is hereby amended
+by adding new subsection (D) as follows:
+
+                 (D)      Termination; Non-Renewal.  All obligations, if any,
+                          of the Agent and/or the Banks to issue Letters of
+                          Credit terminated effective as of December 13, 1994.
+                          The Borrowers hereby acknowledge that the Agent and
+                          the Banks had no obligation to renew or extend those
+                          Letters of Credit expiring on or after December 13,
+                          1994.
+
+                 (k)      Section 2.12 of the Loan Agreement is hereby amended
+by adding new subsection (D) as follows:
+
+
+
+
+
+                                     - 6 -
+<PAGE>   7
+                 (D)      Termination; Non-Renewal.  All obligations, if any,
+                          of the Agent and/or the Banks to issue Acceptances
+                          hereunder terminated effective as of December 13,
+                          1994.  The Borrowers hereby acknowledge and agree
+                          that the Agent and the Banks  had no obligation to
+                          renew those Acceptances maturing on or after December
+                          13, 1994.
+
+                 (l)      The first sentence of Section 2.14(A) is hereby
+amended and restated in its entirety as follows:
+
+                 (A)      Rate.  During the Base Rate Period, K-Tron America
+                          shall pay interest on the unpaid principal amount of
+                          the Term Loan (i) from and after June 28, 1993
+                          through June 30, 1994 at the Base Rate plus  1/2%;
+                          and (ii) from and after July 1, 1994 until payment in
+                          full of the Term Loan at the Base Rate plus 1%.
+
+                 (m)      Section 2.17 of the Loan Agreement is hereby amended
+and restated in its entirety as follows:
+
+                          2.17.  Default Interest.  Upon and following an Event
+                 of Default hereunder, whether before or after acceleration of
+                 the indebtedness or entry of judgment, interest on the unpaid
+                 principal balance of the Term Loans shall accrue at an annual
+                 rate which is equal to two percent (2%) above the then
+                 applicable rate of interest for the Term Loans (the "Term Loan
+                 Default Rate").
+
+                 (n)      Section 2.18 of the Loan Agreement is hereby deleted
+in its entirety and replaced with the following:
+
+                          2.18.  Prepayment.  K-Tron may prepay the Term Loans 
+                 in whole or in part at any time with no premium or penalty with
+                 respect to such prepayment.
+
+                 (o)      Section 3.1 of the Loan Agreement is hereby amended
+by: (i) deleting therefrom the following: "As security for payment of the Term
+Loan, K-Tron, N.A. will execute and deliver to the Agent a first priority
+mortgage ("Mortgage")"; and adding in place thereof, the following:
+
+                 As security for payment of the Term Loan, the Revolving Credit
+                 Loans and all other obligations and liabilities of K-Tron
+                 America due to the Agent and the Banks, K-Tron America will
+                 execute and deliver to Agent (A)
+
+
+
+
+
+                                     - 7 -
+<PAGE>   8
+                 a first priority mortgage, as the same may be amended from
+                 time to time (the "Mortgage")
+
+and by (ii) adding after the words "New Jersey" the following:  "as more fully
+described in the Mortgage".
+
+                 (p)      Section 9.2 of the Loan Agreement is hereby amended
+by adding after the words "If any Event of Default shall occur and be
+continuing", the following:  "interest on the Term Loans shall accrue at the
+Term Loan Default Rate and Interest on the Revolving Credit Loans shall accrue
+at the Revolving Credit Default Rate, and".
+
+                 (q)      Section 11.2 of the Loan Agreement is hereby amended
+by deleting the address to which all notices to the Agent and its counsel
+should be sent and adding in place thereof, the following:
+
+                          If to the Agent, at:
+                          First Fidelity Bank, N.A.
+                          Broad and Walnut Streets
+                          Philadelphia, PA  19109
+                          Attention:  Elizabeth B. Styer
+                                      Senior Vice President
+
+With required copies to:
+
+                          PNC Bank, N.A.
+                          Land Title Building
+                          6th Floor
+                          Broad & Chestnut Streets
+                          Philadelphia, PA  19101
+                          Attention:  Constantin Chepurny
+                                      Vice President
+
+                          United Jersey Bank
+                          4365 Route 1 South
+                          CN 5284
+                          Princeton, NJ  08543-5284
+                          Attention:  Kevin M. Behan
+                                      Vice President
+                                      and
+                                      William E. Jacobs
+                                      Vice President
+
+                          Duane, Morris & Heckscher
+                          One Liberty Place
+                          Philadelphia, PA  19103-7396
+                          Attention:  Margery N. Reed, Esquire
+
+                                     and
+
+
+
+
+
+                                     - 8 -
+<PAGE>   9
+                          Michael P. Going, Esquire
+                          First Fidelity Bancorporation
+                          123 South Broad Street
+                          10th Floor
+                          Philadelphia, PA 19109-1199
+
+                 (r)      Exhibit 2.1 of the Loan Agreement is hereby amended
+and restated in its entirety as follows:
+
+
+                                  EXHIBIT 2.1 
+                          REVOLVING CREDIT COMMITMENTS
+
+<TABLE>
+<CAPTION>
+Name of Bank                      Amount                            Pro Rata Share
+- - ------------                      ------                            --------------
+<S>                              <C>                                       <C>
+FFB                               $5,175,000                                 50%
+
+PNC                               $2,587,500                                 25%
+
+UJB                               $2,587,500                                 25%
+- - ---------------                   ----------                                 ---
+Total Revolving                  $10,350,000                                100%
+Credit Commitments
+</TABLE>
+
+                 (s)      Exhibit 2.13 of the Loan Agreement is hereby amended
+and restated in its entirety as follows:
+
+                                  EXHIBIT 2.13
+                             TERM LOAN COMMITMENTS
+
+<TABLE>
+<CAPTION>
+Name of Bank                      Amount                            Pro Rata Share
+- - ------------                      ------                            --------------
+<S>                               <C>                                       <C>
+FFB                               $1,988,889.00                              50%
+
+PNC                               $  994,444.50                              25%
+
+UJB                               $  994,444.50                              25%
+</TABLE>
+
+
+                 2.2  No Other Amendments.  Except as expressly set forth in
+Article 2 hereof, the Loan Agreement shall remain in full force and effect and
+the Borrowers shall comply with all of the terms, covenants and provisions set
+forth in the Loan Agreement, as amended hereby.
+
+
+                          ARTICLE 3 - ACKNOWLEDGEMENTS
+
+                 3.1          Acknowledgement of Defaults; Existing Loan
+Documents; Waiver of Defenses.  The Obligors acknowledge and agree that:
+
+                              (a)     the Existing Defaults as enumerated in
+Exhibit 3.1 attached hereto and incorporated herein currently exist;
+
+
+
+
+
+                                     - 9 -
+<PAGE>   10
+                              (b)     the Existing Defaults are material in
+nature;
+
+
+                              (c)     as a result of the Existing Defaults, the
+Agent, with the consent of the Required Banks, currently has the right to
+demand that all amounts outstanding under the Loan Documents are due and owing
+immediately to the Banks by the Borrowers and K-Tron Technologies;
+
+                              (d)     the Agent and the Banks are presently
+entitled to exercise their remedies under the Loan Documents and applicable
+law;
+
+                              (e)     the Loan Documents are valid and
+enforceable against those Obligors which are parties thereto in every respect,
+and all of the terms and conditions thereof are binding upon such Obligors; and
+
+                              (f)     to the extent that any defenses, set-offs
+or counterclaims exist as of this date, the Obligors hereby waive any and all
+such defenses, set-offs, and counterclaims which they or any of them may have
+to the enforcement by the Agent and/or the Banks of the Loan Documents and to
+the exercise by the Agent and/or the Banks of their rights and remedies under
+the Loan Documents and/or applicable law.
+
+
+                 3.2          Acknowledgment of Indebtedness.  The Obligors
+acknowledge and agree that as of April 18, 1995:
+
+                 (a) the Borrowers are indebted and liable to the Agent and the
+Banks under the Revolving Credit Loans in the principal amount of:  Ten Million
+Three Hundred Fifty Dollars ($10,350,000) and interest in the amount of
+$50,465.25 for a total of $10,400,456.25; and K-Tron America is indebted and
+liable to the Agent and the Banks under the Term Loan in the principal amount
+of $3,227,780 and interest in the amount of $16,138.90 for a total of
+$3,243,918.90; together with the Agent's and the Banks' reasonable fees, costs
+and expenses (collectively, the "Current Outstanding Obligations").
+
+                 3.3          Acknowledgement of Liens, Collateral and
+Priority.  The Obligors acknowledge and agree that:
+
+                 (a)  FFB, for itself and as Agent for the Banks, has a duly
+recorded, valid, first-priority mortgage lien on certain real property of
+K-Tron America, as more fully described in the Mortgage, as amended by that
+certain First Amendment of Mortgage and Security Agreement bearing even date
+herewith, between K-Tron America and the Agent (the "Mortgage Amendment"); the
+Mortgage being recorded on July 30, 1993, with the Clerk's Office of Gloucester
+County, New Jersey, at Book 2433, page 292, and the Mortgage Amendment to be
+filed promptly hereafter.
+
+
+
+
+
+                                     - 10 -
+<PAGE>   11
+                 (b)  Pursuant to the Mortgage, the Agent also has a duly
+perfected, first-priority security interest in and lien on certain personal
+property of K-Tron America, including fixtures.
+
+                 (c)  FFB for itself and as Agent for the Banks, also has a
+duly perfected, first-priority security interest in and lien on certain items
+of personal property of K-Tron America as more fully described in that certain
+Security Agreement between the Agent and K-Tron America, dated May 11, 1994
+(the "1994 Security Agreement").
+
+                 (d)  The Mortgage as amended by the Mortgage Amendment and the
+collateral described in the 1994 Security Agreement as amended shall secure all
+of the Obligations (as hereinafter defined) of K-Tron America; and all of the
+collateral described in the Security Agreements and any other Loan Document or
+Supplemental Loan Document granted, pledged or transferred by any Obligor in
+favor of the Agent and/or the Banks shall secure, inter alia, all of the
+Obligations (hereinafter defined) of such Obligor. For purposes of this
+Agreement, the word "Obligations" shall mean any and all obligations,
+liabilities and indebtedness of each Obligor to the Agent and/or the Banks of
+every kind and description, direct and indirect, absolute and contingent, sole,
+joint, several, or joint and several, primary or secondary, due or to become
+due, now existing or hereafter arising, regardless of how they arise or by what
+agreement or instrument they may be evidenced or whether evidenced by any
+agreement or instrument and includes obligations to perform acts and refrain
+from taking actions as well as obligations to pay money and also includes all
+indebtedness, liabilities and obligations of the Obligors or any Obligor to the
+Banks evidenced by or arising under the Supplemental Loan Documents and/or the
+existing Loan Documents as they may be amended by the Supplemental Loan
+Documents.
+
+                        ARTICLE 4 - OBLIGORS' COVENANTS
+
+                 The Obligors covenant and agree that from the date hereof and
+until the satisfaction of their Obligations, unless the Agent shall otherwise
+consent in writing:
+
+                 4.1          Payments During the Forbearance Period.  At all
+times, from and after the date of this Agreement, the Borrowers shall continue
+to pay principal and accrued interest on the Term Loan and the Revolving Credit
+Loans at the applicable interest rates and on the dates as provided in the Loan
+Agreement, as amended by this Forbearance Agreement.
+
+                 4.2          Payment of the Agent's and Banks' Attorneys'
+Fees, Costs and Expenses.  The Borrowers shall pay on or before the date
+hereof, and thereafter promptly after demand therefor, all reasonable
+attorneys' and other professionals' fees, and out-of-pocket costs and expenses
+incurred by the Agent and the Banks in connection with the negotiation,
+preparation and enforcement of the Loan Documents including, without
+limitation, this Forbearance Agreement and the Supplemental Loan Documents.
+
+
+
+
+
+                                     - 11 -
+<PAGE>   12
+                 4.3          Existing Covenants.  Unless otherwise provided
+herein, the Borrowers shall comply with all of the covenants set forth in the
+Loan Documents, as amended by the Supplemental Loan Documents.
+
+                 4.4          Repayment of Term Loan and Revolving Credit
+Loans.  On or before July 31, 1995, the Obligors shall pay to the Agent for the
+benefit of the Banks all outstanding principal and accrued interest on the Term
+Loan and the Revolving Credit Loans.
+
+                 4.5          No Transfers of Assets without Agent's Written
+Consent.  The Obligors shall not convey, transfer, consign, pledge or grant
+liens on or security interests in any of their respective assets to any entity
+other than the Banks or the Agent except for purchase money liens on equipment
+granted for purchases of such equipment in the ordinary course of Obligors'
+respective businesses (and refinancings of same).
+
+                 4.6          No Additional Debt.  No Obligor shall incur
+additional debt other than debt to the Banks, the Agent and/or trade debt or
+equipment leases in the ordinary course of such Obligor's business.
+
+                 4.7          Other Payments.  The Obligors shall not make any
+payments during the Forbearance Period, as hereinafter defined, to any bank or
+financial institution other than the Agent or the Banks on account of
+indebtedness for money borrowed.
+
+                 4.8          Cash Flow Forecast.  On or before the date
+required by Article VI hereof, the Borrowers shall deliver to the Agent and the
+Banks the Borrowers' detailed, weekly cash flow forecast for the Forbearance
+Period and their detailed monthly cash flow forecast for the period from August
+1, 1995 through December 31, 1995, together with a detailed description of all
+assumptions utilized in formulating such forecasts (collectively, the
+"Forecast"). The Forecast shall be prepared for K-Tron America separately and
+also for the Obligors combined.
+
+                 4.9          Actual to Projected Cash Flow.  On the second
+business day of each week during the Forbearance Period, the Borrowers shall
+deliver to the Banks a comparison of their actual cash flow to the Forecast for
+the prior week, together with any necessary revisions or corrections to the
+Forecast.
+
+                 4.10         Weekly Certification.  On the second business day
+of each week during the Forbearance Period, the Borrowers shall deliver to the
+Banks the information described on Exhibit 4.10 together with a certification
+by each Borrower's chief financial officer or by the chief financial officer of
+K-Tron International (or in such officer's absence, any other appropriate
+officer) for all Borrowers as to the truth and accuracy thereof.
+
+                 4.11         Assignment of Income Tax Refunds.  The Obligors
+represent and warrant to the Banks that they file their federal
+
+
+
+
+
+                                     - 12 -
+<PAGE>   13
+income tax returns on a consolidated basis and they are entitled to a federal
+income tax refund for the year ending December 31, 1994 of approximately
+$442,000 (of which they received approximately $42,000 in February, 1995). On
+or before the date of this Agreement, the Obligors shall assign all income tax
+refunds payable from any governmental body or agency to FFB, for itself and as
+Agent for the Banks.  Should any Obligor determine that it is entitled to an
+income tax refund at any time during the Forbearance Period or thereafter until
+the Obligations are satisfied, it shall notify the Agent of its intent to file
+a tax return requesting such refund at least one week before filing such a
+return so that the assignment of its income tax refund (and any other necessary
+or appropriate papers) may be attached to such tax return prior to the filing
+thereof.  The Obligors shall deliver to the Agent, immediately upon receipt
+thereof, any payment received (with any necessary endorsement) pursuant to an
+income tax refund to be applied to reduce the Obligations; and prior to
+delivery thereof to the Agent, any such income tax refund shall be held in
+trust for the benefit of the Agent and the Banks.
+
+                 4.12         Financial Information; Tax Returns.  Upon the
+filing of any document with the Securities Exchange Commission or any tax
+return or quarterly tax filing with any governmental agency, authority or body,
+the Obligors shall simultaneously deliver to the Agent and the Banks copies of
+such documents, returns or filings.
+
+                 4.13         Accounts Receivable from Foreign Affiliates.
+K-Tron America and K-Tron International (i) represent and warrant to the Banks
+that their net aggregate accounts receivable due from any and all of their
+foreign Affiliates was $736,000 as of March 3, 1995, (ii) agree that they shall
+cause their foreign Affiliates to pay to the Borrowers within 30 days of the
+end of each fiscal month, the amount of any net incremental aggregate accounts
+receivable in excess of $736,000 due from the Borrowers' foreign Affiliates as
+of the end of such fiscal month (and to the extent that such excess accounts
+receivable is not paid by the foreign Affiliates within such 30 day period,
+then within such 30 day period, the Borrowers shall pay the amount of such
+excess to the Agent for the benefit of the Banks to be applied to the
+Obligations); provided, however, that if payment by Colortronic GmbH of its
+share of such excess accounts receivable would cause a violation of Colortronic
+GmbH's loan agreements, then the payment of an amount not to exceed $150,000 of
+such excess accounts receivable due from Colortronic GmbH may be deferred by
+Colortronic GmbH (and the Borrowers) for an additional 60 days, (iii) agree
+that any amounts that may hereafter become due from K-Tron America and/or
+K-Tron International to their foreign Affiliates shall be netted (i.e. setoff)
+against such accounts receivable, and (iv) agree that they shall deliver to the
+Agent for the benefit of the Banks, to be applied to Obligations, an amount
+equal to any reduction in such net accounts receivable from foreign Affiliates
+as of the end of each month below $736,000 less any prior amounts paid pursuant
+to this clause (iv)
+
+
+
+
+
+                                     - 13 -
+<PAGE>   14
+(but not more than $736,000 in the aggregate) within 30 days of the end of such
+month.
+
+                 4.14         Third Party Accounts Payable.  Third party
+accounts payable of K-Tron America shall not exceed more than $4.0 million.
+For purposes of this section, any commissions that are not paid when due shall
+be included in K-Tron America's accounts payable.
+
+                 4.15         No Payments to Affiliates Without Fair
+Consideration.  No Obligor shall make any payments or transfers to any of its
+Affiliates unless fair and reasonable consideration is received therefor and
+such Affiliate is not liable to such Obligor for any accounts receivable or
+other amounts due to such Obligor.
+
+                 4.16         Liability for Corporate Overhead.  K-Tron America
+shall not be liable to K-Tron International for more than its proportionate
+share of corporate expenses based upon K-Tron International's Corporate Expense
+Budget for 1995 which shall be subject to review of the Banks as provided in
+Section 6.2 hereof.  K-Tron International shall use its best efforts to cause
+its European Affiliates to pay their share of monthly corporate expenses
+(including all management fees) each month within 30 days of the end of each
+month.  K-Tron America shall not pay more than its fair share of K-Tron
+International's research and development and marketing international
+expenditures on an interim and annual basis; and in any event K-Tron America
+shall not pay more than $1,400,000 for research and development and marketing
+international expenditures in the fiscal year ending 1995.  Within 25 days of
+the end of each calendar quarter, K-Tron America shall provide to the Banks a
+report of its year to date and quarterly research and development and marketing
+international expenditures.
+
+                 4.17         Inventory Purchases.  K-Tron America shall not
+purchase more inventory than is reasonably required to fill orders that have
+been accepted or budgeted in the Forecast or purchase inventory from any
+Affiliate for a price that is higher than prices for comparable products
+supplied by entities that are not Affiliates.
+
+                 4.18         Deposit Accounts.  The Obligors shall maintain
+all of their deposit and other accounts at FFB.
+
+                 4.19         Execution of Other Documents.  At the Agent's
+request, the Obligors shall execute and deliver to the Agent such other
+documents and agreements which the Agent, in its sole and reasonable
+discretion, deems necessary or convenient to carry out the terms of this
+Forbearance Agreement or the other Loan Documents.
+
+
+
+
+
+                                     - 14 -
+<PAGE>   15
+                          ARTICLE 5 - BANK'S COVENANTS
+
+                 5.1          Forbearance.  The Agent and the Banks shall
+forbear in the exercise of their rights and remedies (including, without
+limitation, the imposition of default rate interest) under the Loan Documents
+and applicable law from the date hereof through the earlier to occur of July
+31, 1995 or an Event of Default, as defined below, other than the Existing
+Defaults, which Existing Defaults the Obligors expect to continue indefinitely
+(the "Forbearance Period").
+
+                 5.2          Permitted Borrowing.  During the Forbearance
+Period, the Borrowers shall continue to be permitted to borrow amounts under
+Section 2.1 of the Loan Agreement, as amended by this Forbearance Agreement.
+
+                 5.3          Revolving Credit Commitments.  The Revolving
+Credit Commitments shall not exceed $10,350,000 at any time.
+
+                ARTICLE 6 - CONDITIONS PRECEDENT AND SUBSEQUENT
+
+                 The Agent's and Banks' obligations hereunder, are conditioned
+upon the fulfillment by the Obligors of the following conditions precedent and
+subsequent:
+
+                 6.1          Documents to be Delivered to the Agent and the
+Banks as Conditions Precedent.  The Obligors shall deliver or cause to be
+delivered on or before the date hereof to the Agent and the Banks, in form and
+substance satisfactory to the Agent and the Banks, the following (collectively,
+the "Supplemental Loan Documents"):
+
+                              (a)     this Forbearance Agreement duly executed
+by the Obligors;
+
+                              (b)     a First Amendment of Mortgage and
+Security Agreement by K-Tron America, as Mortgagor, in favor of the Agent, as
+Mortgagee, for the benefit of the Banks;
+
+                              (c)     a First Amendment of Collateral
+Assignment of Leases by K-Tron America, as Assignor in favor of the Agent, as
+Assignee for the benefit of the Banks;
+
+                              (d)     a Guarantee and Suretyship Agreement duly
+executed by K-Tron International in favor of the Agent, for the benefit of the
+Banks;
+
+                              (e)     a Security Agreement duly executed by
+K-Tron International in favor of the Agent, for the benefit of the Banks;
+
+                              (f)     an Amended and Restated Security
+Agreement duly executed by K-Tron America in favor of the Agent, for the
+benefit of the Banks;
+
+
+
+
+
+                                     - 15 -
+<PAGE>   16
+                              (g)     an Amended and Restated Guarantee and
+Suretyship Agreement duly executed by K-Tron Technologies in favor of the
+Agent, for the benefit of the Banks;
+
+                              (h)     a Security Agreement duly executed by
+K-Tron Technologies in favor of the Agent, for the benefit of the Banks;
+
+                              (i)     Guarantees and Suretyship Agreements duly
+executed separately by K-Tron Patent and K-Tron Investment in favor of the
+Agent, for the benefit of the Banks;
+
+                              (j)     Security Agreements duly executed
+separately by K-Tron Patent and K-Tron Investment in favor of the Agent, for
+the benefit of the Banks;
+
+                              (k)     United States Patent and Trademark Office
+filings required to perfect or give notice of the Agent's security interests in
+and liens on the Obligors' patents and trademarks;
+
+                              (l)     appropriate Assignments of Tax Refunds
+and powers of attorney regarding such income tax refunds due or that may
+hereafter become due to each Obligor;
+
+                              (m)     a down-dated endorsement of the title 
+insurance policy related to the Mortgage;
+
+                              (n)     all UCC-1 Financing Statements required
+to perfect all security interests granted by the Obligors to the Agent, for the
+benefit of the Banks;
+
+                              (o)     Certificates of Incumbency executed by
+the Secretary of each Obligor, dated as of the date of this Agreement,
+certifying the incumbency and signature of the officers of each Obligor
+executing this Agreement and any other documents to be delivered pursuant
+hereto, together with evidence of the incumbency of such Secretary;
+
+                              (p)     Corporate Resolutions for each Obligor;
+
+                              (q)     Certificates of Good Standing for each
+Obligor;
+
+                              (r)     Opinion of Obligors' counsel;
+
+                              (s)     Articles of Incorporation and By-Laws of
+each Obligor, certified as true and correct by the Corporate Secretary of each
+Obligor;
+
+                              (t)     K-Tron International's agreements between
+its foreign subsidiaries' and their respective lenders; and
+
+                              (u)     such other documents and agreements as
+the Agent, in its sole discretion, may reasonably require.
+
+
+
+
+
+                                     - 16 -
+<PAGE>   17
+                 6.2          Conditions Subsequent to Closing.  The Obligors
+shall deliver or shall cause to be delivered to the Agent and the Banks, on or
+before May 8, 1995 (or in the case of the Management Letter, as hereinafter
+defined, as soon as possible thereafter)  the following financial documents or
+information:
+
+                              (a)     K-Tron America's Forecast;
+
+                              (b)     K-Tron International's allocated expense
+budget for 1995 (including detailed corporate overhead, management fees,
+research and development costs, marketing expenses and the procedure for
+allocating corporate expenses among the various U.S. and foreign Affiliates
+and/or subsidiaries of K-Tron International;
+
+                              (c)     K-Tron America's proposal for an
+acceptable netting procedure that will reduce the foreign exchange risk on
+K-Tron America's purchases from and sales to its foreign Affiliates (which
+shall be subject to the Bank's review and approval);
+
+                              (d)      A copy of Arthur Andersen & Co.'s final
+management letter ("Management Letter") prepared in connection with K-Tron
+International's 1994 annual financial statements; and
+
+                              (e)     Copies of the Obligors' formulas,
+calculations and/or agreements for determining management and licensing fees,
+which shall be subject to the Bank's review and approval.
+
+         The Obligors shall advise the Banks of any material changes to any of
+the foregoing after delivery thereof to the Banks.
+
+
+                  ARTICLE 7 - GENERAL RELEASE BY THE OBLIGORS;
+                           RELIEF FROM STAY; WAIVERS           
+
+                 7.1          General Release.  Each Obligor for itself and all
+persons and entities claiming by, through or under such Obligor (collectively,
+the "Releasors") hereby jointly and severally unconditionally remise, release
+and forever discharge the Agent and each Bank and their past, present and
+future officers, directors, employees, agents, attorneys, parent, Affiliates,
+subsidiaries and the heirs, executors, personal administrators, successors and
+assigns, as applicable, of any such persons and entities (collectively, the
+"Releasees"), of and from any and all actions, causes of action, suits, claims,
+counterclaims, defenses, setoffs, liabilities, damages and demands whatsoever,
+whether known or unknown, at law or in equity, direct or indirect, if any,
+which any of the Releasors ever had, now has, claim to have had, now claim to
+have or hereafter can, shall or may claim to have against any of the Releasees
+upon or by reason of any matter, cause or thing, from the beginning of the
+world to the date hereof arising from or relating to the Loan Documents, the
+Supplemental Loan Documents,
+
+
+
+
+
+                                     - 17 -
+<PAGE>   18
+this Forbearance Agreement and the related transactions, obligations, and
+business dealings between the Agent, on behalf of the Banks, and the Obligors.
+
+                 7.2          Relief from the Automatic Stay.  In the event
+that any Obligor shall:  (i) file with any bankruptcy court or be the subject
+of any petition under Title 11 of the U.S. Code, as amended (the "Bankruptcy
+Code"), (ii) be the subject of any order for relief issued under the Bankruptcy
+Code, (iii) file or be the subject of any petition seeking any reorganization,
+arrangement, composition, readjustment, liquidation, dissolution or similar
+relief under any present or future foreign, federal or state act or law
+relating to bankruptcy, insolvency or other relief from creditors, (iv) have
+sought or consented to or acquiesced in the appointment of any trustee,
+receiver, conservator or liquidator, or (v) be the subject of any order,
+judgment or decree entered by any court of competent jurisdiction approving a
+petition filed against such party for any reorganization, arrangement,
+composition, readjustment, liquidation, dissolution or similar relief under any
+present or future federal or state act or law relating to bankruptcy,
+insolvency or other relief from creditors; then, the Agent and the Banks shall
+thereupon be entitled to relief from any automatic stay imposed by Section 362
+of the Bankruptcy Code or otherwise to exercise any or all of their respective
+rights and remedies available under any of the Loan Documents and/or
+non-bankruptcy law; and Obligors shall consent to such relief and take all
+actions deemed necessary or desirable by the Agent and/or the Required Banks to
+implement this Section.
+
+                 7.3          Waivers.  In the event the Agent and/or the Banks
+seek to take possession of any or all of the Collateral by court process, the
+Obligors hereby irrevocably waive any bonds and any surety or security relating
+thereto required by any statute, court rule or otherwise as an incident to such
+possession, and waive any demand for possession prior to the commencement of
+any suit or action to recover such Collateral.
+
+
+                   ARTICLE 8 - REPRESENTATIONS AND WARRANTIES
+
+                 To induce the Agent and the Banks to enter into this
+Forbearance Agreement, and as partial consideration for the terms and
+conditions contained herein, the Obligors make the following representations
+and warranties to the Agent, and the Banks, each and all of which shall survive
+the execution and delivery of this Forbearance Agreement and all of the other
+documents executed in connection herewith:
+
+                 8.1          Organization and Location.
+
+                              (a)     Each Obligor is a corporation duly
+incorporated, organized, validly existing and in good standing under the laws
+of the state of their incorporation, and is duly authorized to do business and
+is duly qualified as a foreign
+
+
+
+
+
+                                     - 18 -
+<PAGE>   19
+corporation in all jurisdictions wherein the nature of its business or property
+make such qualification necessary, and has the corporate power to own its
+properties and to carry on its business as now conducted;
+
+                              (b)     Each Obligor has the requisite corporate
+power and authority to own or hold under lease all of its properties, to carry
+on its business as currently conducted, and to execute, deliver and perform
+this Forbearance Agreement and all of the documents executed by it in
+connection herewith;
+
+                              (c)     Every fictitious name, tradename,
+division or style under which any Obligor conducts its business has been
+disclosed to the Agent in writing together with the names of each and every
+jurisdiction in which the same are utilized, and are included herein in Exhibit
+8.1(c) attached hereto;
+
+                              (d)     Every joint venture, partnership,
+enterprise and stock ownership of each Obligor has been disclosed to the Agent
+and is included herein in Exhibit 8.1(d) attached hereto;
+
+                              (e)     Every Affiliate, subsidiary or parent
+corporation of each Obligor is named in Exhibit 8.1(e) attached hereto.
+
+                 8.2          Authorization; Valid and Binding Agreement.  All
+corporate action required to be taken by each Obligor and its officers,
+directors and/or shareholders and all actions required to be taken by their
+respective principals for the authorization, execution, delivery and
+performance of this Forbearance Agreement and the other documents contemplated
+hereby have been taken.  Each person executing this Forbearance Agreement on
+behalf of an Obligor is an authorized officer and is authorized to execute
+same.  This Forbearance Agreement is, and each of the documents executed
+pursuant hereto will be, legal, valid, and binding obligations of the party or
+parties thereto, enforceable against each such party in accordance with their
+respective terms, subject only to bankruptcy, insolvency, reorganization,
+moratorium and other laws or equitable principals affecting creditors' rights
+generally.
+
+                 8.3          Location of Assets of the Obligors.  All of the
+assets and property, both real and personal of each Obligor is located at the
+addresses set forth in Exhibit 8.3 attached hereto, except for de minimis
+amounts of demo equipment and loaners temporarily located.
+
+                 8.4          Compliance with Laws.  The Obligors are in
+compliance in all material respects with all laws, regulations and requirements
+applicable to their businesses, and have not received, and have no knowledge
+of, any order or notice of any governmental investigation or of any violations
+or claims of violation of any law, regulation or any governmental requirement.
+
+
+
+
+
+                                     - 19 -
+<PAGE>   20
+                 8.5          No Conflict; Government Approvals.  The Obligors'
+execution, delivery and performance of this Forbearance Agreement and the other
+documents executed in connection herewith will not:
+
+                              (a)     conflict with, violate or result in the
+breach of any provision of any applicable law, rule, regulation or order; or
+
+                              (b)     conflict with or result in the breach of
+any provisions of the Articles of Incorporation or by-laws of any of the
+Obligors or any Affiliate or subsidiary of any of the Obligors.  No
+authorization, consent or approval of, or other action by, and no notice of or
+filing with, any governmental authority or regulatory body is required to be
+obtained or made by the Obligors for the due execution, delivery and
+performance of this Forbearance Agreement.
+
+                 8.6          Third Party Consents.  The execution, delivery
+and performance by the Obligors of this Forbearance Agreement and the documents
+related hereto will not:
+
+                              (a)     require any consent or approval of any
+person or entity which has not been obtained prior to, and which shall remain
+in full force and effect as of the date of the date this Forbearance Agreement
+is executed;
+
+                              (b)     result in the breach of, default under,
+or cause the acceleration of any obligation owed under any loan, credit
+agreement, note, security agreement, lease indenture, mortgage, loan document
+or other agreement by which the Obligors are bound or affected; or
+
+                              (c)     result in, or require the creation or
+imposition of, any lien or encumbrance on the property of the Obligors other
+than those liens or security interests in favor of the Agent on behalf of the
+Banks or the liens or security interests disclosed to the Agent in the Existing
+Loan Documents.
+
+                 8.7          Financial Statements; Reporting.
+
+                              (a)     All balance sheets, reports, statements
+of income, shareholders' equity and changes in financial position,  budgets,
+reconciliations, monthly sales reports, monthly accounts receivable reports and
+monthly accounts payable reports with respect to the Obligors have been
+prepared in form acceptable to the Agent and, if applicable, in conformity with
+generally accepted accounting principles and applied on a basis consistent with
+that of the preceding fiscal year of the Obligors and present fairly the
+financial condition and results of operations for the period covered thereby of
+the Obligors.  The chief financial officer (or in such officer's absence, any
+other appropriate officer) of K-Tron International or each Obligor shall
+certify the truth and accuracy of all such financial information.  Since
+December 31, 1994, there has been no material
+
+
+
+
+
+                                     - 20 -
+<PAGE>   21
+adverse change in the Borrowers' or Sureties' financial condition or results of
+operation except as disclosed to the Banks in writing prior to the date of this
+Forbearance Agreement.
+
+                              (b)     The Obligors do not know of any facts,
+other than those already disclosed in writing to the Agent by the Obligors,
+that materially adversely affect or in so far as can be foreseen, will
+materially adversely affect the Obligors' ability to perform their Obligations
+under this Forbearance Agreement and the Loan Documents.
+
+                 8.8          Litigation and Contingent Liabilities.  Except as
+set forth on Exhibit 8.8 hereto, no claim, action, suit, litigation,
+administrative or governmental proceeding (collectively "Claims") is pending,
+or to the knowledge of the Obligors upon due inquiry, is threatened against any
+Obligor in which the amount involved exceeds $250,000 in the aggregate.  The
+Obligors hereby agree to delver to the Banks at closing and within one week
+after the end of each calendar quarter a written status report of all Claims
+pending or threatened against each Obligor.
+
+                 8.9          Exclusive and First Priority Perfected Lien.  The
+Agent on behalf of the Banks has, as of the date of this Agreement, and shall
+continue to have, until all of the Obligations are paid in full, first
+priority, valid perfected (to the extent that the same may be perfected by
+filing) liens upon and security interests in all of the collateral, both real
+and personal, described in the Security Agreements and the Mortgage, as amended
+by the Mortgage Amendment.
+
+                 8.10         No Untrue or Misleading Statements.  Neither this
+Forbearance Agreement nor any other document executed in connection herewith by
+the Obligors contains any untrue statement of a material fact or omits any
+material fact necessary in order to make the statement made, in light of the
+circumstances under which it was made, accurate.
+
+                 8.11         No Other Defaults.  Except for the Existing
+Defaults described on Exhibit 3.1 hereto, no default or Event of Default exists
+as of the date hereof under any of the Loan Documents.
+
+                 8.12         No Transfers.  No assets of the Obligors have
+been consigned or transferred outside of the ordinary course of the Obligors'
+businesses to another entity.
+
+                 8.13         Other Representations and Warranties.  The
+Obligors hereby reaffirm all of their representations and warranties to the
+Agent contained in the Loan Documents, and warrant that, except to the extent
+disclosed in the Supplemental Loan Documents, such representations and
+warranties are true and correct as of the date of this Agreement.
+
+
+
+
+
+                                     - 21 -
+<PAGE>   22
+                 8.14         No Other Indebtedness.  None of the Obligors has
+any outstanding indebtedness for borrowed money to any  entity other than the
+Banks.
+
+                 8.15         Patents and Trademarks.  To the best of each
+Obligors knowledge after reasonable inquiry, no Obligor owns or has any
+interest in any patent or trademark except as set forth on Exhibit 8.15 hereto
+(it being understood, however, that the Obligors are unable to determine
+whether they have any interest in those patents and trademarks listed on
+Exhibit 8.15 as either "unassigned" or "abandoned").  The Obligors shall advise
+the Agent of any patents, trademarks and/or related applications that any
+Obligor acquires or discovers it has an interest in at any time hereafter.
+
+                 8.16         Tax Refunds.  To the best of Obligors' knowledge,
+the Obligors are entitled to a federal income tax refund which they have not
+yet received in the aggregate approximate amount of $400,000.
+
+                         ARTICLE 9 - EVENTS OF DEFAULT
+
+                 Each of the following shall constitute an "Event of Default"
+under this Forbearance Agreement and all other Loan Documents:
+
+                 9.1          Payment.  Failure of any Obligor to make any
+payment of principal, interest or other amounts due on the date such payment is
+due under the Loan Agreement as modified by this Forbearance Agreement or under
+any other Loan Document.
+
+                 9.2          Covenants.  Failure of any Obligor to observe any
+non-monetary covenant set forth herein or in any of the Loan Documents which
+default is not cured within the time period, if any, specified herein or in the
+Loan Documents.
+
+                 9.3          Agreements Invalid.  (A) The validity, binding
+nature or enforceability of any material term or provision of this Forbearance
+Agreement, any other Supplemental Loan Document or any of the other Loan
+Documents is disputed by, on behalf of, or in the right or name of any Obligor
+or (B) this Forbearance Agreement, the Supplemental Loan Documents and the
+other Loan Documents are found or declared to be invalid, avoidable, or
+unenforceable by any court of competent jurisdiction.
+
+                 9.4          False Warranties; Breach of Representations.  Any
+warranty or representation made or reaffirmed by any Obligor in this
+Forbearance Agreement or in any other Supplemental Loan Document or in any
+certificate or other writing delivered under or pursuant to this Forbearance
+Agreement or any other Supplemental Loan Document, or in connection with any
+provision of this Forbearance Agreement or related to the transactions
+contemplated hereby shall prove to have been false or incorrect or breached in
+any material respect as of the date made.
+
+
+
+
+
+                                     - 22 -
+<PAGE>   23
+                 9.5          Judgments.  A final judgment or judgments is
+entered, or an order or orders of any judicial authority or governmental entity
+is issued against any Obligor (i) for payment of money in the aggregate in
+excess of $25,000 or (ii) for injunctive or declaratory relief which would have
+a material adverse effect on the ability of any Obligor to conduct its business
+as presently conducted; and such judgment or order is not discharged or
+execution thereon or enforcement thereof is not stayed pending appeal, within
+thirty (30) days after entry or issuance thereof, or, in the event of such a
+stay, such judgment or order is not discharged within thirty days after such
+stay expires.
+
+
+         9.6     Liens.  Any execution, garnishment, attachment, distraint, or
+lien is filed, entered, or issued against any Obligor or any of its property or
+any order is entered enjoining or restraining any Obligor and/or restraining or
+seizing any property of any Obligor which is not stayed, discharged or bonded
+within 45 days (provided, however, that all borrowing availability shall
+terminate immediately and automatically upon the commencement and during such
+45 day period).
+
+         9.7     Bankruptcy or Insolvency of an Obligor.
+
+                              (a)     Any Obligor becomes insolvent, or
+generally fails to pay, or is generally unable to pay or admits in writing its
+inability to pay its debts as they become due, or applies for, consents to or
+acquiesces in, the appointment of a trustee, receiver or other custodian for
+that Obligor, as the case may be, or a substantial part of its property, or
+makes a general assignment for the benefit of creditors;
+
+                              (b)     Any Obligor commences any bankruptcy,
+reorganization, debt adjustment, or other case or proceeding under any state or
+federal bankruptcy or insolvency law, or any dissolution or liquidation
+proceeding;
+
+                              (c)     Any bankruptcy, reorganization, debt
+arrangement or other case or proceeding under any state or federal bankruptcy
+or insolvency law or any dissolution or liquidation proceeding is involuntarily
+commenced against or in respect of an Obligor and the same shall not be stayed
+or dismissed within 45 days (provided, however, that all borrowing availability
+shall terminate immediately and automatically upon the commencement and during
+such 45 day period);
+
+                              (d)     A trustee, receiver or other custodian is
+appointed for any Obligor or a substantial part of such entity's property and
+the same shall not be stayed or dismissed within 45 days (provided, however,
+that all borrowing availability upon the commencement shall terminate
+immediately and automatically during such 45 day period).
+
+
+
+
+
+                                     - 23 -
+<PAGE>   24
+                 9.8          Cross-Default.  A default or an event of default
+(other than the Existing Defaults) occurs under any Loan Document that is not
+cured within the applicable grace period, if any.
+
+                             ARTICLE 10 - REMEDIES
+
+                 Upon the earlier of (i) the occurrence of any one or more
+Events of Default (other than the Existing Defaults), or (ii) July 31, 1995:
+(a) all Obligations shall become due and payable immediately and without notice
+to the Obligors, (b) the obligations of the Agent and the Banks hereunder shall
+terminate automatically and immediately, without notice to the Obligors, and
+(c) the Agent and the Banks shall have all the remedies set forth in any of the
+Loan Documents and/or under applicable law.
+
+                           ARTICLE 11 - MISCELLANEOUS
+
+                 11.1         Costs, Expenses and Attorneys' Fees.  The
+Obligors agree to pay on demand by the Agent:
+
+                              (a)     All reasonable out-of-pocket costs and
+expenses incurred by the Agent and/or the Banks, including without limitation,
+all reasonable fees and out-of-pocket expenses of counsel, accountants and
+other professionals for the Agent and/or the Banks in connection with:
+
+                                      (i)      the negotiation, preparation and
+enforcement of this Forbearance Agreement, all other Supplemental Loan
+Documents, all other Loan Documents and the documents relating thereto;
+
+                                      (ii)     the assertion by any person,
+entity or organization, other than the Banks, of any claim or lien,
+encumbrance, security interest, or other interest in any of the assets of the
+Obligors (except to the extent such interest is permitted under any Loan
+Document), including any attachment, garnishment, levy, notice of debtor's
+examination, notice of examination, judgment lien or execution lien, regardless
+of when such fees or expenses are incurred;
+
+                                      (iii) the enforcement or exercise by the
+Agent and/or the Banks of the Agent's and/or any Bank's rights or remedies with
+respect to the collection of the Obligations or to preserve, protect or enforce
+the Agent's and/or any Bank's interests in any bankruptcy, insolvency or
+reorganization case which may affect any Obligor and any litigation, dispute,
+case, arbitration or action with respect to any attachment, garnishment, levy,
+notice of debtor's examination, judgment lien or execution which may affect any
+Obligor; and
+
+                              (b)     Any stamp or documentary tax or other
+similar taxes and any filing, recording, lien, mortgage, release, satisfaction
+or search fees which may be payable in connection with the execution, delivery
+or performance of this Forbearance
+
+
+
+
+
+                                     - 24 -
+<PAGE>   25
+Agreement, the Supplemental Loan Documents, all other Loan Documents or the
+documents comprising or relating hereto and thereto.
+
+                 All Obligations provided for in this section shall survive any
+termination of the Banks' and the Agent's obligations under this Forbearance
+Agreement.  The Obligors acknowledge that the Banks have provided the Obligors
+with a non-binding, good faith estimate of the fees and expenses of Policano &
+Manzo for the Forbearance Period.
+
+                 11.2         Cooperation; Other Documents.  At all times
+following the execution of this Forbearance Agreement, the Obligors shall
+execute and deliver to the Agent, or shall cause to be executed and delivered
+to the Agent any other document required by the Agent to protect its rights
+under this Forbearance Agreement, and shall do or cause to be done, all such
+other acts and things as the Agent may reasonably deem to be necessary or
+desirable to assure the Agent and the Banks of the benefit of this Forbearance
+Agreement and the documents comprising or relating to this Forbearance
+Agreement.  Furthermore, at all times following the execution of this
+Forbearance Agreement, the Agent, the Banks, or their representatives shall
+have the right to examine each Borrowers' or Guarantors' books and records at
+any time during normal business hours.
+
+                 11.3         Remedies Cumulative; No Waiver.  The
+respective rights, powers and remedies of the Agent and Banks in this
+Forbearance Agreement and in the documents comprising or relating to this
+Forbearance Agreement are cumulative and not exclusive of any right, power or
+remedy provided in the Loan Documents, by law or equity and no failure or delay
+on the part of the Agent or the Banks in the exercise of any right, power or
+remedy shall operate as a waiver thereof, nor shall any single or partial
+exercise of any right, power or remedy preclude any other or further exercise
+thereof, or the exercise of any other right, power or remedy.
+
+                 11.4         Notices.  Any notice given pursuant to this
+Forbearance Agreement or pursuant to any document comprising or relating to
+this Forbearance Agreement shall be given in conformity with Section  11.2 of
+the Loan Agreement.
+
+                 11.5         Survival of Representations and Warranties.  All
+representations and warranties of the Obligors contained in this Forbearance
+Agreement and in the documents comprising or relating to this Forbearance
+Agreement shall survive the execution of this Forbearance Agreement and are
+material and have been or will be relied upon by the Agent and the Banks,
+notwithstanding any investigation made by any person, entity or organization on
+either the Agent's or any Bank's behalf.  No implied representations or
+warranties are created or arise as a result of this Forbearance Agreement or
+the documents comprising or relating to this Forbearance Agreement.  For
+purposes of the foregoing, all statements in any certificate or other writing
+
+
+
+
+
+                                     - 25 -
+<PAGE>   26
+required by this Forbearance Agreement to be delivered to the Agent on or after
+the execution of this Forbearance Agreement by or on behalf of any Obligor
+pursuant to and in accordance with this Forbearance Agreement or any document
+comprising or relating to this Forbearance Agreement or in connection with the
+transactions contemplated thereby shall be deemed to be representations and
+warranties contained in this Forbearance Agreement.
+
+                 11.6         Integration.  This Forbearance Agreement and all
+documents referred to, comprising or relating to this Forbearance Agreement,
+including, without limitation, the Loan Documents, constitute the sole
+agreement of the parties with respect to the subject matter hereof and thereof
+and supersede all oral negotiations, term sheets and other prior writings with
+respect to the subject matter hereof and thereof.
+
+                 11.7         Amendment and Waiver.  No amendment of this
+Forbearance Agreement, and no waiver, discharge or termination of any one or
+more of the provisions hereof, shall be effective unless set forth in writing
+and signed by all of the parties hereto.
+
+                 11.8         Consistency of Provisions.  This Forbearance
+Agreement, the other Supplemental Loan Documents, and the other Loan Documents,
+and any other document related hereto and thereto are intended to be
+consistent. However, in the event of any inconsistencies among any of such
+documents, such inconsistency shall not affect the validity or enforceability
+of any such document.  The Obligors agree that in the event of any express
+inconsistency or ambiguity in any of such documents, the terms of this
+Forbearance Agreement shall govern.
+
+                 11.9         Continuing Effectiveness of Loan Agreement.  The
+Loan Agreement, as amended hereby, and the other Loan Documents shall remain in
+full force and effect.
+
+                 11.10        Counterparts.  This Forbearance Agreement may be
+executed in one or more counterparts, all of which taken together shall
+constitute one and the same agreement.
+
+                 11.11        Governing Law.  This Forbearance Agreement shall
+be governed by, and construed in accordance with, the laws of the State of New
+Jersey.
+
+                 11.12        Severability.  Any provision of this Forbearance
+Agreement which is prohibited or unenforceable in any jurisdiction shall, as to
+such jurisdiction be ineffective to the extent of such prohibition or
+unenforceability without invalidating the remaining provisions of this
+Forbearance Agreement or affecting the validity or enforceability of such
+provision in any other jurisdiction.
+
+                 11.13        Headings.  Article and Section headings in this
+Forbearance Agreement are included for convenience of reference
+
+
+
+
+
+                                     - 26 -
+<PAGE>   27
+only and shall not constitute a part of this Forbearance Agreement for any
+other purpose.
+
+                 11.14        Successors and Assigns.  The provisions of this
+Forbearance Agreement shall be binding upon and inure to the benefit of the
+parties hereto and their respective successors and assigns.
+
+                 11.15        Jurisdiction and Venue.  IN ANY JUDICIAL
+PROCEEDING INVOLVING, DIRECTLY OR INDIRECTLY, ANY MATTER ARISING OUT OF OR
+RELATING TO THIS FORBEARANCE AGREEMENT OR THE RELATIONSHIP ESTABLISHED
+HEREUNDER, THE OBLIGORS HEREBY IRREVOCABLY SUBMIT THEMSELVES TO THE
+JURISDICTION OF ANY STATE OR FEDERAL COURT LOCATED IN ANY COUNTY OR FEDERAL
+JUDICIAL DISTRICT IN THE STATE OF NEW JERSEY WHERE THE AGENT MAINTAINS AN
+OFFICE AND AGREE NOT TO RAISE ANY OBJECTION TO SUCH JURISDICTION OR TO THE
+VENUE OF ANY SUCH COURT.  THE OBLIGORS AGREE THAT SERVICE OF PROCESS IN ANY
+SUCH PROCEEDING MAY BE DULY EFFECTED UPON THEM BY MAILING A COPY THEREOF,
+POSTAGE PREPAID TO THE OBLIGORS AT THE ADDRESS SET FORTH IN THE LOAN AGREEMENT
+AND/OR THE SECURITY AGREEMENT.
+
+                 11.16        Waiver of Jury Trial; Damages.  EACH PARTY HERETO
+HEREBY IRREVOCABLY WAIVES ANY RIGHT TO TRIAL BY JURY IN ANY JUDICIAL PROCEEDING
+INVOLVING, DIRECTLY OR INDIRECTLY, ANY MATTER (WHETHER SOUNDING IN TORT,
+CONTRACT OR OTHERWISE) IN ANY WAY ARISING OUT OF OR RELATING TO THIS
+FORBEARANCE AGREEMENT OR THE RELATIONSHIP BETWEEN THE PARTIES.  THIS PROVISION
+IS A MATERIAL INDUCEMENT FOR THE BANKS AND THE AGENT TO ENTER INTO THIS
+FORBEARANCE AGREEMENT.  IN ADDITION, EACH PARTY HEREBY IRREVOCABLY WAIVES ANY
+RIGHT WHICH IT MAY HAVE TO CLAIM OR RECOVER, IN ANY SUCH JUDICIAL PROCEEDING,
+ANY SPECIAL, EXEMPLARY, PUNITIVE, CONSEQUENTIAL OR OTHER DAMAGES, EXCEPT FOR
+ACTUAL DAMAGES.
+
+
+
+
+
+                                     - 27 -
+<PAGE>   28
+                 IN WITNESS WHEREOF, the Agent, the Banks and the Obligors have
+executed this Forbearance Agreement as of the date and year first above
+written.
+
+
+<TABLE>
+<S>                                   <C>
+Attest:                                  K-TRON INTERNATIONAL, INC.
+
+By: /s/ Mary Vaccara                  By: /s/ Robert L. Weinberg        
+   -----------------------               -------------------------------
+   Mary Vaccara                           Name:  Robert L. Weinberg
+   Assistant Secretary                    Title: Senior Executive Vice
+                                                   President,
+                                                 Chief Financial Officer
+                                                   and Treasurer
+
+Attest:                                  K-TRON AMERICA, INC.
+
+
+By: /s/ Alan Sukoneck                 By: /s/ Robert L. Weinberg       
+   ------------------------              ------------------------------
+   Vice President and                     Name:  Robert L. Weinberg
+   Assistant Secretary                    Title: Vice President and
+                                                 Treasurer
+
+
+Attest:                                  K-TRON TECHNOLOGIES, INC.
+
+
+By: /s/ Mary Vaccara                  By: /s/ Robert L. Weinberg      
+   ------------------------              -----------------------------
+   Mary Vaccara                           Name:  Robert L. Weinberg
+   Secretary                              Title: President
+
+
+
+Witness:                                 K-TRON PATENT, INC.
+
+By: /s/ Mary Vaccara                  By: /s/ Robert L. Weinberg      
+   -----------------------               -----------------------------
+   Mary Vaccara                           Name:  Robert L. Weinberg
+                                          Title: Vice President and
+                                                 Treasurer
+
+
+Attest:                                  K-TRON INVESTMENT CO.
+
+
+By: /s/ Mary Vaccara                  By: /s/ Robert L. Weinberg      
+   ------------------------              -----------------------------
+   Mary Vaccara                           Name:  Robert L. Weinberg
+   Secretary                              Title: Vice President and
+                                                 Treasurer
+</TABLE>
+
+
+
+
+
+                                     - 28 -
+<PAGE>   29
+                                          FIRST FIDELITY BANK, N.A.
+                                          FOR ITSELF AND AS AGENT FOR THE BANKS
+
+                                      By: /s/ Elizabeth B. Styer      
+                                         -----------------------------
+                                          Name:  Elizabeth B. Styer
+                                          Title: Senior Vice President
+
+
+                                          PNC BANK, N.A.
+
+
+                                      By: /s/ Constantin B. Chepurny  
+                                         -----------------------------
+                                          Name:  Constantin B. Chepurny
+                                          Title: Vice President
+
+
+                                          UNITED JERSEY BANK, N.A.
+
+
+                                      By: /s/ Kevin M. Behan          
+                                         -----------------------------
+                                          Name:  Kevin M. Behan
+                                          Title: Vice President
+
+
+
+
+
+                                     - 29 -
+<PAGE>   30
+<TABLE>
+<CAPTION>
+                                          Exhibits
+                                          --------
+<S>                                   <C>
+Exhibit 3.1                           Existing Defaults
+
+Exhibit 4.10                          Weekly Certification
+
+Exhibit 8.1(c)                        Fictitious Names, Tradenames or
+                                      Division Names and all Jurisdictions
+                                      in which such names are used
+
+Exhibit 8.1(d)                        Joint Ventures, Partnerships,
+                                      Enterprises and Stock Ownerships
+                                      of each Obligor
+
+Exhibit 8.1(e)                        Affiliates, Subsidiaries and Parent
+                                      of each Obligor
+
+Exhibit 8.3                           Location of each Obligor's Assets and
+                                      Property
+
+Exhibit 8.8                           Pending or Threatened Litigation
+
+Exhibit 8.15                          Patents and Trademarks of each
+                                      Obligor
+</TABLE>
+
+
+
+
+
+                                     - 30 -
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-11.1
+<SEQUENCE>3
+<DESCRIPTION>COMPUTATION OF (LOSS) PER SHARE
+<TEXT>
+
+<PAGE>   1
+                                                                    Exhibit 11.1
+
+                   K-TRON INTERNATIONAL, INC. & SUBSIDIARIES
+                        COMPUTATION OF (LOSS) PER SHARE
+                                  (Unaudited)
+
+<TABLE>
+<CAPTION>
+                                                                                           Three Months Ended
+                                                                                           ------------------
+                                                                                       April 1,           April 2,
+                                                                                         1995               1994
+                                                                                         ----               ----
+<S>                                                                                 <C>                  <C>
+AVERAGE COMMON AND                                                                                       
+   COMMON-EQUIVALENT                                                                                     
+   SHARES:                                                                                               
+                                                                                                         
+   Weighted Average                                                                                      
+   Common Shares                                                                                         
+   Outstanding                                                                                           
+   per Period                                                                         3,088,000          3,056,000
+                                                                                                         
+   Stock Options and                                                                                     
+   Warrants Computed                                                                      1,000              9,000
+                                                                                     ----------          ---------
+                                                                                                         
+ADJUSTED AVERAGE COMMON                                                                                  
+   AND COMMON-EQUIVALENT                                                                                 
+   SHARES COMPUTATION                                                                 3,089,000          3,065,000
+                                                                                    ===========          =========
+                                                                                                         
+EARNINGS FOR COMMON AND                                                                                  
+   COMMON-EQUIVALENT                                                                                     
+   SHARES COMPUTATION:                                                                                   
+                                                                                                         
+    (Loss)applicable to Common Stock                                                $(1,280,000)         $(677,000)
+                                                                                    ============         ==========
+                                                                                                         
+EARNINGS PER SHARE:                                                                                      
+                                                                                                         
+(Loss)per share                                                                     $      (.41)         $    (.22)
+                                                                                    ============         ==========
+</TABLE>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>4
+<DESCRIPTION>FINANCIAL DATA SCHEDULE
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE> 5
+<MULTIPLIER> 1,000
+       
+<S>                             <C>
+<PERIOD-TYPE>                   3-MOS
+<FISCAL-YEAR-END>                          DEC-30-1995
+<PERIOD-START>                             JAN-01-1995   
+<PERIOD-END>                               APR-01-1995
+<CASH>                                           1,260
+<SECURITIES>                                         0
+<RECEIVABLES>                                   33,599
+<ALLOWANCES>                                     1,764
+<INVENTORY>                                     31,131
+<CURRENT-ASSETS>                                66,982
+<PP&E>                                          71,313
+<DEPRECIATION>                                  36,684
+<TOTAL-ASSETS>                                 123,557
+<CURRENT-LIABILITIES>                           67,300
+<BONDS>                                         31,428
+<COMMON>                                            41
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                          0
+<OTHER-SE>                                      18,269
+<TOTAL-LIABILITY-AND-EQUITY>                   123,557
+<SALES>                                         30,503
+<TOTAL-REVENUES>                                30,503
+<CGS>                                           19,292
+<TOTAL-COSTS>                                   19,292
+<OTHER-EXPENSES>                                11,186
+<LOSS-PROVISION>                                     0
+<INTEREST-EXPENSE>                               1,305
+<INCOME-PRETAX>                                (1,280)
+<INCOME-TAX>                                         0
+<INCOME-CONTINUING>                            (1,280)
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                   (1,280)
+<EPS-PRIMARY>                                    (.41)
+<EPS-DILUTED>                                    (.41)
+        
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

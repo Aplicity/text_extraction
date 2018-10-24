@@ -1,0 +1,3690 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Fv/hB8kgAZsaxFLJ2m4gSZ34tHTsXGhiYuRQpX+WHPcQ3p47r7S4P7nEIDcv1IXx
+ KQ9VvIN7Ag/MvHPx+voo7Q==
+
+<SEC-DOCUMENT>0000893220-97-000572.txt : 19970320
+<SEC-HEADER>0000893220-97-000572.hdr.sgml : 19970320
+ACCESSION NUMBER:		0000893220-97-000572
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		9
+CONFORMED PERIOD OF REPORT:	19961228
+FILED AS OF DATE:		19970319
+SROS:			NONE
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			K TRON INTERNATIONAL INC
+		CENTRAL INDEX KEY:			0000000020
+		STANDARD INDUSTRIAL CLASSIFICATION:	INDUSTRIAL INSTRUMENTS FOR MEASUREMENT, DISPLAY, AND CONTROL [3823]
+		IRS NUMBER:				221759452
+		STATE OF INCORPORATION:			NJ
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-09576
+		FILM NUMBER:		97558827
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ROUTE 55 & 553
+		STREET 2:		BOX 888
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071-0888
+		BUSINESS PHONE:		6096616240
+
+	MAIL ADDRESS:	
+		STREET 1:		ROUTE 55 & 553
+		STREET 2:		P O BOX 888
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071-0888
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<DESCRIPTION>10-K ANNUAL REPORT K-TRON INTERNATIONAL INC.
+<TEXT>
+
+<PAGE>   1
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                                    FORM 10-K
+
+(Mark One)
+[X]   Annual report pursuant to section 13 or 15(d) of the Securities Exchange
+      Act of 1934 [NO FEE REQUIRED] for the fiscal year ended December 28, 1996
+      or
+
+[ ]   Transition report pursuant to section 13 or 15(d) of the Securities
+      Exchange Act of 1934 [NO FEE REQUIRED] for the transition period from
+      ________ to ________
+
+                          COMMISSION FILE NUMBER 0-9576
+
+
+                           K-TRON INTERNATIONAL, INC.
+             (EXACT NAME OF REGISTRANT AS SPECIFIED IN ITS CHARTER)
+
+                  New Jersey                            22-1759452             
+        (State or other jurisdiction of    (I.R.S. Employer Identification No.)
+        incorporation or organization)     
+
+             Routes 55 and 553
+               P.O. Box 888
+            Pitman, New Jersey                          08071-0888
+ (Address of principal executive offices)               (Zip Code)
+                                                            
+                      
+        Registrant's telephone number, including area code: (609)589-0500
+
+           Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class             Name of each exchange on which registered
+       None                                        None                  
+                                             
+           Securities registered pursuant to Section 12(g) of the Act:
+
+                     Common Stock, par value $.01 per share
+                                (Title of class)
+
+Indicate by check mark whether the registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the preceding 12 months (or for such shorter period that the registrant was
+required to file such reports), and (2) has been subject to such filing
+requirements for the past 90 days. Yes X  No___
+
+
+                                                      
+
+<PAGE>   2
+
+
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405
+of Regulation S-K is not contained herein, and will not be contained, to the
+best of registrant's knowledge, in the definitive proxy statement incorporated
+by reference in Part III of this annual report on Form 10-K or any amendment to
+this annual report on Form 10-K. / /
+
+As of March 10, 1997, the aggregate market value of the Common Stock held by
+non-affiliates of the registrant was $31,452,794. Such aggregate market value
+was computed by reference to the closing sale price of the Common Stock as
+reported on the National Market segment of The Nasdaq Stock Market on such date.
+For purposes of making this calculation only, the registrant has defined
+affiliates as including all directors and executive officers, but excluding the
+Estate of Dr. Mario Gallo and David L. Babson Company, Inc., which are the only
+two beneficial owners of more than ten percent of Common Stock of the Company.
+
+As of March 10, 1997, there were 3,142,865 shares of the registrant's Common
+Stock outstanding.
+
+
+
+
+                      DOCUMENTS INCORPORATED BY REFERENCE:
+
+As stated in Part III of this annual report on Form 10-K, portions of the
+following document are incorporated herein by reference:
+
+         Definitive proxy statement to be filed within 120 days after the end of
+         the fiscal year covered by this annual report on Form 10-K.
+
+Unless the context indicates otherwise, the terms "K-Tron" and "Company" refer
+to K-Tron International, Inc. and, where appropriate, one or more of its
+subsidiaries.
+
+
+
+
+                                       -2-
+
+<PAGE>   3
+                                     PART I
+
+Item 1.  Business.
+
+General
+
+         K-Tron International, Inc. was incorporated in New Jersey in 1964. Its
+principal operating businesses are conducted by subsidiaries which design,
+produce, market and sell gravimetric and volumetric feeders and related
+equipment for the handling of bulk solids in a wide variety of manufacturing
+processes. K-Tron has manufacturing facilities in the United States and
+Switzerland, and its equipment is sold throughout the world.
+
+         K-Tron feeders control by either mass or weight (gravimetric feeding)
+or volume (volumetric feeding) the rate at which ingredients are fed into the
+manufacturing processes of numerous products, primarily in the plastics, food,
+chemical, cement, glass and aluminum industries. In addition, the Company
+designs, produces, markets and sells electronic assemblies and controls, and it
+provides customer and employee training through its K-Tron Institute.
+
+         See Note 12 of Notes to consolidated financial statements, included in
+Item 8 of this annual report on Form 10-K, for certain financial information
+about foreign and domestic operations.
+
+Principal Products
+
+         The Company produces, markets and sells its principal products under
+two brand names: K-Tron Soder (feeders for other than heavy industries) and
+Hasler (feeders for heavy industries). The Company sells these brands on both an
+equipment and total system basis.
+
+Feeding Equipment
+
+         The Company's feeders control the flow of materials into a
+manufacturing process by either mass or weight (gravimetric feeding) or volume
+(volumetric feeding). Feeding equipment manufactured by the Company is used in
+many industries.
+
+         Weigh Belt Feeders. Weigh belt feeders move dry bulk material along a
+belt, continuously weighing the material and adjusting the belt speed in order
+to control precisely the flow rate of the material being fed into the
+manufacturing process. The feeder regulates the flow rate according to the set
+points in its electronic controller. A typical application would incorporate
+several feeders, each supplying an ingredient of the final product, and
+electronic controllers that determine the feed rate of each ingredient and are
+capable of instantly altering individual feed rates to maintain the desired
+proportion of each ingredient.
+
+
+                                       -3-
+<PAGE>   4
+         Weigh belt feeders may also be used as batchers, to feed bulk material
+into bags, mixers, or as meters, to measure accurately the amount of material
+flowing into or out of a container.
+
+         Loss-in-Weight Feeders. The loss-in-weight principle involves weighing
+the entire feeding system, both equipment and material, which may be either dry
+or liquid. The feeding mechanism controls the rate at which material is
+discharged into the manufacturing process based upon a change in the total
+weight of the system as material flows from the feeder. Electronic controllers
+determine the feed rate and are capable of instantly altering feed rates to
+maintain an accurate flow of materials. In dry material applications,
+loss-in-weight feeders usually utilize an auger or vibratory feeding mechanism,
+and in the case of screw feeders (usually single or twin auger-like screws) are
+generally associated with low feed rates, where precise control is required or
+where material flow is hard to control. The outflow is adjusted continuously to
+maintain the desired feed rate. In liquid applications, the flow rate is
+maintained by a pump or valve. Loss-in-weight feeders are especially suitable
+for applications requiring a very high degree of accuracy, as in adding minor
+ingredients to food processes or colorants to plastics, or applications
+requiring a closed system, as in feeding dusty materials. Loss-in-weight feeders
+virtually never need recalibration and may also be used as batchers.
+
+         Volumetric Feeders. Volumetric feeders utilize single or twin screw
+feeding mechanisms or other systems to regulate flow by volume instead of
+weight, thereby offering an economical method of feeding bulk solids where
+demands for accuracy are less stringent. They also can be used to make batches
+by feeding sequentially into a hopper which is weighed and using the weight
+signal to start and stop each feeder.
+
+K-Tron Soder Brand
+
+         The K-Tron Soder brand of products offers feeding equipment and systems
+to control precisely the flow of ingredients in the manufacture of numerous
+products. K-Tron Soder feeders, including loss-in-weight feeders, weigh belt
+feeders, volumetric feeders, flow meters and related controls, are assembled at
+Company facilities in the United States and Switzerland in a complete range of
+feeding equipment types and sizes for industries other than heavy industries.
+The plastics compounding, food, chemical, detergent and pharmaceutical
+industries are among those industries served by K-Tron Soder feeders.
+
+Hasler Brand
+
+         The Hasler brand of products includes weigh belt feeders, belt scales,
+flow meters, electronic ears, loss-in-weight feeders and related controls.
+Hasler feeders, like K-Tron Soder feeders, control the flow of ingredients into
+a manufacturing process. However, Hasler feeders serve heavy industry
+applications requiring high rates of material flow in rugged industrial
+environments such as cement mills, mines and quarries and in the fertilizer,
+aluminum, coal, glass and steel industries. Hasler feeders are primarily
+assembled at
+
+                                       -4-
+<PAGE>   5
+Company facilities in Switzerland, with some Hasler feeders also being assembled
+at Company facilities in the United States.
+
+K-Tron Electronics
+
+         K-Tron Electronics designs, assembles and tests electronic circuit
+boards for outside customers as well as for use by the Company in its products.
+
+         In addition to electronic circuit boards and electro-mechanical
+contract assembly services, K-Tron Electronics offers engineering and
+development services. State-of-the-art facilities, which are located in the
+United States, provide automated surface mount as well as through-hole assembly
+capabilities and testing equipment.
+
+Customers
+
+         The Company has over 1,000 customers, including many major
+corporations. No single customer accounted for more than 10% of the Company's
+total revenues in fiscal 1996, and its five largest customers accounted for
+approximately 14.6% of total revenues in that year.
+
+Manufacturing and Suppliers
+
+         The Company's primary manufacturing activities consist of the assembly,
+calibration and testing of equipment, the machining and fabrication of certain
+components and producing electronic circuit boards and controllers. The Company
+also manufactures the weight sensors which are used in most of its gravimetric
+feeders. The Company assembles a number of components used in its products that
+are manufactured by others to its specifications. These components include sheet
+metal parts, screws, castings, integrated circuits, printed circuit boards and
+enclosures.
+
+         The Company produces a number of basic feeder models and related
+equipment. Although feeder units are completed to specific customer orders,
+customization is generally limited to combining existing mechanical and
+electronic modules to meet a customer's application requirements.
+
+         Although certain components of the Company's products are currently
+purchased from sole sources, the Company believes that comparable components can
+be obtained readily from alternative suppliers or can be manufactured by the
+Company internally, at prices competitive with those of its current sources. The
+Company has never had a significant production delay which was primarily
+attributable to an outside supplier.
+
+
+                                       -5-
+<PAGE>   6
+Patents
+
+         The Company's technology is protected by numerous patents in the United
+States and in other major countries which offer patent protection. Certain of
+the United States patents have expired and others expire at various dates
+through 2013. The loss of such patent protection is not expected to have a
+significant adverse effect on the Company's operations.
+
+Research and Development
+
+         The Company invests in research and development to maintain a
+technological leadership position for its two product brands.
+
+         R&D focuses on new products as well as on refinements to existing
+products. Current development efforts are aimed at shortening the development
+cycle of new products, recycling existing products by using lower cost designs
+and becoming more sensitive to the most optimal price/performance relationship
+for both new and existing products.
+
+         A centralized electronic R&D department also facilitates the
+development of common or compatible controls. The Company now utilizes a common
+weighing technology for both of its brands.
+
+         The Company's research and development expenses were $2,316,000,
+$3,135,000 and $4,439,000 in fiscal years 1996, 1995 and 1994, respectively.
+
+Competition
+
+         The Company is a leading world-wide producer of feeders and related
+equipment for the handling of bulk solids in manufacturing processes. The
+Company believes it has reached this position primarily because of its use of
+electronic and digital control technology, its use of weighing technology and
+its development of various mechanical design improvements to its products. The
+Company also relies on other technological advantages and on its reputation and
+experience in serving the needs of over 1,000 customers to maintain a
+competitive advantage.
+
+         Strong competition exists in every major market that the Company
+serves. Competitors range in size from subsidiaries and divisions of large
+multinationals with a broad line of products to regional organizations which may
+specialize in a limited range of products.
+
+Backlog
+
+         At the end of fiscal year 1996, the Company's backlog of unfilled
+orders was approximately $20,504,000, compared to a backlog of approximately
+$25,488,000 a year earlier, a decrease of approximately 19.6%. Using the
+December 28, 1996 exchange rate, the
+
+                                       -6-
+<PAGE>   7
+backlog at the end of fiscal year 1995 was approximately $24,133,000, and the
+decrease in 1996 backlog approximately 15.0%. The backlog of orders, excluding
+the effect of foreign currency exchange translations, decreased in 1996
+primarily due to a reduced backlog in the United States and Germany.
+
+         The bulk of the Company's backlog represents orders that will be ready
+for delivery in less than 120 days. Thus, except for shipments to be made later
+in the year at customer requests, it is expected that most of the backlog as of
+the end of fiscal 1996 will be shipped prior to April 30, 1997.
+
+Employees
+
+         At the end of fiscal 1996, the Company had 461 employees, of which 283
+were located in Europe, 167 in the United States and 11 in Singapore.
+
+         None of the Company's employees are represented by labor unions. The
+Company considers relations with its employees to be good.
+
+Item 2.  Properties.
+
+         In the United States, the Company owns a 92,000 square foot building on
+17 acres in Pitman, New Jersey where it has manufacturing facilities,
+administrative offices, its corporate headquarters, research and development
+offices and a tech center for product demonstration and training. A portion
+(approximately 10,000 square feet) of the Company's Pitman facility, which
+houses its U.S. subsidiary's former sheet metal shop, is leased to the purchaser
+of that business. The Company also has leased facilities in Blackwood, New
+Jersey where it assembles electronic circuit boards.
+
+         In Niederlenz, Switzerland, the Company owns a 60,000 square foot
+building where it has manufacturing facilities and a tech center for product
+demonstration, and an adjacent five floor, 40,000 square foot office building
+which houses administrative offices, training facilities and research and
+development offices. Parts of one floor of the office building are leased to two
+different third parties. The Company also occupies an adjacent leased facility
+where it manufactures weight sensors.
+
+         In Colombier, Switzerland, the Company leases a 51,000 square foot
+building where it has manufacturing facilities, administrative offices, training
+facilities and research and development offices.
+
+         Certain sales and service activities are also conducted at
+Company-owned facilities in England (20% leased to a third party) and Germany
+and from leased office space in Germany, France and Singapore.
+
+
+                                       -7-
+<PAGE>   8
+         The Company believes that its present facilities will be sufficient to
+meet its needs for the foreseeable future. Based primarily on a one shift/40
+hour week, the Company was operating its current manufacturing facilities during
+fiscal 1996 at approximately 70% of their present capacity.
+
+Item 3.  Legal Proceedings.
+
+         There are no material pending legal proceedings, other than ordinary
+routine litigation incidental to the business, to which the Company or any of
+its subsidiaries is a party or of which any of their property is the subject.
+
+Item 4.  Submission of Matters to a Vote of Security Holders.
+
+         This item is not applicable because there were no matters submitted to
+a vote of security holders during the fourth quarter of 1996.
+
+Executive Officers of the Registrant
+
+         The current executive officers of the Company are as follows:
+
+        Name                  Age                             Position
+        ----                  ---                             --------
+Leo C. Beebe                  79                Chief Executive Officer and
+                                                Chairman of the Board of
+                                                Directors
+Robert L. Weinberg            60                Senior Executive Vice President,
+                                                Chief Financial Officer and
+                                                Treasurer
+Kevin C. Bowen                45                President and Chief Executive
+                                                Officer of K-Tron America, Inc.
+Lukas Gunthardt               38                Managing Director and Chief
+                                                Executive Officer of K-Tron
+                                                (Switzerland) Ltd.
+                      
+         Leo C. Beebe has been a director since June 1976 and Chairman of the
+Board and of the Executive Committee since January 1985, and he was most
+recently reelected as a director at the 1993 annual meeting of shareholders. Mr.
+Beebe has been Chief Executive Officer of the Company since June 30, 1995 and
+also served as Chief Executive Officer from July 1985 until August 1992. He was
+Dean of the School of Business Administration of Glassboro State College,
+Glassboro, New Jersey from July 1977 to July 1985 and a professor of marketing
+at Glassboro State College from 1972 to July 1985. Prior to that time, Mr. Beebe
+served at Ford Motor Company for 27 years in various capacities in the United
+States and foreign countries,
+
+                                       -8-
+<PAGE>   9
+including as General Marketing Manager of Ford's Lincoln-Mercury Division, Vice
+President of Marketing and Planning and a director of Ford Motor Company of
+Canada, and Executive Vice President and General Manager of the Consumer
+Products Division and a director of Philco Ford Corporation.
+
+         Robert L. Weinberg has been Senior Executive Vice President, Chief
+Financial Officer and Treasurer of the Company since March 1994. Mr. Weinberg
+was Senior Executive Vice President and Chief Administrative Officer of the
+Company from November 1993 until March 1994, Executive Vice President -
+Strategic Planning and Marketing from May 1993 until November 1993, Executive
+Vice President - Strategic Planning, Product Development and Marketing from
+August 1991 until May 1993, Vice President - Marketing, Strategic Planning and
+Product Development from March 1990 until August 1991, Vice President - Product
+Development, Manufacturing and Marketing from April 1989 until March 1990, and
+Vice President - Marketing from October 1988 until April 1989. Prior to joining
+the Company in October 1988, he served as a consultant at Arthur D. Little, Inc.
+from 1986 until 1988, and in various executive positions with marketing and
+strategic planning responsibilities at RCA Corporation and Philco Ford
+Corporation from 1962 until 1986.
+
+         Kevin C. Bowen has been President and Chief Executive Officer of K-Tron
+America, Inc. since March 1995. From March 1994 to March 1995, Mr. Bowen was
+President of K-Tron North America, the North American sales division of K-Tron
+America. Mr. Bowen served as President of K-Tron America from May 1990 to March
+1994. From 1979 to May 1990, Mr. Bowen worked at U.S. subsidiaries of the
+Company in various manufacturing, sales and marketing capacities. Prior to
+joining the Company in 1979, he worked in various capacities for Digital
+Equipment Corporation and Motorola.
+
+         Lukas Gunthardt has been Managing Director of K-Tron (Switzerland) Ltd.
+since July 1995. From March 1994 until July 1995, he was Managing Director of
+the Soder Division of K-Tron (Switzerland) Ltd. and from July 1992 until March
+1994 was Director of International Research & Development of the Company. Mr.
+Gunthardt received his M.B.A. from the Sloan School of Management at the
+Massachusetts Institute of Technology in 1992. Prior to 1992, Mr. Gunthardt
+worked in various engineering capacities for Staefa Control Systems and Gamewell
+Corporation.
+
+
+
+                                       -9-
+<PAGE>   10
+                                     PART II
+
+Item 5.  Market for Registrant's Common Equity and Related Stockholder Matters.
+
+         The Company's Common Stock trades on the National Market segment of The
+Nasdaq Stock Market under the symbol "KTII." The following table sets forth the
+high and low sales prices for each quarter in 1995 and 1996 as quoted on The
+Nasdaq Stock Market.
+
+
+<TABLE>
+<CAPTION>
+Fiscal Year 1995                                                                     High               Low
+- ----------------                                                                     ----               ---
+<S>                                                                                 <C>                <C>    
+  First Quarter............................................................         $11.50             $ 5.625
+  Second Quarter...........................................................           7.00               4.50
+  Third Quarter............................................................           6.25               5.25
+  Fourth Quarter...........................................................           7.25               5.375
+
+Fiscal Year 1996
+- ----------------
+
+  First Quarter............................................................           7.75               5.50
+  Second Quarter...........................................................           9.00               6.75
+  Third Quarter............................................................           9.25               7.75
+  Fourth Quarter...........................................................          11.27               8.25
+</TABLE>
+
+         On March 10, 1997, the closing sale price of a share of Common Stock as
+reported by The Nasdaq Stock Market was $10.625.
+
+         The number of record holders of the Company's Common Stock as of March
+10, 1997 was 359.
+
+Dividend Policy
+
+         The Company has never paid a cash dividend on its Common Stock, and it
+currently intends to retain all earnings for use in its business. The
+declaration and payment of dividends in the future will be determined by the
+Board of Directors in light of conditions then existing, including the Company's
+earnings, financial condition, capital requirements and other factors.
+
+Item 6.  Selected Financial Data.
+
+         The selected consolidated financial data presented below for, and as of
+the end of, each of the Company's last five fiscal years have been derived from
+and are qualified by reference to the Company's consolidated financial
+statements. The consolidated financial statements of the Company for the fiscal
+years ended December 28, 1996, December 30, 1995 and December 31, 1994 have been
+audited by Arthur Andersen LLP, independent public accountants. The consolidated
+financial statements of the Company for each of the two fiscal
+
+                                      -10-
+<PAGE>   11
+years in the period ended January 1, 1994 have been audited by Deloitte & Touche
+LLP, independent public accountants.
+
+         This information should be read in conjunction with the Company's
+consolidated financial statements and the related notes thereto and
+"Management's Discussion and Analysis of Financial Condition and Results of
+Operations" appearing elsewhere herein.
+
+         The Company has not paid any cash dividends on its shares of Common
+Stock during the periods presented.
+
+                                      -11-
+<PAGE>   12
+<TABLE>
+<CAPTION>
+                                                                           FISCAL YEAR  ENDED
+                                                    -------------------------------------------------------------------------------
+                                                    DEC. 28     PRO FORMA      DEC. 30        DEC. 31       JAN. 1       JAN. 2
+                                                     1996        1995(1)         1995          1994          1994        1993(2)
+- -----------------------------------------------------------------------------------------------------------------------------------
+FINANCIAL SUMMARY($000):
+<S>                                                 <C>          <C>           <C>            <C>           <C>           <C>     
+  Revenues                                          $89,871      $89,640       $110,394       $104,772      $107,966      $118,859
+  Income (loss) before loss on disposition
+    of businesses, cumulative effect of
+    accounting changes and taxes                      5,841        2,717            834         (6,200)       (1,784)        6,170
+
+  Income (loss) on disposition of businesses
+    and cumulative effect of accounting
+    changes(3)                                                                  (11,278)          (852)          854           ---
+
+  Net income (loss)                                   4,026        1,408         (9,294)        (6,826)       (1,065)        3,870
+  Total assets                                       55,330                      69,296        109,950       101,296       114,891
+  Working capital                                    15,362                      23,114           (549)       17,216         5,432
+  Additions to property, plant and equipment          2,081                         370          2,467         3,062         5,901
+  Depreciation and amortization                       3,334                       4,844          6,314         6,562         5,991
+PER SHARE ($):
+  Earnings (loss) before cumulative effect of
+    accounting changes                              $  1.28      $   .45       $  (3.00)      $  (2.22)     $  (0.62)     $   1.27
+  Net earnings (loss)                                  1.28          .45          (3.00)         (2.22)        (0.35)         1.27
+  Book value                                           4.21                        3.03           6.00          8.08          8.71
+CAPITALIZATION ($000):
+  Shareholders' equity                              $13,194                    $  9,421       $ 18,521      $ 24,694      $ 26,424
+  Long-term debt                                     20,807                      35,004         27,413        38,571        29,566
+  Short-term debt(4)                                    861                       2,133         32,512        14,565        27,109
+  Total debt                                         21,668                      37,137         59,925        53,136        56,675
+RATIOS:
+  Return on average shareholders' equity(%)            35.6         10.1            N/A            N/A           N/A          15.1
+  Return on revenues(%)                                 4.5          1.6            N/A            N/A           N/A           3.3
+  Long-term debt to shareholders' equity(%)           157.7                       371.6          148.0         156.2         111.9
+  Current assets to current liabilities                1.80                        2.05            .99          1.53          1.10
+  Average inventory turnover                            3.2                         2.9            2.9           3.0           2.8
+  Average accounts receivable turnover                  4.8                         4.3            3.8           3.8           4.3
+OTHER DATA:
+  Shares outstanding (000)(5)                         3,137                       3,113          3,088         3,056         3,035
+  Shareholders of record(6)                             350                         383            423           437           449
+  Number of employees                                   461                         466            683           724           804
+</TABLE>
+
+(1)      Reflects pro forma adjustments for loss on disposition of businesses
+         described in (3) and the discontinuance of the Company's other
+         Colortronic brand business, all as more fully explained in Note 3 of
+         the Company's 1996 consolidated financial statements as if such
+         dispositions and discontinuances were consummated as of the beginning
+         of the 1995 fiscal year.
+
+(2)      The 1992 consolidated financial statements include the acquisition of
+         Colortronic GmbH and Colortronic, Inc. from April 30, 1992.
+
+(3)      1995 - loss on disposition of businesses of $10,529 from sale of
+         Colortronic GmbH and rights to
+
+                                      -12-
+<PAGE>   13
+         several related patents and patent applications and $749 loss on the
+         sale of Hasler France and Brazilian businesses; 1994 - reserves
+         established for the anticipated sale of Hasler France and Brazilian
+         businesses; 1993 - cumulative effect of changes in accounting
+         principles for the cost of inventory of $504, net of tax, and for
+         income taxes of $350.
+
+(4)      Including current portion of long-term debt.
+
+(5)      Net of treasury stock of 1,063 shares.
+
+(6)      Does not include shareholders whose shares are held in street name.
+
+
+Item 7.  Management's Discussion and Analysis of Financial Condition and Results
+         of Operations.
+
+Overview
+
+         In 1996, the Company reported net income of $4,026,000 as compared to a
+1995 net loss of $9,294,000. The principal components of the 1995 loss were a
+second quarter loss of $10,529,000 recorded in connection with the sale of
+Colortronic GmbH ("Colortronic"), a German subsidiary, and related patent and
+patent applications and third and fourth quarter losses totaling $749,000
+resulting from the sale of the Company's Brazilian and Hasler France businesses.
+On a pro forma basis, assuming that these 1995 transactions, and the
+discontinuance of the Company's other Colortronic brand business, had occurred
+at the beginning of the 1995 fiscal year, the Company would have had 1995 net
+income of $1,408,000.
+
+         At the end of 1995, the Company and its U.S. manufacturing subsidiary
+were in default under several financial covenants contained in their loan
+agreement with three U.S. banks, while the Company's Swiss manufacturing
+subsidiary was in violation of certain equity guarantees contained in its loan
+agreements with several Swiss lenders, resulting in a default under each of
+those loan agreements. In April 1995 and early 1996, forbearance agreements were
+entered into with the U.S. banks and the Swiss lenders, respectively, which were
+described in detail in Item 7 of the Company's annual report on Form 10-K for
+the fiscal year ended December 30, 1995. In June 1996, the Company's U.S.
+manufacturing subsidiary refinanced the U.S. bank debt with two new lenders. The
+new loans were made directly to the subsidiary and consisted of a mortgage loan
+in the amount of $2,700,000 and a two-year secured revolving credit facility
+with maximum availability of $5,700,000. Borrowings under the new loan
+agreements of $5,900,000 along with $1,400,000 of cash were used to repay the
+$7,300,000 outstanding under the old loan agreement, and that loan facility and
+related forbearance agreement were terminated. At December 28, 1996, the
+principal amount outstanding under the U.S. loan agreements was $2,852,000
+($172,000 on the revolving line of credit and $2,680,000 on the mortgage.) In
+February 1997, the agreement between the Company's Swiss manufacturing
+subsidiary and such subsidiary's Swiss lenders which was scheduled to expire on
+March 31, 1997 was amended and extended until March 31, 1999, and such
+subsidiary is not in default under any of its loan agreements with such lenders.
+At
+
+                                      -13-
+<PAGE>   14
+
+
+
+December 28, 1996, the principal amount outstanding under the loan agreements
+with the Swiss lenders was $16,376,000.
+
+         Since the 1995 dispositions of the Company's Colortronic, Brazilian and
+Hasler France businesses and the discontinuance of the other Colortronic brand
+business (collectively the "Discontinued Businesses"), the Company's results
+have improved significantly, and it has reported increasing net income for six
+consecutive quarters since June 1995. Cash flow from operations has also
+improved, enabling the Company to reduce indebtedness for money borrowed by
+$15,469,000 in 1996 and $5,978,000 in the second half of 1995 ($11,946,000 and
+$5,368,000, respectively, after taking into account the effect of foreign
+currency exchange translation.)
+
+         K-Tron is an international company with approximately 60 percent of its
+revenues from products manufactured and services performed from its facilities
+outside the United States, primarily in Europe. As such, the financial position
+and performance of the Company is sensitive to both translation and transaction
+fluctuations in foreign currency exchange rates ("foreign exchange rates").
+
+Results of Operations
+
+         The following table sets forth the Company's results of operations
+expressed as a percentage of total revenues for the periods indicated. The 1995
+pro forma results illustrate the estimated effects on operations of the
+disposition of the Colortronic, Brazilian and Hasler France businesses noted
+above, and the discontinuance of the Company's other Colortronic brand business,
+as if the dispositions and discontinuance (previously defined as "Discontinued
+Businesses") were consummated as of the beginning of the 1995 fiscal year:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                      -14-
+<PAGE>   15
+<TABLE>
+<CAPTION>
+                                                               Fiscal Year
+                                       -------------------------------------------------------------
+                                                        Pro Forma
+                                                        ---------
+                                          1996             1995             1995              1994
+                                       ---------        ---------        ---------         ---------
+<S>                                    <C>              <C>              <C>               <C>   
+Total revenues                             100.0%           100.0%           100.0%            100.0%
+Cost of revenues                            56.6             58.9             61.3              64.1
+                                       ---------        ---------        ---------         ---------
+Gross profit                                43.4             41.1             38.7              35.9
+Selling, general and
+ administrative                             32.1             32.1             31.4              33.3
+Research and development                     2.5              2.8              2.8               4.2
+Loss on disposition of
+businesses                                    --               --             10.2               0.8
+                                       ---------        ---------        ---------         ---------
+Operating income (loss)                      8.8              6.2             (5.7)             (2.4)
+Interest                                     2.3              3.2              3.7               4.3
+                                       ---------        ---------        ---------         ---------
+Income (loss) before income
+taxes                                        6.5%             3.0%            (9.4%)            (6.7%)
+                                       =========        =========        =========         =========
+Year-end backlog after
+excluding the Discontinued
+Businesses (at year end 1996
+constant foreign exchange rates,
+in thousands)                          $  20,504        $  24,133        $  24,133         $  19,970
+                                       =========        =========        =========         =========
+</TABLE>
+
+
+         Translation of the Company's foreign revenues and results of operations
+into U.S. dollars is affected by changes in foreign exchange rates, particularly
+with respect to the Swiss franc and the Deutsche mark. In addition, revenues and
+income of the Company with respect to particular transactions may be affected by
+changes in foreign exchange rates where sales are made in other currencies,
+including in particular the average U.S. dollar/Swiss franc, average U.S.
+dollar/Deutsche mark and average Deutsche mark/Swiss franc exchange rates. For
+1996, 1995 and 1994, the changes in these exchange rates were as follows:
+
+
+
+
+
+
+
+
+                                      -15-
+
+<PAGE>   16
+
+
+
+<TABLE>
+<CAPTION>
+                                                      Fiscal Year
+                                      --------------------------------------------
+                                       1996              1995               1994
+                                      -------           -------            -------
+                                                                          
+<S>                                   <C>      <C>      <C>       <C>      <C>    
+Swiss franc average rate              $  .810           $  .848            $  .730
+% (devaluation) or appreciation                                           
+vs. prior year                                  -4.5%             +16.0%  
+                                                                          
+Deutsche mark average rate            $  .666           $  .699            $  .615
+% (devaluation) or appreciation                                           
+vs. prior year                                  -4.7%             +14.0%  
+                                                                          
+Deutsche mark average rate vs                                             
+Swiss franc average rate                 .822              .824               .842
+% (devaluation) vs. prior year                  -0.2%              -2.0%  
+</TABLE>
+
+                                                                        
+         Total revenues decreased by $20,500,000 or 18.6% (15.4% when using
+constant foreign exchange rates) in 1996 as compared to 1995, and increased by
+$200,000 or 0.3% (3.1% when using constant foreign exchange rates) when compared
+to the pro forma 1995 revenues. The 1996 revenues decrease versus 1995 is
+primarily due to the absence of the Discontinued Businesses as well as to a
+weaker Swiss franc and Deutsche mark compared to the U.S. dollar. The 1996
+revenue increase as compared to the pro forma 1995 was primarily due to a strong
+United States and European backlog at the end of 1995 and strong 1996 order
+in-flow, offset in part by lower foreign exchange translation rates.
+
+         Total revenues increased by $5,600,000 or 5.4% (while decreasing by
+4.6% when using constant foreign exchange rates) in 1995 as compared to 1994.
+Total revenues increased in 1995 compared to 1994 due to the strong European and
+United States backlog at the end of 1994, continued strong 1995 order in-flow
+and the effect of a weaker U.S. dollar relative to the Swiss franc and Deutsche
+mark, offset in part by the effect on revenues in the second half of 1995 of the
+June 1995 sale of Colortronic. Total revenues in 1995 and 1994 without the
+Discontinued Businesses would have been $89,600,000 and $69,500,000,
+respectively, an increase of $20,100,000 or 28.9% (a $13,000,000 increase or
+16.9% when using constant foreign exchange rates).
+
+         Gross margin as a percent of revenues improved to 43.4% in 1996 as
+compared to 38.7% in 1995 (41.1% after excluding the Discontinued Businesses)
+and 35.9% in 1994. The improvement in gross margin in 1996 was due to volume,
+mix, price increases and cost reductions as well as the June 1995 sale and
+discontinuance of the Colortronic business which had low margins, offset in part
+by the inability to pass on increased costs caused by the appreciation of the
+Swiss franc to customers in certain European countries, primarily Germany. The
+increase in margin when compared to the margins without the Discontinued
+Businesses was primarily due to volume, mix, price increases and cost
+reductions. The
+
+                                      -16-
+
+<PAGE>   17
+
+
+
+improvement in gross margin in 1995 was due to volume and price increases and
+cost reductions in the United States as well as the sale and discontinuance of
+the Colortronic business which had low margins, offset in part by an increase in
+warranty costs and the inability to pass on increased costs caused by the
+appreciation of the Swiss franc to customers in certain European countries. In
+addition, the 1995 margins were negatively affected by heavily discounted orders
+booked in 1994 but not shipped until 1995.
+
+         Selling, general and administrative (SG&A) expense decreased by
+$5,800,000 or 16.7% in 1996 as compared to 1995 (but remained constant after
+excluding the Discontinued Businesses). The decrease in SG&A in 1996 was due to
+the elimination of SG&A expenses associated with the Discontinued Businesses as
+well as lower foreign exchange translation rates. SG&A expense decreased by
+$300,000 or 0.1% in 1995 as compared to 1994. The marginal reduction in SG&A
+expenditures was due to the business dispositions that took place in 1995,
+offset in part by higher foreign exchange translation rates, higher commissions
+and selling expenses related to the increased sales volume and costs incurred
+related to the U.S. and Swiss forbearance agreements. As a percent of sales,
+SG&A was 32.1% in 1996, 31.4% in 1995 (32.1% after excluding the Discontinued
+Businesses) and 33.3% in 1994.
+
+         Research and development (R&D) expenditures decreased by $800,000 or
+26.1% in 1996 as compared to 1995 due to the elimination of Colortronic expenses
+and lower foreign exchange translation rates, offset in part by using for other
+purposes certain resources previously allocated to Colortronic. R&D expenditures
+in 1995 decreased $1,300,000 or 29.4% from 1994 levels due to the elimination of
+Colortronic expenses in the second half of 1995, offset in part by using for
+other purposes certain resources previously allocated to Colortronic and higher
+foreign exchange translation rates. R&D expense as a percent of revenues was
+2.5% in 1996, 2.8% in 1995 (2.8% excluding Colortronic for 1995) and 4.2% in
+1994.
+
+         The 1995 loss on the disposition of businesses includes a pre-tax loss
+of $10,529,000 from the June 1995 sale of Colortronic and rights to several
+related patents and patent applications, as well as a pre-tax loss of $749,000
+from the fourth quarter sale of the Company's Brazilian and Hasler France
+operations. The $852,000 loss incurred in 1994 related to reserves established
+in connection with the anticipated sales of the Brazilian and Hasler France
+operations.
+
+         Interest expense decreased by $2,100,000 or 50.9% in 1996 as compared
+to 1995 due to lower debt levels and lower foreign exchange translation rates,
+offset in part by increased interest rates. Interest expense in 1995 decreased
+by $300,000 from 1994 due to lower debt levels following the sale of Colortronic
+offset in part by increased interest rates in the United States and higher
+foreign exchange translation rates. Interest expense as a percent of sales was
+2.3% in 1996, 3.7% in 1995 (3.2% after excluding the Discontinued Businesses)
+and 4.3% in 1994.
+
+
+                                      -17-
+
+<PAGE>   18
+
+
+
+         Income before income taxes was $5,841,000 in 1996 while the loss before
+income taxes was $10,444,000 and $7,052,000 in 1995 and 1994, respectively. The
+change during the periods was the result of the items discussed above.
+
+         The 1996 provision for income tax of $1,815,000 was primarily related
+to the United States and German operations. The Company's 1995 net income tax
+benefit was comprised of a fourth quarter $400,000 provision on U.S. operations
+and a $1,550,000 benefit recognized on European losses. The Company's income tax
+benefit in 1994 was primarily due to the results of the United States operations
+as no tax benefit was recognized for the European losses, since realization was
+not assured. The Company has available New Jersey state and foreign tax loss
+carry forwards that total $4,205,000 and $19,559,000, respectively, which, if
+realized, would have estimated future benefits of $252,000 and $5,296,000,
+respectively.
+
+         The Company does not believe that inflation has had a material impact
+on the results of operations during the last three years.
+
+         The Company's backlog decreased by 15 percent at the end of 1996
+compared to 1995 (excluding the Discontinued Businesses and at constant foreign
+exchange rates), primarily due to reduced backlog in the United States and
+Germany. The Company's backlog (excluding the Discontinued Businesses and at
+constant foreign exchange rates) increased in 1995 primarily due to strong
+bookings in the United States.
+
+Liquidity and Capital Resources
+
+         As noted earlier under the "Overview," the Company's U.S. and Swiss
+manufacturing subsidiaries have entered into new or amended and extended loan
+arrangements, and there are no defaults under any of the existing loan
+agreements.
+
+         In June 1996, the U.S. manufacturing subsidiary entered into a two-year
+secured revolving credit facility with a lender which provides for a maximum
+borrowing of $5,700,000, subject to certain limitations based upon inventory and
+receivable levels. The interest rate at December 28, 1996 was 9.75%. At December
+28, 1996, $172,000 was borrowed under the agreement and $5,528,000 was available
+for future borrowing. Also in June 1996, the Company's U.S. manufacturing
+subsidiary obtained a $2,700,000 twenty-year mortgage loan at an interest rate
+of 9%. Monthly principal and interest payments are $24,293. Every five years the
+bank has the right to review the mortgage and adjust its terms, including due
+dates and interest rates, with the first such right occurring in June 2001.
+
+         As a result of the agreement reached in early 1996 with the lenders to
+the Company's Swiss manufacturing subsidiary, the board of directors of that
+subsidiary was expanded from one director to three directors, with one of the
+directors being designated by the Swiss lenders. In addition, the Swiss lenders
+have imposed a number of limitations and requirements on the Swiss subsidiary,
+including certain restrictions on intercompany transactions with K-Tron's
+
+                                      -18-
+
+<PAGE>   19
+
+
+
+U.S. companies and a prohibition on the payment of management fees to the
+Company after March 1, 1996. As part of the February 1997 agreement amending and
+extending the agreement with the Swiss lenders to March 31, 1999, the Swiss
+subsidiary has agreed to a 50% average reduction in the maximum amount that may
+be borrowed under its operating lines of credit, effective April 1, 1997, and
+has also agreed not to terminate the existing arrangement prior to March 31,
+1998, and the Swiss lenders have agreed to continue to defer until March 31,
+1999 the repayment of credit lines and the principal payments on fixed loans
+that become due prior to that date. Effective April 1, 1997, interest rates on
+the Swiss lines of credit will be adjusted to market rates plus 2% while the
+rates on other long-term loans will be similarly adjusted on the next renewal
+dates. Interest rates will be reduced by 2% upon achievement of a 1.5 to 1.0
+debt-to-equity ratio for the Swiss subsidiary.
+
+         At December 28, 1996, the Company had $5,528,000 of availability under
+its U.S. revolving credit agreement and $8,453,000 of availability under certain
+of its Swiss loan agreements. If the 50% reduction in the maximum amount that
+may be borrowed under the Swiss operating lines of credit, which is scheduled to
+take effect on April 1, 1997, had been in effect on December 28, 1996, the
+availability under the Swiss agreements would have been approximately
+$5,150,000.
+
+         The Company's capitalization as of the end of fiscal years 1996, 1995
+and 1994 is set forth below:
+<TABLE>
+<CAPTION>
+                                                               ($'s in thousands)
+                                                       1996            1995          1994
+- -------------------------------------------------------------------------------------------
+<S>                                                   <C>            <C>            <C>    
+Short-term debt including current
+ portion of long-term debt                            $   861        $ 2,133        $32,512
+
+Long-term debt                                         20,807         35,004         27,413
+                                                      -------        -------        -------
+
+Total debt                                             21,668         37,137         59,925
+
+Shareholders' equity                                   13,194          9,421         18,521
+                                                      -------        -------        -------
+
+Total debt and shareholders' equity                   $34,862        $46,558        $78,446
+                                                      =======        =======        =======
+
+Percent debt to total capitalization                       62%            80%            76%
+
+Percent long-term debt to equity                          158%           372%           148%
+</TABLE>
+
+         Total debt decreased in 1996 by $15,469,000, of which $11,946,000 was
+from cash provided by operations and $3,523,000 was due to the effect of foreign
+exchange translation. Total debt decreased in 1995 by $22,788,000, of which
+$22,928,000 (from the beginning of the year) was due to the sale of Colortronic
+and $4,359,000 was from cash provided by operations, offset by a $4,499,000
+increase due to the effect of foreign
+
+                                      -19-
+
+<PAGE>   20
+
+
+
+translation. Total 1995 debt without the effect of the foreign exchange
+translation decreased by $27,287,000.
+
+         The 1995 decrease in short-term debt of $30,379,000 was primarily due
+to the re-classification of the U.S. and Swiss bank debt to long-term as a
+result of arrangements reached with the lenders in early 1996.
+
+         At the end of 1996 and 1995, working capital was $15,362,000 and
+$23,114,000, respectively, and the ratio of current assets to current
+liabilities was 1.80 and 2.05, respectively. Working capital decreased in 1996
+primarily due to the utilization of funds generated from operations and improved
+asset management to reduce indebtedness.
+
+         In 1996 and 1995, the Company utilized internally generated funds to
+meet its working capital needs.
+
+         Net cash provided by operating activities was $13,969,000 in 1996,
+$6,111,000 in 1995, and $82,000 in 1994. The increase in operating cash flow was
+primarily the result of operating profits generated since mid-1995 and
+significant reductions in accounts receivable and inventory, offset in part by a
+reduction in the total amount in accounts payable and accrued expenses. The
+significant loss in 1995 was primarily a non-cash loss on the sale of the
+Discontinued Businesses.
+
+         Excluding the effect of foreign currency translation, receivables and
+inventory provided cash of $7,367,000 in 1996, while payables and accrued
+expenses decreased $1,411,000 during 1996. Improved asset management enabled the
+Company to reduce accounts receivable and inventory, thereby allowing it to
+reduce accounts payable.
+
+         The average number of days to convert accounts receivable to cash was
+76 days in 1996 compared to 84 days in 1995 and 95 days in 1994. The average
+number of days to convert inventory into accounts receivable was 114 days in
+1996 compared to 126 days in each of 1995 and 1994.
+
+         Net cash provided by (used in) investing activities was ($2,128,000),
+$8,943,000, and ($2,578,000) in 1996, 1995, and 1994, respectively. Capital
+expenditures were $2,081,000, $370,000, and 2,467,000 in 1996, 1995, and 1994,
+respectively. The 1995 proceeds from the sale of Colortronic (and related
+patents and patent applications) and the Brazilian and Hasler France businesses
+were $9,000,000 and $320,000, respectively. The Company has no outstanding
+material commitments for capital improvements, but does expect to make normal
+capital expenditures to maintain and enhance its operations.
+
+         Cash used in financing activities in 1996 and 1995, which was primarily
+used for the reduction of debt, was obtained from the strong cash flow provided
+by operations as well as in 1995 from the proceeds from the disposition of the
+Discontinued Businesses. Cash used
+
+                                      -20-
+
+<PAGE>   21
+
+
+
+in financing activities in 1994 was primarily the result of changes required to
+support working capital needs. Cash and short-term investments decreased to
+$3,079,000 at the end of fiscal 1996 from $3,239,000 a year earlier.
+
+         Changes in foreign exchange rates, particularly with respect to the
+Swiss franc and Deutsche mark, caused a translation adjustment decrease in
+shareholders' equity of $393,000 in 1996, following increases of $78,000 and
+$377,000 in 1995 and 1994, respectively.
+
+Item 8.  Financial Statements and Supplementary Data.
+
+         The consolidated financial statements of the Company and its
+subsidiaries and supplementary data required by this item are attached to this
+annual report on Form 10-K beginning on page F-1.
+
+Item 9.  Changes In and Disagreements with Accountants on Accounting and
+         Financial Disclosures.
+
+         None.
+
+                                    PART III
+
+Item 10. Directors and Executive Officers of the Registrant.
+
+         The information concerning directors and compliance with Section 16(a)
+of the Securities Exchange Act of 1934 called for by Item 10 of Form 10-K will
+be set forth under the captions "Election of Directors" and "Section 16(a)
+Beneficial Ownership Reporting Compliance" in the Company's definitive proxy
+statement, to be filed within 120 days after the end of the fiscal year covered
+by this annual report on Form 10-K, and is incorporated herein by reference.
+
+         The executive officers are elected or appointed by the Board of
+Directors of the Company or its appropriate subsidiary to serve until the
+appointment or election and qualification of their successors or their earlier
+death, resignation or removal.
+
+         The required information as to executive officers is set forth in Part
+I hereof and incorporated herein by reference.
+
+
+
+                                      -21-
+
+<PAGE>   22
+
+
+
+Item 11. Executive Compensation.
+
+Item 12. Security Ownership of Certain Beneficial Owners and Management.
+
+         The information called for by Items 11 and 12 of Form 10-K will be set
+forth under the captions "Executive Compensation" and "Security Ownership of
+Certain Beneficial Owners and Management," respectively, in the Company's
+definitive proxy statement, to be filed within 120 days after the end of the
+fiscal year covered by this annual report on Form 10-K, and is incorporated
+herein by reference.
+
+Item 13. Certain Relationships and Related Transactions.
+
+         None.
+
+                                     PART IV
+
+Item 14. Exhibits, Financial Statement Schedules, and Reports on Form 8-K.
+
+         (a) 1. Financial Statements. Financial Statements listed in the
+accompanying Index to Financial Statements and Financial Statement Schedules
+appearing on page F-1 are filed as part of this annual report on Form 10-K.
+
+             2. Financial Statement Schedules. Financial Statement
+Schedules listed in the accompanying Index to Financial Statements and Financial
+Statement Schedules appearing on page F-1 are filed as part of this annual
+report on Form 10-K.
+
+             3. Exhibits. (see (c) below).
+
+         (b) Reports on Form 8-K.
+
+             The Company did not file a report on Form 8-K during the
+quarter ended December 28, 1996.
+
+         (c) Exhibits.
+
+             The following is a list of exhibits filed as part of this
+annual report on Form 10-K. Where so indicated by footnote, exhibits which were
+previously filed are incorporated by reference. For exhibits incorporated by
+reference, the location of the exhibit in the previous filing is indicated in
+parentheses.
+
+2.1          Share Purchase Agreement, dated as of June 23, 1995, by and among
+             K-Tron Holding AG, K-Tron Deutschland GmbH and Dr. Dolemeyer 
+             GmbH (12) (Exhibit 2.1)
+
+                                      -22-
+
+<PAGE>   23
+
+
+
+3.1      Restated Certificate of Incorporation (7) (Exhibit 3.1)
+
+3.2      By-Laws, as amended (8) (Exhibit 3.2)
+
+4.1      Form of Certificate for Shares of Common Stock (8) (Exhibit 4.1)
+
+4.2      Rights Agreement dated as of October 3, 1991 with First Interstate Bank
+         of Arizona, N.A., as Rights Agent (6) (Exhibit 1)
+
+10.1.1   Revolving Credit and Term Loan Agreement, dated June 28, 1993, between
+         K-Tron North America, Inc. and K-Tron International, Inc. and First
+         Fidelity Bank, N.A., New Jersey (9) (Exhibit 10.1.1)
+
+10.1.2   First Amendment to Loan Agreement dated as of June 30, 1994, to
+         Revolving Credit and Term Loan Agreement dated as of June 28, 1993 by
+         and among K-Tron International, Inc. and K-Tron America, Inc., First
+         Fidelity Bank, N.A., PNC Bank, National Association and United Jersey
+         Bank/South N.A. (10) (Exhibit 10.1)
+
+10.1.3   Forbearance Agreement and Second Amendment to Revolving Credit and Term
+         Loan Agreement dated April 28, 1995 by and among K-Tron International,
+         Inc., K-Tron America, Inc., K-Tron Technologies, Inc., K-Tron
+         Investment Co., K-Tron Patent, Inc., First Fidelity Bank, N.A., PNC
+         Bank, N.A. and United Jersey Bank (11) (Exhibit 10.1)
+
+10.1.4   Forbearance Agreement and Third Amendment to Revolving Credit and Term
+         Loan Agreement dated June 22, 1995 by and among K-Tron International,
+         Inc., K-Tron America, Inc., K-Tron Technologies, Inc., K-Tron
+         Investment Co., K-Tron Patent, Inc., First Fidelity Bank, N.A., PNC
+         Bank, N.A. and United Jersey Bank (12) (Exhibit 10.1)
+
+10.1.5   Forbearance Agreement and Fourth Amendment to Revolving Credit and Term
+         Loan Agreement dated February 28, 1996 by and among K-Tron
+         International, Inc., K-Tron America, Inc., K-Tron Technologies, Inc.,
+         K-Tron Investment Co., K-Tron Patent, Inc., First Union National Bank,
+         PNC Bank, N.A. and United Jersey Bank (13) (Exhibit 10.1.5)
+
+10.1.6   Forbearance Agreement by and among Swiss Bank Corp. Aarau, Credit
+         Suisse Aarau, Swiss Volksbank, Union Bank of Switzerland, Banque
+         Cantonale Neuchateloise, CS Immobilien Leasing Ltd., K-Tron
+         (Switzerland) Ltd., K-Tron Vertech Ltd., K-Tron Patent Ltd., K-Tron
+         Asia Pacific Pte Ltd, K-Tron International Inc. and K-Tron Investment
+         Co. (13) (Exhibit 10.1.6)
+
+                                      -23-
+
+<PAGE>   24
+
+
+
+10.1.7   Amendment 1 to Forbearance Agreement by and among Swiss Bank Corp.
+         Aarau, Credit Suisse, Swiss Volksbank, Union Bank of Switzerland,
+         Banque Cantonale Neuchateloise, CS Immobilien Leasing Ltd., K-Tron
+         (Switzerland) Ltd., K-Tron Asia Pacific Pte Ltd, K-Tron International
+         Inc. and K-Tron Investment Co.*
+
+10.1.8   Amendment 2 to Forbearance Agreement by and among Swiss Bank Corp.
+         Aarau, Credit Suisse, Swiss Volksbank, Union Bank of Switzerland,
+         Banque Cantonale Neuchateloise, CS Immobilien Leasing Ltd., K-Tron
+         (Switzerland) Ltd., K-Tron Asia Pacific Pte Ltd, K-Tron International
+         Inc. and K-Tron Investment Co.*
+
+10.2.1   1986 Stock Option Plan, as amended and restated (7) (Exhibit 10.2.1)**
+
+10.2.2   1988 Stock Option Plan for Non-Employee Directors (2) (Exhibit
+         10.2.4)**
+
+10.2.3   K-Tron International, Inc. 1996 Equity Compensation Plan, as amended
+         (14) (Exhibit 10.1)**
+
+10.2.4   K-Tron International, Inc. Amended and Restated Employee Stock Purchase
+         Plan (14) (Exhibit 10.2)**
+
+10.2.5   K-Tron International, Inc. Profit-Sharing and Thrift Plan, as amended
+         and restated (3) (Exhibit 10.2.5)**
+
+10.2.6   Amendment No. 1992-1 to K-Tron International, Inc. Profit-Sharing and
+         Thrift Plan (7) (Exhibit 10.2.6)**
+
+10.2.7   Amendment No. 1996-1 to K-Tron International, Inc. Profit-Sharing and
+         Thrift Plan* **
+
+10.2.8   K-Tron International, Inc. Supplemental Executive Retirement Plan (7)
+         (Exhibit 10.2.7)**
+
+10.2.9   Employment Agreement with Ronald G. Larson, dated as of January 1,
+         1992, and Schedule 10.2.13 listing other employment agreements which
+         are identical in all material respects except for the employee and the
+         amount of salary to be paid (7) (Exhibit 10.2.13)**
+
+10.2.10  First Amendment to Employment Agreement with Ronald G. Larson, dated as
+         of February 11, 1992, and Schedule 10.2.14 listing other first
+         amendments to employment agreements which are identical in all material
+         respects except for the employee (7) (Exhibit 10.2.14)**
+
+                                      -24-
+
+<PAGE>   25
+
+
+
+10.2.11  Schedule 10.2.11 listing other employment agreement which is dated as
+         of October 25, 1996 and is identical in all material respects to the
+         Employment Agreement set forth in Exhibit 10.2.9, as amended by the
+         First Amendment to Employment Agreement set forth in Exhibit 10.2.10,
+         except for the employee and the amount of salary to be paid**
+
+10.2.12  Indemnification Agreement with Leo C. Beebe, dated March 23, 1987, and
+         Schedule 10.2.9 listing other indemnification agreements which are
+         identical in all material respects except for the director or officer
+         who is a party thereto (1) (Exhibit 10.2.9)**
+
+10.2.13  Schedule 10.2.11 listing other indemnification agreements which are
+         dated November 18, 1988 and are identical in all material respects to
+         the Indemnification Agreement set forth in Exhibit 10.2.12 except for
+         the director or officer who is a party thereto (2) (Exhibit 10.2.11)**
+
+10.2.14  Schedule 10.2.16 listing other indemnification agreements which are
+         dated September 20, 1993, November 12, 1993 and January 14, 1994 and
+         are identical in all material respects to the Indemnification Agreement
+         set forth in Exhibit 10.2.12 except for the director or officer who is
+         a party thereto (9) (Exhibit 10.2.16)**
+
+10.3.1   Leasing Agreement, dated October 30, 1990, between CS Immobilien
+         Leasing AG, Zurich and Hasler Freres SA, with limited guaranty of
+         K-Tron Soder AG (4) (Exhibit 10.1(b))
+
+10.3.2   Amendment, dated January 25, 1991, to Leasing Agreement, dated October
+         30, 1990, between CS Immobilien Leasing AG, Zurich and Hasler Freres SA
+         and to the related limited guaranty of K-Tron Soder AG (5) (Exhibit
+         10.3.3)
+
+11.1     Computation of (Loss) Earnings per Common and Common Equivalent Share*
+
+21.1     Subsidiaries*
+
+23.1     Consent of Arthur Andersen LLP*
+
+24.1     Power of Attorney (Included on Signature Page)
+
+27.1     Financial Data Schedule*
+
+- ----------
+*        Filed herewith
+
+                                      -25-
+
+<PAGE>   26
+
+
+
+**       Management contract or compensatory plan or arrangement required to be
+         filed or incorporated as an exhibit
+
+(1)      Filed as an exhibit to annual report on Form 10-K for the year ended
+         January 2, 1988 File No. 0-9576 and incorporated herein by reference.
+
+(2)      Filed as an exhibit to annual report on Form 10-K for the year ended
+         December 31, 1988 File No. 0-9576 and incorporated herein by reference.
+
+(3)      Filed as an exhibit to annual report on Form 10-K for the year ended
+         December 30, 1989 File No. 0-9576 and incorporated herein by reference.
+
+(4)      Filed as an exhibit to report on Form 8-K dated October 30, 1990 File
+         No. 0-9576 and incorporated herein by reference.
+
+(5)      Filed as an exhibit to annual report on Form 10-K for the year ended
+         December 29, 1990 File No. 0-9576 and incorporated herein by reference.
+
+(6)      Filed as an exhibit to report on Form 8-K dated October 3, 1991 File
+         No. 0-9576 and incorporated herein by reference.
+
+(7)      Filed as an exhibit to annual report on Form 10-K for the year ended
+         January 4, 1992 File No. 0-9576 and incorporated herein by reference.
+
+(8)      Filed as an exhibit to annual report on Form 10-K for the year ended
+         January 2, 1993 File No. 0-9576 and incorporated herein by reference.
+
+(9)      Filed as an exhibit to annual report on Form 10-K for the year ended
+         January 1, 1994 File No. 0-9576 and incorporated herein by reference.
+
+(10)     Filed as an exhibit to quarterly report on Form 10-Q for the fiscal
+         quarter ended October 1, 1994 File No. 0-9576 and incorporated herein
+         by reference.
+
+(11)     Filed as an exhibit to quarterly report on Form 10-Q for the fiscal
+         quarter ended April 1, 1995 File No. 0-9576 and incorporated herein by
+         reference.
+
+(12)     Filed as an exhibit to report on Form 8-K dated June 23, 1995 File No.
+         0-9576 and incorporated herein by reference.
+
+(13)     Filed as an exhibit to annual report on Form 10-K for the year ended
+         December 30, 1995 File No. 0-9576 and incorporated herein by reference.
+
+
+                                      -26-
+
+<PAGE>   27
+
+
+
+(14)     Filed as an exhibit to quarterly report on Form 10-Q for the fiscal
+         quarter ended September 28, 1996 File No. 0-9576 and incorporated
+         herein by reference.
+
+         COPIES OF THE EXHIBITS ARE AVAILABLE TO SHAREHOLDERS (UPON PAYMENT OF A
+         $.20 PER PAGE FEE TO COVER THE COMPANY'S EXPENSES IN FURNISHING THE
+         EXHIBITS) FROM ROBERT L. WEINBERG, SENIOR EXECUTIVE VICE PRESIDENT AND
+         CHIEF FINANCIAL OFFICER, K-TRON INTERNATIONAL, INC., ROUTES 55 AND 553,
+         P.O. BOX 888, PITMAN, NEW JERSEY 08071-0888.
+
+                                      -27-
+
+<PAGE>   28
+                                   SIGNATURES
+
+         Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the Registrant has duly caused this report to be signed on
+its behalf by the undersigned, thereunto duly authorized.
+
+                                                  K-TRON INTERNATIONAL, INC.
+
+
+Date:  March 14, 1997                             By   /s/ Leo C. Beebe
+                                                     -------------------------
+                                                       Leo C. Beebe
+                                                       Chief Executive Officer
+
+
+         Pursuant to the requirements of the Securities Exchange Act of 1934,
+this report has been signed below by the following persons on behalf of the
+Registrant and in the capacities and on the dates indicated.
+
+         Each person in so signing also makes, constitutes and appoints Leo C.
+Beebe, Chairman and Chief Executive Officer of K-Tron International, Inc., and
+Robert L. Weinberg, Senior Executive Vice President, Chief Financial Officer and
+Treasurer of K-Tron International, Inc., and each of them acting alone, as his
+true and lawful attorneys-in-fact, in his name, place and stead, to execute and
+cause to be filed with the Securities and Exchange Commission any or all
+amendments to this report.
+
+
+<TABLE>
+<CAPTION>
+       Signature                        Date                              Capacity
+       ---------                        ----                              --------
+<S>                                  <C>                         <C>                                      
+/s/ Leo C. Beebe                     March 14, 1997              Chief Executive Officer
+- ------------------------------                                   (principal executive officer) and
+     Leo C. Beebe                                                Chairman of the Board of
+                                                                 Directors                         
+
+/s/ Robert L. Weinberg               March 14, 1997              Senior Executive Vice President,
+- ------------------------------                                   Chief Financial Officer and
+     Robert L. Weinberg                                          Treasurer (principal financial
+                                                                 officer)
+
+/s/ Alan R. Sukoneck                 March 14, 1997              Vice President, Chief
+- ------------------------------                                   Accounting and Tax Officer
+     Alan R. Sukoneck                                            (principal accounting officer)
+
+/s/ Edward B. Cloues, II             March 14, 1997              Director
+- ------------------------------
+     Edward B. Cloues, II
+</TABLE>
+
+
+                                      -28-
+
+<PAGE>   29
+
+
+
+<TABLE>
+<CAPTION>
+       Signature                                   Date                                    Capacity
+       ---------                                   ----                                    --------
+<S>                                           <C>                                         <C>                                       
+/s/ Norman Cohen                               March 14, 1997                               Director
+- --------------------------------
+     Norman Cohen
+
+/s/ Richard J. Pinola                          March 14, 1997                               Director
+- --------------------------------
+     Richard J. Pinola
+
+/s/ Hans-Jurg Schurmann                        March 14, 1997                               Director
+- --------------------------------
+     Hans-Jurg Schurmann
+
+/s/ Jean Head Sisco                            March 14, 1997                               Director
+- -------------------------------
+     Jean Head Sisco
+
+/s/ Johannes Wirth                             March 14, 1997                               Director
+- --------------------------------
+     Johannes Wirth
+</TABLE>
+<PAGE>   30
+
+                   K-TRON INTERNATIONAL, INC. AND SUBSIDIARIES
+
+                        CONSOLIDATED FINANCIAL STATEMENTS
+                  AS OF DECEMBER 28, 1996 AND DECEMBER 30, 1995
+                         TOGETHER WITH AUDITORS' REPORT
+
+<PAGE>   31
+
+
+
+
+                   K-TRON INTERNATIONAL, INC. AND SUBSIDIARIES
+
+
+
+         INDEX TO FINANCIAL STATEMENTS AND FINANCIAL STATEMENT SCHEDULES
+
+
+
+
+
+<TABLE>
+<S>                                                                                  <C>
+REPORT OF INDEPENDENT PUBLIC ACCOUNTANTS                                             F-2
+
+K-TRON INTERNATIONAL, INC. AND SUBSIDIARIES:
+
+    Consolidated Balance Sheets--December 28, 1996 and December 30, 1995             F-3
+
+    Consolidated Statements of Operations for the Fiscal Years Ended
+       December 28, 1996, December 30, 1995 and December 31, 1994                    F-5
+
+    Consolidated Statements of Changes in Shareholders' Equity for the Fiscal
+       Years Ended December 28, 1996, December 30, 1995 and December 31, 1994        F-6
+
+    Consolidated Statements of Cash Flows for the Fiscal Years Ended
+       December 28, 1996, December 30, 1995 and December 31, 1994                    F-7
+
+    Notes to Consolidated Financial Statements                                       F-9
+
+    Schedule I--Condensed Financial Information of Registrant                        S-1
+
+    Schedule II--Valuation Reserves                                                  S-5
+</TABLE>
+
+
+
+
+                                       F-1
+
+<PAGE>   32
+
+
+                        REPORT OF INDEPENDENT PUBLIC ACCOUNTANTS
+
+
+
+
+To K-Tron International, Inc.:
+
+We have audited the accompanying consolidated balance sheets of K-Tron
+International, Inc. (a New Jersey corporation) and subsidiaries as of December
+28, 1996 and December 30, 1995, and the related consolidated statements of
+operations, changes in shareholders' equity, and cash flows for each of the
+three fiscal years in the period ended December 28, 1996. These financial
+statements and the schedules referred to below are the responsibility of the
+Company's management. Our responsibility is to express an opinion on these
+financial statements and schedules based on our audits.
+
+We conducted our audits in accordance with generally accepted auditing
+standards. Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material
+misstatement. An audit includes examining, on a test basis, evidence supporting
+the amounts and disclosures in the financial statements. An audit also includes
+assessing the accounting principles used and significant estimates made by
+management, as well as evaluating the overall financial statement presentation.
+We believe that our audits provide a reasonable basis for our opinion.
+
+In our opinion, the consolidated financial statements referred to above present
+fairly, in all material respects, the financial position of K-Tron
+International, Inc. and subsidiaries as of December 28, 1996 and December 30,
+1995, and the results of their operations and their cash flows for each of the
+three fiscal years in the period ended December 28, 1996, in conformity with
+generally accepted accounting principles.
+
+Our audits were made for the purpose of forming an opinion on the basic
+financial statements taken as a whole. The schedules listed in the index to
+financial statements as of December 28, 1996 and December 30, 1995, and for each
+of the three years in the period ended December 28, 1996, are presented for
+purposes of complying with the Securities and Exchange Commission's rules and
+are not part of the basic financial statements. These schedules have been
+subjected to the auditing procedures applied in our audit of the basic financial
+statements and, in our opinion, fairly state in all material respects the
+financial data required to be set forth therein in relation to the basic
+financial statements taken as a whole.
+
+
+                                                        Arthur Andersen LLP
+
+
+Philadelphia, Pa.,
+     February 10, 1997
+
+
+<PAGE>   33
+
+
+
+                   K-TRON INTERNATIONAL, INC. AND SUBSIDIARIES
+
+
+                           CONSOLIDATED BALANCE SHEETS
+
+                             (dollars in thousands)
+
+                                     ASSETS
+
+
+
+<TABLE>
+<CAPTION>
+                                                        December 28,    December 30,
+                                                             1996          1995     
+                                                          -------        -------
+<S>                                                       <C>            <C>
+CURRENT ASSETS:                                                                     
+     Cash and cash equivalents                            $ 3,079        $ 3,239    
+     Accounts receivable (less allowance for doubtful                               
+         accounts of  $1,037 and $1,077)                   16,336         20,849    
+     Inventories                                           13,258         18,534    
+     Deferred income taxes                                    641          1,088    
+     Prepaid expenses and other current assets              1,353          1,512    
+                                                          -------        -------    
+                                                                                    
+                        Total current assets               34,667         45,222    
+                                                                                    
+PROPERTY, PLANT AND EQUIPMENT, net of                                               
+     accumulated depreciation of $27,023 and $26,756       15,624         17,595    
+                                                                                    
+PATENTS, net of accumulated amortization of $2,956                                  
+     and $4,644                                                                          
+                                                              493            480    
+                                                                                    
+EXCESS OF COST OVER NET ASSETS ACQUIRED, net                                        
+     of accumulated amortization of $3,086 and $3,009       4,422          5,597    
+                                                                                    
+OTHER ASSETS                                                  124            402    
+                                                          -------        -------    
+                                                                                    
+                        Total assets                      $55,330        $69,296    
+                                                          =======        =======    
+                                                                       
+</TABLE>
+
+
+
+
+
+
+   The accompanying notes are an integral part of these financial statements.
+
+
+                                      F-3
+<PAGE>   34
+
+
+
+
+                   K-TRON INTERNATIONAL, INC. AND SUBSIDIARIES
+
+
+                           CONSOLIDATED BALANCE SHEETS
+
+                    (dollars in thousands except share data)
+
+                      LIABILITIES AND SHAREHOLDERS' EQUITY
+
+
+<TABLE>
+<CAPTION>
+                                                                        December 28,      December 30,
+                                                                            1996             1995
+                                                                          --------         --------
+
+<S>                                                                       <C>              <C>
+CURRENT LIABILITIES:
+     Notes payable to banks                                               $    494         $   --
+     Current portion of long-term debt                                         367            2,133
+     Accounts payable                                                        5,641            9,250
+     Accrued expenses and other current liabilities                          3,440            2,558
+     Accrued payroll                                                         2,579            1,459
+     Accrued commissions                                                     2,407            2,523
+     Customer advances                                                       2,318            2,612
+     Accrued warranty                                                          826              893
+     Income taxes payable                                                    1,226              680
+     Deferred income taxes                                                       7             --
+                                                                          --------         --------
+
+                        Total current liabilities                           19,305           22,108
+                                                                          --------         --------
+
+LONG-TERM DEBT, net of current portion                                      20,807           35,004
+                                                                          --------         --------
+
+DEFERRED INCOME TAXES                                                          459              466
+                                                                          --------         --------
+
+OTHER NONCURRENT LIABILITIES                                                 1,565            2,297
+                                                                          --------         --------
+
+COMMITMENTS AND CONTINGENCIES (Note 11)
+
+SERIES A JUNIOR PARTICIPATING PREFERRED
+     SHARES, $.01 par value, 50,000 shares
+     authorized; none issued
+                                                                              --               --
+                                                                          --------         --------
+
+SHAREHOLDERS' EQUITY:
+     Preferred stock, $.01 par value; 950,000 shares
+         authorized; none issued                                              --               --
+     Common stock, $.01 par value; 15,000,000 shares
+         authorized; 4,200,328 and 4,175,585 shares issued                      42               42
+     Paid-in capital                                                        14,120           13,980
+     Retained earnings                                                       9,802            5,776
+     Cumulative translation adjustment                                        (206)             187
+                                                                          --------         --------
+
+                                                                            23,758           19,985
+     Treasury stock, 1,062,950 shares, at cost                             (10,564)         (10,564)
+                                                                          --------         --------
+
+                        Total shareholders' equity                          13,194            9,421
+                                                                          --------         --------
+
+                        Total liabilities and shareholders' equity        $ 55,330         $ 69,296
+                                                                          ========         ========
+</TABLE>
+
+
+   The accompanying notes are an integral part of these financial statements.
+
+
+                                      F-4
+
+<PAGE>   35
+
+
+                   K-TRON INTERNATIONAL, INC. AND SUBSIDIARIES
+
+                      CONSOLIDATED STATEMENTS OF OPERATIONS
+
+                    (dollars in thousands except share data)
+
+
+
+
+<TABLE>
+<CAPTION>
+                                                                                 For the Fiscal Year Ended
+                                                                     -----------------------------------------------
+                                                                      December 28,    December 30,       December 31,
+                                                                         1996            1995                1994
+                                                                     ----------       -----------        -----------
+
+
+<S>                                                                  <C>              <C>                <C>        
+REVENUES                                                             $   89,871       $   110,394        $   104,772
+
+COST OF REVENUES                                                         50,839            67,658             67,145
+                                                                     ----------       -----------        -----------
+
+                  Gross profit                                           39,032            42,736             37,627
+                                                                     ----------       -----------        -----------
+
+OPERATING EXPENSES:
+     Selling, general and administrative                                 28,840            34,625             34,916
+     Research and development                                             2,316             3,135              4,439
+     Loss on disposition of businesses                                     --              11,278                852
+                                                                     ----------       -----------        -----------
+
+                                                                         31,156            49,038             40,207
+                                                                     ----------       -----------        -----------
+
+                  Operating Income (Loss)                                 7,876            (6,302)            (2,580)
+
+INTEREST EXPENSE                                                          2,035             4,142              4,472
+                                                                     ----------       -----------        -----------
+
+                  Income (Loss) Before Income Taxes                       5,841           (10,444)            (7,052)
+
+INCOME TAX PROVISION (BENEFIT)                                            1,815            (1,150)              (226)
+                                                                     ----------       -----------        -----------
+
+                  Net income (loss)                                  $    4,026       $    (9,294)       $    (6,826)
+                                                                     ==========       ===========        ===========
+
+EARNINGS (LOSS) PER SHARE                                            $     1.28       $     (3.00)       $     (2.22)
+                                                                     ==========       ===========        ===========
+
+WEIGHTED AVERAGE NUMBER OF COMMON AND 
+COMMON EQUIVALENT SHARES OUTSTANDING                                  3,136,000         3,096,000          3,079,000
+                                                                     ==========       ===========        ===========
+</TABLE>
+
+
+
+
+
+
+   The accompanying notes are an integral part of these financial statements.
+
+
+
+                                      F-5
+<PAGE>   36
+                   K-TRON INTERNATIONAL, INC. AND SUBSIDIARIES
+
+           CONSOLIDATED STATEMENTS OF CHANGES IN SHAREHOLDERS' EQUITY
+
+                             (dollars in thousands)
+
+<TABLE>
+<CAPTION>
+                             Common Stock                                    Cumulative      Treasury Stock                        
+                         ----------------------     Paid-in      Retained    Translation   ----------------------                  
+                           Shares       Amount      Capital      Earnings    Adjustment     Shares        Amount        Total   
+                         ---------    ---------    ---------    ---------     ---------    ---------    ---------     --------- 
+<S>                      <C>          <C>          <C>          <C>           <C>          <C>          <C>           <C>       
+BALANCE,                                                                                                                        
+  JANUARY 1, 1994        4,119,228    $      41    $  13,589    $  21,896     $    (268)   1,062,950    $ (10,564)    $  24,694 
+                                                                                                                                
+    Issuance of                                                                                                                 
+      common stock          31,659         --            276         --            --           --           --             276 
+                                                                                                                                
+    Net loss                  --           --           --         (6,826)         --           --           --          (6,826)
+                                                                                                                                
+    Translation                                                                                                                 
+       adjustments            --           --           --           --             377         --           --             377 
+                         ---------    ---------    ---------    ---------     ---------    ---------    ---------     --------- 
+                                                                                                                                
+BALANCE,                                                                                                                        
+  DECEMBER 31, 1994      4,150,887           41       13,865       15,070           109    1,062,950      (10,564)       18,521 
+                                                                                                                                
+     Issuance of                                                                                                                
+       common stock         24,698            1          115         --            --           --           --             116 
+                                                                                                                                
+     Net loss                 --           --           --         (9,294)         --           --           --          (9,294)
+                                                                                                                                
+     Translation                                                                                                                
+       adjustments            --           --           --           --              78         --           --              78 
+                         ---------    ---------    ---------    ---------     ---------    ---------    ---------     --------- 
+                                                                                                                                
+BALANCE,                                                                                                                        
+   DECEMBER 30, 1995     4,175,585           42       13,980        5,776           187    1,062,950      (10,564)        9,421 
+                                                                                                                                
+     Issuance of                                                                                                                
+       common stock         24,743         --            140         --            --           --           --             140 
+                                                                                                                                
+     Net income               --           --           --          4,026          --           --           --           4,026 
+                                                                                                                                
+     Translation                                                                                                                
+       adjustments            --           --           --           --            (393)        --           --            (393)
+                         ---------    ---------    ---------    ---------     ---------    ---------    ---------     --------- 
+                                                                                                                                
+BALANCE,                                                                                                                        
+  DECEMBER 28, 1996      4,200,328    $      42    $  14,120    $   9,802     $    (206)   1,062,950    $ (10,564)    $  13,194 
+                         =========    =========    =========    =========     =========    =========    =========     ========= 
+</TABLE>
+
+
+
+   The accompanying notes are an integral part of these financial statements.
+
+                                      F-6
+<PAGE>   37
+
+
+
+
+
+
+                   K-TRON INTERNATIONAL, INC. AND SUBSIDIARIES
+
+
+                      CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+                             (dollars in thousands)
+
+
+
+<TABLE>
+<CAPTION>
+                                                                              For the Fiscal Year Ended
+                                                                      ----------------------------------------
+                                                                    December 28,    December 30,     December 31,
+                                                                        1996            1995            1994
+                                                                      --------        --------        --------
+
+<S>                                                                   <C>             <C>             <C>
+OPERATING ACTIVITIES:
+   Net income (loss)                                                  $  4,026        $ (9,294)       $ (6,826)
+   Adjustments to reconcile net income (loss) to
+      net cash provided by operating activities-
+         Loss on disposition of businesses                                --            11,278             852
+         Depreciation and amortization                                   3,338           4,844           6,314
+         Amortization of deferred gain on
+            sale/leaseback transaction                                    (447)           (468)           (403)
+         Deferred income taxes                                             443          (1,651)            (14)
+         Changes in assets and liabilities
+            excluding effects of dispositions-
+               Accounts receivable, net                                  3,266           1,802          (1,965)
+               Inventories                                               4,101           1,353          (2,709)
+               Prepaid expenses and other
+                     current assets                                         20            (678)            284
+               Other assets                                                 52             739            (194)
+               Accounts payable                                         (3,027)             (5)          4,074
+               Accrued expenses and other
+                     current liabilities                                 1,598          (2,317)          1,993
+               Accrued warranty                                             18             201            (124)
+               Income taxes                                                581             307          (1,200)
+                                                                      --------        --------        --------
+                     Net cash provided by
+                        operating activities                            13,969           6,111              82
+                                                                      --------        --------        --------
+INVESTING ACTIVITIES:
+   Proceeds from disposition of businesses                                --             9,320            --
+   Capital expenditures                                                 (2,081)           (370)         (2,467)
+   Investment in patents                                                   (47)             (7)           (111)
+                                                                      --------        --------        --------
+                     Net cash (used in) provided by  
+                     investing activities                               (2,128)          8,943          (2,578)
+                                                                      --------        --------        --------
+</TABLE>
+
+
+                                   (continued)
+
+
+
+                                      F-7
+<PAGE>   38
+
+
+
+
+
+                   K-TRON INTERNATIONAL, INC. AND SUBSIDIARIES
+
+
+                      CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+                                   (continued)
+
+                             (dollars in thousands)
+
+
+
+<TABLE>
+<CAPTION>
+                                                                     For the Fiscal Year Ended
+                                                            --------------------------------------------
+                                                           December 28,      December 30,      December 31,
+                                                               1996             1995              1994
+                                                            --------          --------          --------
+
+<S>                                                         <C>               <C>               <C> 
+FINANCING ACTIVITIES:                      
+   Net (repayments) borrowings under notes 
+      payable to banks                                      $(17,684)         $(12,224)         $  4,176
+   Proceeds from issuance of long-term debt                    6,037              --                --
+   Principal payments on long-term debt                         (299)           (1,013)           (2,403)
+   Proceeds from issuance of common stock                        140               116               276
+                                                            --------          --------          --------
+
+                     Net cash (used in) provided by
+                         financing activities                (11,806)          (13,121)            2,049
+                                                            --------          --------          --------
+
+EFFECT OF EXCHANGE RATE CHANGES
+   ON CASH AND CASH EQUIVALENTS                                 (195)              220              (110)
+                                                            --------          --------          --------
+
+NET (DECREASE) INCREASE IN CASH
+   AND CASH EQUIVALENTS                                         (160)            2,153              (557)
+
+CASH AND CASH EQUIVALENTS:
+   Beginning of year                                           3,239             1,086             1,643
+                                                            --------          --------          --------
+
+   End of year                                              $  3,079          $  3,239          $  1,086
+                                                            ========          ========          ========
+
+SUPPLEMENTAL DISCLOSURES OF CASH
+   FLOW INFORMATION:
+         Cash paid during the year for-
+           Interest                                         $  1,928          $  3,597          $  4,412
+                                                            ========          ========          ========
+
+           Income taxes                                     $    699          $    345          $    575
+                                                            ========          ========          ========
+</TABLE>
+
+
+
+
+
+
+   The accompanying notes are an integral part of these financial statements.
+
+
+                                      F-8
+
+<PAGE>   39
+
+                   K-TRON INTERNATIONAL, INC. AND SUBSIDIARIES
+
+
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+                       FISCAL YEAR ENDED DECEMBER 28, 1996
+
+
+
+1. NATURE OF OPERATIONS:
+
+K-Tron International, Inc. and its subsidiaries (the "Company") design, produce,
+market, and sell gravimetric and volumetric feeders and related equipment for
+the handling of bulk solids in a wide variety of manufacturing processes. The
+Company has manufacturing facilities in the United States and Switzerland and
+its equipment is sold throughout the world.
+
+2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES:
+
+Principles of Consolidation
+
+The consolidated financial statements include the accounts of the Company and
+its subsidiaries, all of which are wholly owned. All material intercompany
+accounts and transactions have been eliminated in consolidation.
+
+Fiscal Year
+
+The Company's fiscal year is reported on a fifty-two/fifty-three-week period.
+The fiscal years ended December 28, 1996 (referred to herein as "1996"),
+December 30, 1995 (referred to herein as "1995"), and December 31, 1994
+(referred to herein as "1994"), each include fifty-two weeks.
+
+Cash and Cash Equivalents
+
+Cash equivalents represent all highly liquid, interest-bearing investments
+purchased with maturities of three months or less.
+
+Inventories
+
+Inventories are stated at the lower of cost (first-in, first-out method) or
+market.
+
+Property, Plant and Equipment
+
+Property, plant and equipment is carried at cost and is depreciated and
+amortized on a straight-line basis over the following estimated useful lives:
+buildings and improvements, 30 to 50 years; automotive equipment, 3 years;
+machinery and equipment, 3 to 10 years; and furniture and fixtures, 5 to 7
+years. Leasehold improvements are amortized over the shorter of the estimated
+useful lives of such assets or the remaining term of the applicable lease.
+
+
+                                      F-9
+<PAGE>   40
+
+Patents
+
+Patents are stated at cost less accumulated amortization. The costs of patents
+are amortized on a straight-line basis over the remaining economic life of the
+respective asset, but in no event longer than the remaining legal life.
+
+Excess of Cost Over Net Assets Acquired
+
+Excess of cost over net assets acquired is being amortized on a straight-line
+basis over 15 years. Subsequent to its acquisition, the Company continually
+evaluates whether later events and circumstances have occurred that indicate the
+remaining estimated useful life of this asset may warrant revision or that the
+remaining balance may not be recoverable. When factors indicate that this asset
+should be evaluated for possible impairment, the Company uses an estimate of
+fair market value in measuring whether the asset is recoverable.
+
+Income Taxes
+
+Income taxes are accounted for in accordance with Statement of Financial
+Accounting Standards ("SFAS") No. 109, "Accounting for Income Taxes." Deferred
+income taxes are provided for differences between amounts shown for financial
+reporting purposes and those included with tax return filings that will reverse
+in future periods. Additionally, the effects of income taxes are measured based
+upon effective tax laws and rates.
+
+Research and Development
+
+Expenditures for research, development and engineering of products are expensed
+as incurred.
+
+Foreign Currency Translation
+
+Assets and liabilities denominated in foreign currencies are translated to U.S.
+dollars at current rates of exchange. Revenues and expenses are translated at
+average rates prevailing during the year. The Company incurred foreign currency
+losses amounting to approximately $55,000, $1,279,000 and $324,000 for 1996,
+1995 and 1994, respectively. Translation gains and losses are recorded as a
+separate component of shareholders' equity.
+
+Earnings (Loss) Per Share
+
+Earnings (loss) per common share are based on the weighted average number of
+common and common equivalent shares outstanding during each year. Such average
+shares include the weighted average number of common shares outstanding plus the
+shares issuable upon exercise of stock options after the assumed repurchase of
+common shares with the related proceeds.
+
+
+                                      F-10
+<PAGE>   41
+
+Fair Value Disclosures
+
+The carrying value of financial instruments such as cash, accounts receivables
+and payables and other current assets and liabilities approximates their fair
+value, based on the short-term nature of these instruments. The carrying amount
+of the Company's long-term debt and notes payable approximates their fair value.
+The fair value is estimated based on the current rates offered to the Company
+for debt and notes payable of the same remaining maturities.
+
+Use of Estimates
+
+The preparation of financial statements in conformity with generally accepted
+accounting principles requires management to make estimates and assumptions that
+affect the reported amounts of assets and liabilities at the date of the
+financial statements, and the reported amounts of revenues and expenses during
+the reporting period. Actual results could differ from these estimates.
+
+New Accounting Pronouncements
+
+In 1996, the Company was required to adopt the provisions of SFAS No. 121,
+"Accounting for the Impairment of Long-Lived Assets and for Long-Lived Assets to
+Be Disposed Of." The adoption did not have a material impact on the consolidated
+financial statements.
+
+In 1996, the Company was also required to adopt the provisions of SFAS No. 123,
+"Accounting for Stock-Based Compensation," which requires the Company to assess
+the intrinsic value of certain stock options granted and either record this
+amount as compensation in the statement of income or disclose the amount in the
+footnotes to the financial statements. The Company will adopt this pronouncement
+by disclosure in the footnotes; however, for 1996 and 1995, the Company has
+determined that the intrinsic value of stock options granted was not material.
+
+3. DISPOSITION OF BUSINESSES:
+
+In June 1995, the Company sold Colortronic GmbH and rights to several related
+patents and patent applications to an investment group including former members
+of the Company's management for $9 million, resulting in a pre-tax loss of
+$10,529,000 on the sale. The sale reduced consolidated debt by the amount of
+Colortronic bank debt, which was $15,154,000. Proceeds from the sale were used
+to pay down non-U.S. and U.S. borrowings. The Company discontinued its other
+Colortronic brand business.
+
+Additionally, in the fourth quarter of 1995, the Company sold certain operations
+in France to a former member of the Company's management and its operation in
+Brazil to a third party for a total of $951,000, resulting in a pre-tax loss of
+$749,000 in 1995. The loss of $852,000 incurred in 1994 related to reserves
+established in connection with the anticipated sales of the French and Brazilian
+operations.
+
+
+                                      F-11
+<PAGE>   42
+
+The following unaudited pro forma consolidated statement of operations for 1995
+illustrate the estimated effects of the dispositions and the application of the
+net proceeds, and the discontinuance of the other Colortronic brand business, as
+if the transactions were consummated as of the beginning of 1995 (in thousands
+except per-share data):
+
+<TABLE>
+<S>                                                                      <C>    
+Revenues                                                                 $89,640
+Cost of revenues                                                          52,819
+                                                                         -------
+   Gross profit                                                           36,821
+Operating expenses                                                        31,236
+                                                                         -------
+   Operating income                                                        5,585
+Interest expense                                                           2,868
+                                                                         -------
+   Income before taxes                                                     2,717
+Income taxes                                                               1,309
+                                                                         -------
+   Net income                                                            $ 1,408
+                                                                         =======
+Earnings per share                                                       $   .45
+                                                                         =======
+</TABLE>
+
+Pro forma adjustments include only the effects of events directly attributable
+to the transactions and are expected to have a continuing impact. The above
+unaudited pro forma financial information is not necessarily indicative of the
+results that would actually have been obtained if the transactions had been
+effected at the beginning of 1995 or that may be obtained in the future.
+
+4. INVENTORIES:
+
+Inventories consist of the following:
+
+<TABLE>
+<CAPTION>
+                                                 December 28,          December 30,
+                                                    1996                  1995
+                                                 ------------          ------------
+                                                           (in thousands)
+<S>                                                <C>                   <C>    
+Components                                         $10,608               $13,527
+Work-in-process                                      1,773                 4,135
+Finished goods                                         877                   872
+                                                   -------               -------
+                                                   $13,258               $18,534
+                                                   =======               =======
+</TABLE>
+
+
+                                      F-12
+<PAGE>   43
+
+5. PROPERTY, PLANT AND EQUIPMENT:
+
+Property, plant and equipment consist of the following:
+
+<TABLE>
+<CAPTION>
+                                                  December 28,       December 30,
+                                                      1996               1995
+                                                    --------           --------
+                                                           (in thousands)
+<S>                                                 <C>                <C>     
+Land                                                $  1,234           $  1,414
+Buildings and improvements                            17,130             18,637
+Automotive equipment                                     739                736
+Machinery and equipment                               11,799             11,390
+Furniture and fixtures                                11,745             12,174
+                                                    --------           --------
+                                                      42,647             44,351
+Less-  Accumulated depreciation
+     and amortization                                (27,023)           (26,756)
+                                                    --------           --------
+                                                    $ 15,624           $ 17,595
+                                                    ========           ========
+</TABLE>
+
+Depreciation of property, plant and equipment for 1996, 1995 and 1994 was
+$2,467,000, $3,521,000 and $4,088,000, respectively.
+
+6. NOTES PAYABLE TO BANKS AND LONG-TERM DEBT:
+
+Notes Payable to Banks
+
+Prior to 1996, all debt was subject to U.S. and non-U.S. forbearance agreements
+which arose as a result of the significant losses in prior years. During 1996
+and early 1997, the Company replaced all of the U.S. lenders and successfully
+negotiated financing arrangements with the non-U.S. lenders. The U.S.
+forbearance agreement has been terminated, and the non-U.S. agreement has been
+amended and extended to March 31, 1999, as discussed below.
+
+In June 1996, the Company's U.S. manufacturing subsidiary obtained a 20-year
+mortgage for $2.7 million at an interest rate of 9%. Monthly principal and
+interest payments are $24,293 and are due through June 2001. The bank has the
+right to review and adjust the terms of the mortgage every five years.
+
+In addition, in June 1996, the U.S. manufacturing subsidiary entered into a
+two-year secured revolving credit facility with a lender that provides for a
+maximum borrowing of $5.7 million, subject to certain maximum borrowing
+limitations based upon inventory and receivable levels. The interest rate as of
+December 28, 1996, was 9.75%. As of December 28, 1996, $172,000 was borrowed
+under the agreement and $5,528,000 was available for future borrowing.
+
+In order to comply with a consensus issued in November 1995 set forth by the
+Emerging Issues Task Force in EITF 95-22 regarding classification of certain
+debt instruments that include both a requirement for a lock box arrangement and
+a subjective acceleration clause, $172,000 of the borrowings under the revolving
+line of credit in the United States has been classified as a current liability.
+Under the terms of the revolving credit agreement,
+
+
+                                      F-13
+<PAGE>   44
+
+however, the Company will not be required to repay this amount during the next
+fiscal year. Payment will only be required at the expiration of the agreement on
+June 14, 1998, or if the borrowing base is reduced below the amount outstanding.
+Based on anticipated borrowing base levels, the Company believes that amounts
+outstanding will ultimately be due and payable in June 1998.
+
+In February 1997, the agreement between the Company's Swiss manufacturing
+subsidiary and its Swiss bank lenders which was scheduled to expire on March 31,
+1997, was amended and extended to March 31, 1999. The Swiss subsidiary is not in
+default under any of its loan agreements with such lenders.
+
+At December 28, 1996, the Company's Swiss subsidiary had $8,999,000 borrowed
+under long-term lines of credit with its Swiss bank lenders and $8,453,000 was
+available for future borrowing. The interest rates on these loans and lines of
+credit ranged from 3.75% to 7.0%. As part of the February 1997 agreement, the
+Company's Swiss subsidiary has agreed to reduce its available borrowing capacity
+under the lines of credit by approximately 50%. Negotiations are continuing with
+the Swiss bank lenders regarding which lines of credit to reduce and changes in
+the interest rates. It is anticipated that the interest rates on the lines of
+credit will be adjusted to market plus 2% effective April 1, 1997, and that the
+interest rate on the long-term loans will also be adjusted to market plus 2% on
+each loan's renewal date. The Company expects that the adjustment to market
+rates may result in rates less than those currently in effect, but will be
+offset by the 2% premium. Upon achievement of a 1.5 to 1.0 debt-to-equity ratio
+for the Swiss subsidiary, the interest rates will be reduced by the 2% added on
+April 1, 1997, and mortgage principal payments will commence. Additionally, the
+Company is permitted to pay down its Swiss bank debt using cash flows from Swiss
+operations, but the Company has agreed not to terminate the agreement before
+March 31, 1998.
+
+In addition to the long-term lines of credit, the Company's Swiss subsidiary at
+December 28, 1996, also had borrowed $7,377,000 under two mortgages from its
+Swiss bank lenders. These mortgages carried interest rates of 3.625% and 8.25%.
+
+Under the terms of the U.S. mortgage and revolving credit facility, $11,273,000
+of receivables and inventory and $3,468,000 of fixed assets are pledged as
+collateral. In addition, $6,644,000 of accounts receivable are pledged as
+collateral under the non-U.S. lines of credit and $6,711,000 of fixed assets are
+pledged as collateral under the non-U.S. mortgages.
+
+
+                                      F-14
+<PAGE>   45
+
+Long-term debt consists of the following:
+
+<TABLE>
+<CAPTION>
+                                                         December 28,    December 30,
+                                                            1996            1995
+                                                          --------        --------
+                                                                (in thousands)
+<S>                                                       <C>             <C>     
+Non-U.S. long-term lines of credit                        $  8,999        $ 18,030
+U.S. line of credit                                             --           5,005
+U.S. mortgage, interest at 9.0% per annum                    2,680           2,828
+Non-U.S. mortgages, interest at market rates (3.6%
+     to 8.25% at December 28, 1996 and 6.5% to 8.9%
+     at December 30, 1995) payable annually                  8,781          10,173
+Other                                                          714           1,101
+                                                          --------        --------
+                                                            21,174          37,137
+Less-  Current portion                                        (367)         (2,133)
+                                                          --------        --------
+                                                          $ 20,807        $ 35,004
+                                                          ========        ========
+</TABLE>
+
+Future annual payments required on long term debt are as follows (in thousands):
+
+<TABLE>
+<CAPTION>
+Fiscal Year                                                              Amount
+- -----------                                                              ------
+<S>                                                                      <C>    
+1997                                                                     $   367
+1998                                                                         274
+1999                                                                      17,976
+2000                                                                          96
+2001                                                                          73
+Thereafter                                                                 2,388
+                                                                         -------
+                                                                         $21,174
+                                                                         =======
+
+</TABLE>
+
+7. EMPLOYEE BENEFIT PLANS:
+
+The Company has a profit-sharing and thrift plan for all domestic employees who
+have worked for the Company for at least one year and who are employed at the
+end of the year. All Company contributions to the plan are at the discretion of
+the Board of Directors. The Company's profit-sharing contribution vests over a
+seven-year period. In addition, employees may voluntarily participate in the
+thrift plan and authorize payroll deductions ranging from 1% to 15% of their
+compensation. Related matching Company contributions are vested immediately. In
+1996, 1995, and 1994, the Board of Directors authorized matching contributions
+of up to 6% of participants' compensation. The Board of Directors did not
+authorize any 1996, 1995, or 1994 contribution to the profit-sharing portion of
+the plan.
+
+Substantially all foreign employees participate in defined contribution group
+pension plans. Contributions are paid by the employee and employer at a
+percentage that varies according to age and other factors.
+
+The expense associated with the domestic profit-sharing and thrift plan for
+1996, 1995 and 1994 was $269,000, $225,000 and $285,000, respectively. The
+foreign pension expense for 1996, 1995 and 1994 was $1,122,000, $1,402,000 and
+$1,607,000, respectively.
+
+
+                                      F-15
+<PAGE>   46
+
+Colortronic GmbH employees participated in an unfunded defined benefit plan. The
+net periodic pension cost for the unfunded defined benefit plan was $177,000 and
+$353,000 for 1995 and 1994, respectively. (See Note 3 for further discussion on
+the Colortronic disposition.)
+
+In June 1981, the Company adopted an employee stock purchase plan under which
+eligible employees of the Company may elect to participate through payroll
+deductions for up to 10% of their gross compensation. Such deductions are used
+to purchase common stock of the Company at a price equal to 85% of the market
+value. Under this plan, the Company issued 24,743 shares of Common Stock with an
+average price of $5.67 in 1996, 24,698 shares of common stock at an average
+price of $4.68 in 1995 and 29,159 shares of common stock at an average price of
+$8.75 in 1994.
+
+8. SHAREHOLDERS' EQUITY:
+
+In 1991, the Board of Directors determined the rights on 50,000 shares of the
+authorized preferred stock as the Series A Junior Participating Preferred Shares
+(the "Series A Preferred Shares"). Each one one-hundredth of a share of the
+Series A Preferred Shares carries voting and dividend rights that are equivalent
+to one share of the common stock. The voting and dividend rights are subject to
+adjustment in the event of a dividend on common stock which is payable in common
+stock or any subdivisions or combinations with respect to the outstanding shares
+of common stock (see Note 9).
+
+The Board of Directors has not determined the rights on the remaining 950,000
+shares of the authorized preferred stock as of December 28, 1996.
+
+The Company has a stock option plan for nonemployee directors (the "1988
+nonemployee directors' plan"). The plan provides that each eligible director is
+granted a single option to purchase 10,000 shares of the Company's common stock
+at a price equal to the fair market value at the date of grant. The aggregate
+number of shares which may be issued under the plan is 100,000. These options
+have a term of 10 years and become exercisable in four equal annual installments
+beginning on the date of the grant.
+
+Under the Company's 1986 Stock Option Plan, as amended (the "1986 plan"), key
+employees of and consultants to the Company may be granted options to purchase
+shares of the Company's common stock. Options granted under the 1986 plan may be
+either incentive stock options or nonqualified stock options. The Stock Option
+Committee (the "Committee") determines the term of each option, but no option
+will be exercisable more than 10 years from the date the option is granted. The
+Committee determines the option exercise price per share. With respect to
+incentive stock options, the exercise price must at least equal the fair market
+value of a share of common stock as of the date the option is granted. The
+aggregate number of shares that may be issued under the plan is 600,000. This
+plan expired in January 1996 but was replaced by the 1996 Equity Compensation
+
+
+                                      F-16
+<PAGE>   47
+
+Plan with features similar to the 1986 plan, except that the maximum number of
+shares that may be issued is 450,000.
+
+A summary of the Company's stock option activity for its stock option plans for
+the three fiscal years ended December 28, 1996, is as follows:
+
+<TABLE>
+<CAPTION>
+                                                                          Options
+                                                     ------------------------------------------------
+                                                                          Average
+                                    Shares                                Price
+                                   Reserved          Outstanding         Per Share         Available
+                                  -----------        -----------        -----------       -----------
+<S>                               <C>                <C>                <C>               <C>
+BALANCE,
+     JANUARY 1, 1994                  555,815            235,959                              319,856
+         Granted                           --             70,584        $     11.50           (70,584)
+         Canceled                          --            (16,500)             10.92            16,500
+         Exercised                     (2,500)            (2,500)              8.50                --
+                                  -----------        -----------                          -----------
+BALANCE,
+     DECEMBER 31, 1994                553,315            287,543                              265,772
+         Granted                           --             74,000               6.25           (74,000)
+         Canceled                          --           (107,859)             10.50           107,859
+                                  -----------        -----------                          -----------
+BALANCE,
+     DECEMBER 30, 1995                553,315            253,684                              299,631
+         Granted                           --
+         Canceled                      (5,000)            (5,000)              8.45
+         1996 Plan Adoption           450,000                 --                 --           450,000
+         1986 Plan
+         Expiration                  (249,631)                --                 --          (249,631)
+                                  -----------        -----------                          -----------
+BALANCE,
+     DECEMBER 28, 1996                748,684            248,684                              500,000
+                                  ===========        ===========                          ===========
+</TABLE>
+
+As of December 28, 1996, 58 employees held options under the 1986 plan for an
+aggregate of 198,684 shares at exercise prices from $6.25 to $14 with a weighted
+average option price of $8.77. These options expire in varying amounts through
+the year 2005.
+
+As of December 28, 1996, no employees held options under the 1996 Equity
+Compensation Plan.
+
+As of December 28, 1996, under the 1989 nonemployee directors' plan, five
+directors held options for an aggregate of 50,000 shares at exercise prices from
+$9.25 to $11 with a weighted average option price of $10.53. These options
+expire in varying amounts through the year 2004.
+
+
+                                      F-17
+<PAGE>   48
+
+9. SHAREHOLDER RIGHTS PLAN:
+
+The Company has a Shareholder Rights Plan (the "Rights Agreement") which was
+adopted by the Board of Directors on October 3, 1991. The Rights Agreement
+provides that each share of the Company's common stock outstanding as of October
+14, 1991, has associated with it one Right to purchase one one-hundredth of a
+share of the Series A Preferred Shares at an exercise price of $40 per share.
+Such exercise price is subject to adjustment as described in the Rights
+Agreement.
+
+The Rights will be exercisable only if a person or group obtains the right to
+acquire beneficial ownership of 20% or more of the outstanding common stock of
+the Company, or after the commencement of a tender offer or an exchange offer
+that would result in a person or group beneficially owning 20% or more of the
+outstanding common stock. If anyone acquires 20% or more of the Company's
+outstanding common stock, the Rights would entitle shareholders (other than the
+20% acquiror) to purchase for $40 the number of shares of the Company's common
+stock which would have a market value of $80. In the event that the Company is
+acquired in a merger or other business combination, the Rights would entitle the
+shareholders (other than the acquiror) to purchase securities of the surviving
+company at a similar discount. In lieu of requiring payment of the exercise
+price of the Rights upon the occurrence of the above-noted events, the Company
+may permit the holders to simply surrender the Rights and receive the number of
+shares of the Company's common stock which would have a market value of $40.
+
+The Company can redeem the Rights at $.01 per Right at any time until the 20th
+day following a public announcement that a person or a group has acquired or
+obtained the right to acquire beneficial ownership of at least 20% of the
+Company's outstanding common stock. Under certain circumstances set forth in the
+Rights Agreement, the decision to redeem shall require the concurrence of a
+majority of the Continuing Directors, as defined in the Rights Agreement. The
+redemption period may be extended by the Board of Directors as long as the
+Rights are still redeemable. The Rights expire October 14, 2001.
+
+10. INCOME TAXES:
+
+Following are the domestic and foreign components of the income (loss) before
+income taxes:
+
+<TABLE>
+<CAPTION>
+                                                      Fiscal Year Ended
+                                           --------------------------------------
+                                          December 28,   December 30,   December 31,
+                                             1996           1995           1994
+                                           --------       --------       --------
+                                                       (in thousands)
+<S>                                        <C>            <C>            <C>      
+United States                              $  2,648       $    756       $   (994)
+Foreign                                       3,193        (11,200)        (6,058)
+                                           --------       --------       --------
+    Income (loss) before income
+      taxes                                $  5,841       $(10,444)      $ (7,052)
+                                           ========       ========       ========
+</TABLE>
+
+
+                                      F-18
+<PAGE>   49
+
+The income tax (benefit) provision consists of the following:
+
+<TABLE>
+<CAPTION>
+                                                    Fiscal Year Ended
+                                            -----------------------------------
+                                          December 28,  December 30,   December 31,
+                                              1996         1995           1994
+                                            -------       -------       -------
+                                                       (in thousands)
+<S>                                         <C>           <C>           <C>     
+Current:
+   Federal                                  $ 1,056       $   501       $  (374)
+   Foreign                                      316            --           136
+                                            -------       -------       -------
+         Total current                        1,372           501          (238)
+                                            -------       -------       -------
+Deferred:
+   Federal and State                           (141)         (106)          108
+   Foreign                                       (8)         (526)          (96)
+   Benefit of foreign net operating
+      loss carryforwards                        592        (1,019)           --
+                                            -------       -------       -------
+         Total deferred                         443        (1,651)           12
+                                            -------       -------       -------
+Total income tax provision
+  (benefit)                                 $ 1,815       $(1,150)      $  (226)
+                                            =======       =======       =======
+</TABLE>
+
+Significant components of the deferred tax accounts at December 28, 1996 and
+December 30, 1995, are as follows:
+
+<TABLE>
+<CAPTION>
+                                                        December 28,  December 30,
+                                                           1996          1995
+                                                          -------       -------
+                                                             (in thousands)
+<S>                                                       <C>           <C>    
+             Deferred tax assets:
+                Patent costs                              $    46       $    44
+                Accrued liabilities                           541           388
+                Net operating loss carryforwards            5,448         6,108
+                Inventory basis differences                   281           193
+                Other                                         148            17
+                                                          -------       -------
+                                                            6,464         6,750
+                Valuation allowance                        (5,676)       (5,478)
+                                                          -------       -------
+                      Total assets                            788         1,272
+                                                          -------       -------
+             Deferred tax liabilities:
+                Depreciation                                 (301)         (280)
+                Other                                        (312)         (370)
+                                                          -------       -------
+                      Total liabilities                      (613)         (650)
+                                                          -------       -------
+             Net deferred asset                           $   175       $   622
+                                                          =======       =======
+</TABLE>
+
+Foreign and U.S. state operating loss carryforwards as of December 28, 1996,
+were $19.6 and $4.2 million, respectively. Of the $19.6 million of foreign
+losses, $16.4 million are available to offset future income through 2003. The
+balance of $3.2 million has an unlimited carryforward period. U.S. state
+operating losses are available through 2003.
+
+
+                                      F-19
+<PAGE>   50
+A valuation allowance is provided when it is more likely than not that some
+portion or all of the deferred tax assets will not be realized. The Company has
+established valuation allowances for all foreign and state net operating loss
+carryforwards generated from losses prior to 1995 and certain other deferred tax
+assets for which realization is dependent on future taxable earnings.
+
+At December 28, 1996, retained earnings include $4.5 million of undistributed
+net income of foreign subsidiaries. Management considers such income to have
+been permanently invested and, therefore, no federal income taxes have been
+provided for these items.
+
+A reconciliation of the provision for income taxes and the amounts that would be
+computed using the statutory federal income tax rates is set forth below:
+
+<TABLE>
+<CAPTION>
+                                                          Fiscal Year Ended
+                                         ----------------------------------------------------
+                                         December 28,       December 30,         December 31,
+                                            1996                1995                 1994
+                                           -------             -------             -------
+                                                           (in thousands)
+<S>                                        <C>                 <C>                 <C>
+Income tax provision (benefit)
+   on income (loss) before
+   income tax at statutory                 $ 1,986             $(3,551)            $(2,376)
+   federal income tax rates
+Foreign tax rate differential                   80                 918                  74
+State tax, net of federal                       28                 (27)                  6
+   benefit
+Goodwill amortization and other
+   permanent differences                       325                 175                  13
+Change in valuation allowance                 (640)              1,345               1,986
+Other                                           36                 (10)                 71
+                                           -------             -------             -------
+
+Income tax provision (benefit)             $ 1,815             $(1,150)            $  (226)
+                                           =======             =======             =======
+</TABLE>
+
+11. COMMITMENTS AND CONTINGENCIES:
+
+The Company leases certain office and plant facilities and equipment under
+noncancelable leases. These leases expire in periods ranging from one to five
+years and, in certain instances, provide for purchase options.
+
+Immediately prior to the acquisition of Hasler, the Company's large heavy duty
+feeder division, the acquired company entered into a sale/leaseback agreement on
+its real property in Switzerland. The net proceeds of this transaction were
+distributed to the seller as a dividend. The gain from this transaction has been
+classified as Other Noncurrent Liabilities in the Company's consolidated balance
+sheets. This deferred gain is being amortized over the life of the resulting
+operating lease (10 years). Amortization of the deferred gain for 1996, 1995 and
+1994 was $447,000, $468,000 and $403,000, respectively.
+
+
+                                      F-20
+<PAGE>   51
+As of December 28, 1996, future minimum payments under operating leases having
+noncancelable terms in excess of one year are summarized below:
+
+<TABLE>
+<CAPTION>
+                                              Operating
+                                               Leases
+                                               ------
+                                           (in thousands)
+           <S>                               <C>
+            1997                               $  951
+            1998                                  809
+            1999                                  639
+            2000                                  407
+            2001                                    5
+                                               ------
+                                               $2,811
+                                               ======
+</TABLE>
+
+Rent expense for 1996, 1995 and 1994 was $1,129,000, $1,719,000 and $1,551,000,
+respectively.
+
+The Company has one-year employment agreements with seven executives totaling
+$872,331 for 1997.
+
+12. GEOGRAPHIC AREA INFORMATION:
+
+The Company is engaged in one business segment, the development, manufacturing
+and marketing of gravimetric and volumetric feeders, blenders and related
+industrial control equipment. No single customer accounted for more than 10% of
+total sales.
+
+<TABLE>
+<CAPTION>
+                                               United              Western               Elimi-               Consoli-
+                                               States              Europe                nations                dated
+                                              --------             -------            ------------            -------
+                                                                          (in thousands)
+<S>                                           <C>                  <C>                <C>                     <C>
+FISCAL YEAR ENDED
+  DECEMBER 28, 1996:
+  Revenues-
+   Sales to unaffiliated customers             $34,123             $55,748             $     --               $89,871
+   Sales to affiliates                           4,204               2,995               (7,199)                   --
+                                               -------             -------              -------               -------
+
+            Total sales                        $38,327             $58,743             $ (7,199)              $89,871
+                                               =======             =======             ========               =======
+
+  Operating income                             $ 3,297             $ 4,485             $     94               $ 7,876
+                                               =======             =======             ========        
+  Interest expense                                                                                             (2,035)
+                                                                                                              -------
+
+  Income before income taxes                                                                                  $ 5,841
+                                                                                                              =======
+
+            Total assets                       $17,863             $37,467            $      --               $55,330
+                                               =======             =======            =========               =======
+</TABLE>
+
+
+                                      F-21
+<PAGE>   52
+FISCAL YEAR ENDED
+  DECEMBER 30, 1995:
+<TABLE>
+<CAPTION>
+
+<S>                                          <C>                <C>                 <C>                 <C>
+  Revenues-
+   Sales to unaffiliated customers            $32,156             $78,238             $    --             $110,394
+   Sales to affiliates                          3,445               4,034              (7,479)                  --
+                                              -------             -------             -------             --------
+            Total sales                       $35,601             $82,272             $(7,479)            $110,394
+                                              =======             =======             =======             ========
+  Operating income (loss)                     $ 2,014             $(8,282)            $   (34)            $ (6,302)
+                                              =======             =======             =======             
+  Interest expense                                                                                          (4,142)
+                                                                                                          --------
+  Loss before income taxes                                                                                $(10,444)
+                                                                                                          ========
+            Total assets                      $21,553             $47,843             $  (100)            $ 69,296
+                                              =======             =======             =======             ========
+
+FISCAL YEAR ENDED
+  DECEMBER 31, 1994:
+  Revenues-
+   Sales to unaffiliated customers            $28,969             $75,803             $    --             $104,772
+   Sales to affiliates                          3,995               4,833              (8,828)                  --
+                                              -------             -------             -------             --------
+            Total sales                       $32,964             $80,636             $(8,828)            $104,772
+                                              =======             =======             =======             ========
+  Operating income (loss)                     $   276             $(2,865)            $     9             $ (2,580)
+                                              =======             =======             =======                     
+  Interest expense                                                                                          (4,472)
+                                                                                                          --------
+  Loss before income taxes                                                                                $ (7,052)
+                                                                                                          ========
+            Total assets                      $27,647             $82,315             $   (12)            $109,950
+                                              =======             =======             =======             ========
+</TABLE>
+
+
+                                      F-22
+<PAGE>   53
+                   K-TRON INTERNATIONAL, INC. AND SUBSIDIARIES
+
+                          FINANCIAL STATEMENT SCHEDULES
+<PAGE>   54
+                                                                      SCHEDULE I
+
+                           K-TRON INTERNATIONAL, INC.
+                  CONDENSED FINANCIAL INFORMATION OF REGISTRANT
+                                 BALANCE SHEETS
+
+                    (dollars in thousands except share data)
+
+<TABLE>
+<CAPTION>
+                                                              December 28,        December 30,
+                     ASSETS                                      1996                 1995
+                                                               --------             --------
+<S>                                                            <C>                  <C>
+CURRENT ASSETS:
+   Cash and cash equivalents                                   $     13             $     45
+   Deferred income taxes                                            641                  482
+   Prepaid expenses and other current assets                        171                  113
+                                                               --------             --------
+         Total current assets                                       825                  640
+PROPERTY, PLANT AND EQUIPMENT, net                                   44                  187
+INVESTMENT IN SUBSIDIARIES                                       14,788               21,514
+                                                               --------             --------
+         Total assets                                          $ 15,657             $ 22,341
+                                                               ========             ========
+
+      LIABILITIES AND SHAREHOLDERS' EQUITY
+CURRENT LIABILITIES:
+   Accrued expenses and other current                          $  1,736             $  1,189
+     liabilities
+   Intercompany payables, net                                       473                6,491
+                                                               --------             --------
+         Total current liabilities                                2,209                7,680
+                                                               --------             --------
+LONG-TERM DEBT, net of current portion                               --                5,005
+                                                               --------             --------
+DEFERRED INCOME TAXES                                               254                  235
+                                                               --------             --------
+SERIES A JUNIOR PARTICIPATING PREFERRED SHARES,
+   $.01 par value, authorized 50,000 shares;
+   none issued                                                       --                   --
+                                                               --------             --------
+SHAREHOLDERS' EQUITY:
+   Preferred stock, $.01 par value;
+     950,000 shares authorized; none issued                          --                   --
+   Common stock, $.01 par value;
+     15,000,000 shares authorized; 4,200,328
+     and 4,175,585 shares issued                                     42                   42
+   Paid-in capital                                               14,120               13,980
+   Retained earnings                                              9,802                5,776
+   Cumulative translation adjustments                              (206)                 187
+                                                               --------             --------
+         Total                                                   23,758               19,985
+   Treasury stock, 1,062,950 shares, at cost                    (10,564)             (10,564)
+                                                               --------             --------
+
+         Total shareholders' equity                              13,194                9,421
+                                                               --------             --------
+
+         Total liabilities and shareholders' equity            $ 15,657             $ 22,341
+                                                               ========             ========
+</TABLE>
+
+
+   The accompanying note is an integral part of these financial statements.
+
+                                      S-1
+<PAGE>   55
+                                                                      SCHEDULE I
+                                                                     (Continued)
+
+                           K-TRON INTERNATIONAL, INC.
+                  CONDENSED FINANCIAL INFORMATION OF REGISTRANT
+                            STATEMENTS OF OPERATIONS
+                    (dollars in thousands except share data)
+
+<TABLE>
+<CAPTION>
+                                                                        Fiscal Year Ended
+                                                  ------------------------------------------------------------
+                                                  December 28,             December 30,            December 31,
+                                                      1996                     1995                    1994
+                                                   -----------             -----------             -----------
+<S>                                                <C>                     <C>                     <C>
+REVENUES:
+   Management fees                                 $     2,203             $     4,393             $     4,444
+   Other income, net                                        --                      10                      24
+                                                   -----------             -----------             -----------
+         Total revenues                                  2,203                   4,403                   4,468
+                                                   -----------             -----------             -----------
+OPERATING EXPENSES:
+   Selling, general and administrative                   3,690                   3,385                   3,459
+   Research and development                                 --                      95                     194
+   Loss on disposition of business                          --                   1,045                      --
+                                                   -----------             -----------             -----------
+                                                         3,690                   4,525                   3,653
+                                                   -----------             -----------             -----------
+OPERATING (LOSS) INCOME                                 (1,487)                   (122)                    815
+INTEREST EXPENSE                                           415                     803                     988
+                                                   -----------             -----------             -----------
+         Loss before income tax benefit
+            and net (income) loss of                    (1,902)                   (925)                   (173)
+            subsidiaries
+INCOME TAX BENEFIT                                        (647)                   (314)                    (59)
+                                                   -----------             -----------             -----------
+         Loss before net income (loss)
+            of subsidiaries                             (1,255)                   (611)                   (114)
+EQUITY IN NET INCOME (LOSS)
+   OF SUBSIDIARIES                                       5,281                  (8,683)                 (6,712)
+                                                   -----------             -----------             -----------
+         Net income (loss)                         $     4,026             $    (9,294)            $    (6,826)
+                                                   ===========             ===========             ===========
+
+EARNINGS (LOSS) PER SHARE                          $      1.28             $     (3.00)            $     (2.22)
+                                                   ===========             ===========             ===========
+WEIGHTED AVERAGE NUMBER OF
+   COMMON AND COMMON
+   EQUIVALENT SHARES OUTSTANDING                     3,136,000               3,096,000               3,079,000
+                                                   ===========             ===========             ===========
+</TABLE>
+
+
+    The accompanying note is an integral part of these financial statements.
+
+
+                                      S-2
+<PAGE>   56
+                                                                      SCHEDULE I
+                                                                     (Continued)
+
+                           K-TRON INTERNATIONAL, INC.
+
+
+                  CONDENSED FINANCIAL INFORMATION OF REGISTRANT
+
+                            STATEMENTS OF CASH FLOWS
+
+                             (dollars in thousands)
+
+<TABLE>
+<CAPTION>
+                                                                      Fiscal Year Ended
+                                           -----------------------------------------------------------------
+                                                     December 28,        December 30,        December 31,
+                                                         1996                1995                1994
+                                                       -------             -------             -------
+<S>                                                    <C>                 <C>                 <C>
+OPERATING ACTIVITIES:
+   Net income (loss)                                   $ 4,026             $(9,294)            $(6,826)
+   Equity in net (income) loss of                       (5,281)              8,683               6,712
+   subsidiaries
+   Depreciation and amortization                           151                 129                 579
+   Other, primarily working capital changes              5,945               6,273              (1,483)
+                                                       -------             -------             -------
+         Net cash provided by (used in)
+            operating activities                         4,841               5,791              (1,018)
+                                                       -------             -------             -------
+INVESTING ACTIVITIES:
+   Capital expenditures                                     (8)                (25)                (43)
+                                                       -------             -------             -------
+         Net cash used in investing activities              (8)                (25)                (43)
+                                                       -------             -------             -------
+FINANCING ACTIVITIES:
+   Net (repayments) borrowings under
+     bank agreements                                    (5,005)             (5,845)              1,495
+   Principal payments on long-term debt                     --                  --                (811)
+   Proceeds from issuance of common stock                  140                 116                 276
+                                                       -------             -------             -------
+         Net cash (used in) provided by
+            financing activities                        (4,865)             (5,729)                960
+                                                       -------             -------             -------
+         Net increase (decrease) in cash
+            and cash equivalents                           (32)                 37                (101)
+CASH AND CASH EQUIVALENTS,
+   BEGINNING OF YEAR                                        45                   8                 109
+                                                       -------             -------             -------
+CASH AND CASH EQUIVALENTS,
+   END OF YEAR                                         $    13             $    45             $     8
+                                                       =======             =======             =======
+</TABLE>
+
+
+    The accompanying note is an integral part of these financial statements.
+
+
+                                      S-3
+<PAGE>   57
+                                                                      SCHEDULE I
+                                                                     (Continued)
+
+
+                           K-TRON INTERNATIONAL, INC.
+
+
+                  CONDENSED FINANCIAL INFORMATION OF REGISTRANT
+
+                          NOTE TO FINANCIAL STATEMENTS
+
+                                DECEMBER 28, 1996
+
+
+
+
+Note 1: These statements should be read in conjunction with the Company's
+        consolidated financial statements and notes thereto beginning on page
+        F-3.
+
+
+                                      S-4
+<PAGE>   58
+                                                                     SCHEDULE II
+
+                           K-TRON INTERNATIONAL, INC.
+
+
+                               VALUATION RESERVES
+
+
+<TABLE>
+<CAPTION>
+
+                                        Balance at                      Additions
+                                        Beginning                         Charged                       Balance at
+                                         of Period       Disposed(2)     to Income     Deductions(1)  End of Period
+                                         ---------       -----------     ---------     -------------  -------------
+
+<S>                                     <C>              <C>              <C>            <C>            <C>
+Fiscal year ended 12/28/96:
+  Allowance for doubtful accounts       $1,077,000       $      --        $366,000       $406,000       $1,037,000
+
+Fiscal year ended 12/30/95:
+  Allowance for doubtful accounts        1,523,000        (956,000)        564,000         54,000        1,077,000
+
+Fiscal year ended 12/31/94:
+  Allowance for doubtful accounts        1,342,000              --         329,000        148,000        1,523,000
+</TABLE>
+
+
+
+
+
+1   Accounts written off less recoveries, net of foreign exchange translation
+    adjustment.
+
+2   Reduction due to sale of subsidiaries.
+
+
+<PAGE>   59
+                                 EXHIBIT INDEX
+
+EXHIBIT    DESCRIPTION
+- -------    -----------
+10.1.7     Amendment 1 to Forbearance Agreement by and among Swiss Bank Corp.
+           Aarau, Credit Suisse, Swiss Volksbank, Union Bank of Switzerland,
+           Banque Cantonale Neuchateloise, CS Immobilien Leasing Ltd., K-Tron
+           (Switzerland) Ltd., K-Tron Asia Pacific Pte Ltd, K-Tron International
+           Inc. and K-Tron Investment Co.
+
+10.1.8     Amendment 2 to Forbearance Agreement by and among Swiss Bank Corp.
+           Aarau, Credit Suisse, Swiss Volksbank, Union Bank of Switzerland,
+           Banque Cantonale Neuchateloise, CS Immobilien Leasing Ltd., K-Tron
+           (Switzerland) Ltd., K-Tron Asia Pacific Pte Ltd, K-Tron International
+           Inc. and K-Tron Investment Co.
+
+10.2.7     Amendment No. 1996-1 to K-Tron International, Inc. Profit-Sharing and
+           Thrift Plan**
+
+10.2.11    Schedule 10.2.11 listing other employment agreement which is dated as
+           of October 25, 1996 and is identical in all material respects to the
+           Employment Agreement set forth in Exhibit 10.2.9, as amended by the
+           First Amendment to Employment Agreement set forth in Exhibit 10.2.10,
+           except for the employee and the amount of salary to be paid**
+
+11.1       Computation of (Loss) Earnings per Common and Common Equivalent Share
+
+21.1       Subsidiaries
+
+23.1       Consent of Arthur Andersen LLP
+
+27.1       Financial Data Schedule
+
+
+** Management contract or compensatory plan or arrangement required to be filed
+   or incorporated as an exhibit
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.1.7
+<SEQUENCE>2
+<DESCRIPTION>AMENDMENT 1 TO FORBEARANCE AGREEMENT
+<TEXT>
+
+<PAGE>   1
+                                                                  Exhibit 10.1.7
+
+
+                                   AMENDMENT 1
+
+
+                                     TO THE
+
+
+                                     K-TRON
+
+
+                              FORBEARANCE AGREEMENT
+
+
+between
+
+         Swiss Bank Corp. Aarau (SBC)                  (Leading bank)
+
+         Credit Suisse (CS)
+         Swiss Volksbank (SVB)
+         Union Bank of Switzerland (UBS)
+         Banque Cantonale Neuchateloise (BCN)          (Subsequently
+                                                       referred to as Banks)
+
+         as well as
+
+         CS Immobilien Leasing AG                      (Subsequently
+                                                       referred to as CSIL)
+
+and
+
+         K-Tron (Switzerland) AG
+         K-Tron Asia Pacific Pte. Ltd.                 (Subsequently
+                                                       referred to as K-Tron
+                                                       Group)
+
+and
+
+         K-Tron International Inc.
+         K-Tron Investment Co.                         (Subsequently
+                                                       referred to as K-Tron
+                                                       International)
+<PAGE>   2
+The parties to the Forbearance Agreement dated December 22, 1995, hereby declare
+that they wish to amend Appendix 2 ("K-Tron Rehabilitation and Restructuring
+Concept") of this Forbearance Agreement, as follows:
+
+SECTION 1 PARAGRAPH 1 (BOARD OF DIRECTORS)
+
+Instead of Dr. Urs Schenker, Mr. Iso Lenzlinger, an attorney-at-law and notary
+in Zug, shall be a new member of the board of directors of K-Tron (Switzerland)
+AG. Dr. Hans Jurg Schurmann and Mr. Lukas Gunthardt shall remain as members of
+the board of directors.
+
+(The other provisions shall remain applicable without changes.)
+
+SECTION [2. RESTRUCTURING OF K-TRON (SWITZERLAND) AG]
+
+The K-Tron Group shall be restructured as quickly as possible with the following
+organizational, management, and technological measures:
+
+a)       Settlement of organizational structure
+
+         The shares of K-Tron Asia Pacific Pte. Ltd. Singapore shall be
+         transferred to K-Tron (Switzerland) AG, after their completed
+         rehabilitation (that is, when the share capital has once again been
+         fully paid up), at the nominal value of the share capital, and without
+         inclusion of goodwill, by no later than the end of February 1997.
+
+
+                                      - 2 -
+<PAGE>   3
+(The provisions of letters b, c, d, e shall remain unchanged.)
+<TABLE>
+<S>                       <C>                        <C>
+[signed:] Aarau           24-July-96                 [signed]
+- ------------------,       ----------                 -------------------------------------
+                                                     (Swiss Bank Corp. Aarau; leading bank)
+
+[signed:] Aarau           25-July-96                 [signed]
+- ------------------,       ----------                 -------------------------------------
+                                                     (Credit Suisse)
+
+[signed:] Bein            31-July-96                 [signed]
+- ------------------,       ----------                 -------------------------------------
+                                                     (Swiss Volksbank)
+
+[signed] Aarau            7-Aug-96                   [signed]
+- ------------------,       ----------                 -------------------------------------
+                                                     (Union Bank of Switzerland)
+
+[signed:] Neuchatel,       12-Aug-96                 [signed]
+- ------------------,       ----------                 -------------------------------------
+                                                     (Banque Cantonale Neuchateloise)
+
+[signed:] Zurich           14-Aug-96                 [signed]
+- ------------------,       ----------                 -------------------------------------
+                                                     (CS Immobilien Leasing AG)
+
+[signed:] Zurich           5-Sept-96                 [signed]
+- ------------------,       ----------                 -------------------------------------
+                                                     (K-Tron (Switzerland) AG)
+
+[signed:] Zurich           5-Sept-96                 [signed]
+- ------------------,       ----------                 -------------------------------------
+                                                     (K-Tron Asia Pacific Pte Ltd.)
+
+
+[signed:] Zurich           5-Sept-96                 [signed]
+- ------------------,       ----------                 -------------------------------------
+                                                     (K-Tron International, Inc.)
+
+
+[signed:] Zurich           5-Sept-96                 [signed]
+- ------------------,       ----------                 -------------------------------------
+                                                     (K-Tron Investment Co.)
+</TABLE>
+
+
+                                      - 3 -
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.1.8
+<SEQUENCE>3
+<DESCRIPTION>AMENDMENT 2 TO FORBEARANCE AGREEMENT
+<TEXT>
+
+<PAGE>   1
+                                                                  Exhibit 10.1.8
+
+
+                                   AMENDMENT 2
+
+
+                                     TO THE
+
+
+                                     K-TRON
+
+
+                              FORBEARANCE AGREEMENT
+
+
+between
+
+         Swiss Bank Corp. Aarau (SBC)             (Leading bank)
+
+         Credit Suisse (CS)
+         Swiss Volksbank (SVB)
+         Union Bank of Switzerland (UBS)
+         Banque Cantonale Neuchateloise (BCN)     (Subsequently referred
+                                                  to as Banks)
+
+         as well as
+
+         CS Immobilien Leasing AG                 (Subsequently referred
+                                                  to as CSIL)
+
+and
+
+         K-Tron (Switzerland) AG
+         K-Tron Asia Pacific Pte. Ltd.            (Subsequently referred
+                                                  to as K-Tron Group)
+
+and
+
+         K-Tron International Inc.
+         K-Tron Investment Co.                    (Subsequently referred
+                                                  to as K-Tron
+                                                  International)
+<PAGE>   2
+                                      - 2 -
+
+
+The parties agree to the following changes to the Forbearance Agreement dated
+December 22, 1995:
+
+ARTICLE 1. (OBJECT AND SCOPE OF THE FORBEARANCE AGREEMENT)
+
+Article 1.1
+
+(Section 1 unchanged)
+
+Section 2 new
+
+Annex 1 to the Forbearance Agreement will become void as of April 1, 1997. The
+credit agreements entered into between the Banks and K-Tron (Switzerland) AG
+under the Forbearance Agreement will remain in force. To the extent that
+individual banks have granted current account credit lines to K-Tron
+(Switzerland) AG, these shall hereby be reduced by 50 percent as of April 1,
+1997. The parties expressly agree to this change in the applicable credit
+agreements. Upon termination of the Forbearance Agreement, the amortization
+payments provided for in the credit agreements shall be resumed at the dates
+specified; the credit agreements will then again be subject to termination in
+accordance with the terms specified therein.
+
+(Section 3 unchanged)
+
+(Section 4 unchanged)
+
+ARTICLE 2. (FORBEARANCE ACCORD)
+
+Article 2.1 Availability of the credit limits
+
+The Banks agree to make the credit limits referred to in Article 1.1 of this
+Amendment 2 freely and completely available to the companies of the K-Tron Group
+for the duration of this Forbearance Agreement for operational purposes.
+<PAGE>   3
+                                      - 3 -
+
+
+ARTICLE 2.2 (DEFERRAL OF CREDIT REPAYMENT DEMANDS)
+
+Section 1 new
+
+The Banks agree to defer repayment of the credits and credit tranches which come
+due up to the termination of the Forbearance Agreement but not beyond March 31,
+1999, as well as to defer the amortization payments on mortgages and fixed
+advances which come due up to that time.
+
+(Section 2 unchanged)
+
+(Section 3 unchanged)
+
+ARTICLE 6. (PERIOD OF THE AGREEMENT)
+
+Section 1 new
+
+The Forbearance Agreement of December 22, 1995, is extended to
+                             March 31, 1999.
+
+Moreover, Annex 2, which is an integral component of this Forbearance Agreement,
+will continue in force until the conclusion of the reorganization and
+restructuring of K-Tron (Switzerland) AG as defined in Section 4 of Annex 2.
+(Sentence 2 unchanged)
+
+(Section 2 unchanged)
+
+(Section 3 unchanged)
+
+(Section 4 unchanged)
+
+Section 5 new
+
+The K-Tron Group may not terminate this Forbearance Agreement prior to March 31,
+1998.
+
+The parties take note that the Union Bank of Switzerland (UBS) is discharged
+from this Forbearance Agreement as of March 31, 1997. The UBS is in agreement
+with this release.
+<PAGE>   4
+                                      - 4 -
+
+
+This Amendment 2 shall take effect as of April 1, 1997. The other terms of the
+Forbearance Agreement, including Amendment 1, shall continue in force unchanged.
+
+<TABLE>
+<S>                          <C>                     <C>
+[signed:] Aarau              19-Dec-96               [signed]
+- ------------------,          ---------               --------------------------------------
+                                                     (Swiss Bank Corp. Aarau; leading bank)
+
+[signed:] Aarau              17-Jan-97               [signed]
+- ------------------,          ---------               --------------------------------------
+                                                     (Credit Suisse)
+
+[signed:] Bein               22-Jan-97               [signed]
+- ------------------,          ---------               --------------------------------------
+                                                     CREDIT SUISSE
+
+[signed] Aarau               22-Jan-97               [signed]
+- ------------------,          ---------               --------------------------------------
+                                                     (Union Bank of Switzerland)
+
+[signed:] Neuchatel,         5-Feb-97               [signed]
+- ------------------,          ---------               --------------------------------------
+                                                     (Banque Cantonale Neuchateloise)
+
+[signed:] Zurich              7-Feb-97               [signed]
+- ------------------,          ---------               --------------------------------------
+                                                     (CS Immobilien Leasing Ltd.)
+
+[signed:] Niederlenz,        18-Dec-96               [signed:] Lukas Gunthardt
+- ------------------,          ---------               --------------------------------------
+                                                     (K-Tron (Switzerland) AG)
+
+[signed:] Pitman              2-Dec-96               [signed:] Robert L. Weinberg
+- ------------------,          ---------               --------------------------------------
+                                                     (K-Tron Asia Pacific Pte Ltd.)
+
+
+[signed:] Pitman              2-Dec-96               [signed:] Leo C. Beebe
+- ------------------,          ---------               --------------------------------------
+                                                     (K-Tron International, Inc.)
+
+
+[signed:] Pitman              2-Dec-96               [signed:] Robert L. Weinberg
+- ------------------,          ---------               --------------------------------------
+                                                     (K-Tron Investment Co.)
+</TABLE>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.2.7
+<SEQUENCE>4
+<DESCRIPTION>AMENDMENT NO. 1996-1 TO K-TRON INT'L PROFIT SHARE.
+<TEXT>
+
+<PAGE>   1
+                                                                  Exhibit 10.2.7
+
+
+                           K-TRON INTERNATIONAL, INC.
+                            AND AFFILIATED COMPANIES
+                         PROFIT-SHARING AND THRIFT PLAN
+                               (AS AMENDED, 1989)
+                              AMENDMENT NO. 1996-1
+
+
+                  K-TRON INTERNATIONAL, INC., a New Jersey corporation, hereby
+memorializes this Amendment No. 1996-1 to the K-Tron International, Inc. and
+Affiliated Companies Profit-Sharing and Thrift Plan (as amended, 1989)(the
+"Plan"). This amendment was adopted by the Board of Directors of K-Tron
+International, Inc. pursuant to the authority and procedure set forth at Section
+9.01 of the Plan.
+
+                  1.       Section 1.30 of the Plan is hereby amended to read as
+                           follows:
+
+                  "1.30    'Valuation Date'
+
+                           "Prior to January 1, 1997, the last day of each
+                           March, June, September and December or such other
+                           dates as the Committee may determine from time to
+                           time. On and after January 1, 1997, the last day of
+                           each calendar month or such other dates as the
+                           Committee may determine from time to time."
+
+                  2.       Section 5.02(b) of the Plan is hereby amended to read
+                           as follows:
+
+                  "(b)     Subsequent Election - A Member may, by written notice
+                           to the Committee (or its delegate) at least 30 days
+                           (or such shorter period as is acceptable to the
+                           Committee) prior to the first day of the first
+                           calendar month as of which such election is to be
+                           effective, change his investment fund election with
+                           respect to subsequent Company contributions but,
+                           until changed, an investment fund election, once
+                           made, shall remain in effect for all subsequent Plan
+                           Years."
+
+                  3.       Section 5.02(c) of the Plan is hereby amended to read
+                           as follows:
+
+                  "(c)     Transfer Election - A Member may, by written notice
+                           to the Committee (or its delegate) at least 30 days
+                           (or such shorter period as is acceptable to the
+                           Committee) prior to the first day of the first
+                           calendar month as of which such election is to be
+                           effective (or at such other time as determined in
+                           accordance with Subsection 7.03(b)), elect a change
+                           in investment funds applicable to his then existing
+                           Accounts attributable to Company contributions,
+                           provided such change (i) results in multiples of 5%
+                           (25% for Plan Years beginning before January 1, 1990)
+                           in any one investment
+<PAGE>   2
+                           fund; (ii) is applied to the ending balance
+                           determined as of the applicable Valuation Date; and
+                           (iii) is applicable equally to each of the Member's
+                           Accounts. Such change shall become effective within
+                           such period of time as may be administratively
+                           required for the orderly liquidation of investments
+                           following the applicable Valuation Date."
+
+                  4.       The amendments memorialized herein shall be effective
+as of January 1, 1997.
+
+                  IN WITNESS WHEREOF, and as evidence of the adoption of the
+amendments memorialized herein, the duly authorized officers of the corporation
+have executed this instrument this 5th day of December 1996.
+
+
+                                    K-TRON INTERNATIONAL, INC.
+Attest:
+
+
+
+/s/ M. Vaccara                      By: /s/ Leo C. Beebe
+- -------------------------------        ------------------------------------
+Assistant Secretary                    Chairman and Chief Executive Officer
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.2.11
+<SEQUENCE>5
+<DESCRIPTION>SCHEDULE 10.2.11 LISTING OTHER EMPLOYMENT AGMT.
+<TEXT>
+
+<PAGE>   1
+                                                                 EXHIBIT 10.2.11
+
+                                SCHEDULE 10.2.11
+
+
+
+      The following person is a party to an employment agreement, dated as of
+December 31, 1996, which is substantially identical in all material respects to
+the employment agreement set forth in Exhibit 10.2.9, except for the amount of
+salary to be paid:
+
+
+                                          Base Salary
+
+      Lukas Gunthardt                     172,510 (Swiss francs)
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-11.1
+<SEQUENCE>6
+<DESCRIPTION>COMPUTATION OF (LOSS) EARNINGS
+<TEXT>
+
+<PAGE>   1
+                                                                    Exhibit 11.1
+
+                   K-TRON INTERNATIONAL, INC. AND SUBSIDIARIES
+
+
+                    COMPUTATION OF EARNINGS (LOSS) PER COMMON
+
+                           AND COMMON EQUIVALENT SHARE
+
+                    (dollars in thousands except share data)
+
+<TABLE>
+<CAPTION>
+                                                                            Fiscal Year Ended
+                                                         -------------------------------------------------------
+                                                         December 28,          December 30,          December 31,
+                                                             1996                  1995                  1994
+                                                         -----------           -----------           -----------
+<S>                                                    <C>                   <C>                   <C>      
+Common shares issued at the end of the period              4,200,328             4,175,585             4,150,887
+
+Effect of weighting shares issued during
+    the period                                               (17,328)              (16,585)              (23,887)
+                                                         -----------           -----------           -----------
+
+Weighted average common shares outstanding                 4,183,000             4,159,000             4,127,000
+Effect of including weighted average of
+   treasury shares                                        (1,063,000)           (1,063,000)           (1,063,000)
+
+Effect of including average number of options
+   outstanding after applying treasury stock
+   method (includes only those options having a
+   dilutive effect)                                           16,000                    --                15,000
+                                                         -----------           -----------           -----------
+
+Common and common stock equivalent shares
+   used in computing earnings per share                    3,136,000             3,096,000             3,079,000
+                                                         ===========           ===========           ===========
+
+Net income (loss)                                        $     4,026           $    (9,294)          $    (6,826)
+                                                         ===========           ===========           ===========
+
+Earnings (loss) per share                                $      1.28           $     (3.00)          $     (2.22)
+                                                         ===========           ===========           ===========
+</TABLE>
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-21.1
+<SEQUENCE>7
+<DESCRIPTION>SUBSIDIARIES
+<TEXT>
+
+<PAGE>   1
+                                                                    Exhibit 21.1
+
+
+                           K-Tron International, Inc.
+                              List of Subsidiaries*
+
+
+
+<TABLE>
+<CAPTION>
+                                                                State or Jurisdiction
+               Name of Subsidiary                                  of Incorporation
+               ------------------                               ---------------------
+<S>                                                                 <C>
+K-Tron Investment Co.......................................            Delaware
+     K-Tron America, Inc...................................            Delaware
+     K-Tron (Switzerland) Ltd..............................          Switzerland
+          K-Tron Asia Pacific Pte .........................           Singapore
+          K-Tron Deutschland GmbH..........................            Germany
+          K-Tron France S.a.r.l............................             France
+          K-Tron Great Britain Ltd.........................            England
+K-Tron Technologies, Inc...................................            Delaware
+</TABLE>
+
+
+- -------------
+
+* Pursuant to applicable Securities and Exchange Commission regulations, the
+Registrant has omitted those subsidiaries which, when considered in the
+aggregate as a single subsidiary, would not have been considered a significant
+subsidiary as of the end of fiscal year 1996.
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-23.1
+<SEQUENCE>8
+<DESCRIPTION>CONSENT OF ARTHUR ANDERSEN LLP
+<TEXT>
+
+<PAGE>   1
+                                                                    Exhibit 23.1
+
+
+                    CONSENT OF INDEPENDENT PUBLIC ACCOUNTANTS
+
+
+
+
+
+
+To K-Tron International, Inc.:
+
+As independent public accountants, we hereby consent to the incorporation of our
+report included in this Form 10-K, into the Company's previously filed
+Registration Statements on Form S-8 File Nos. 33-7921, 33-8043, 33-39039,
+33-39040, and 2-72898.
+
+
+                                          Arthur Andersen LLP
+
+Philadelphia, Pa.
+  February 10, 1997
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27.1
+<SEQUENCE>9
+<DESCRIPTION>FINANCIAL DATA SCHEDULE
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE> 5
+<MULTIPLIER> 1,000
+       
+<S>                             <C>
+<PERIOD-TYPE>                   YEAR
+<FISCAL-YEAR-END>                          DEC-28-1996
+<PERIOD-END>                               DEC-28-1996
+<CASH>                                           3,079
+<SECURITIES>                                         0
+<RECEIVABLES>                                   17,373
+<ALLOWANCES>                                     1,037
+<INVENTORY>                                     13,258
+<CURRENT-ASSETS>                                34,667
+<PP&E>                                          42,647
+<DEPRECIATION>                                  27,023
+<TOTAL-ASSETS>                                  55,330
+<CURRENT-LIABILITIES>                           19,305
+<BONDS>                                         20,807
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                          0
+<COMMON>                                            42
+<OTHER-SE>                                      13,152
+<TOTAL-LIABILITY-AND-EQUITY>                    55,330
+<SALES>                                         89,871
+<TOTAL-REVENUES>                                89,871
+<CGS>                                           50,839
+<TOTAL-COSTS>                                   50,839
+<OTHER-EXPENSES>                                31,156
+<LOSS-PROVISION>                                     0
+<INTEREST-EXPENSE>                               2,035
+<INCOME-PRETAX>                                  5,841
+<INCOME-TAX>                                     1,815
+<INCOME-CONTINUING>                              4,026
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                     4,026
+<EPS-PRIMARY>                                     1.28
+<EPS-DILUTED>                                     1.28
+        
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

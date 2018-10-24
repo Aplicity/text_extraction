@@ -1,0 +1,2287 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ U7XVn2aEhR8It8XOOCxNIZ8IU6XRfpnFQgYBWCNpEaC5sC0Zv66YZMgvlbO5mvOr
+ N7E0H6gUrOjQzkmnPapwBg==
+
+<SEC-DOCUMENT>0000893220-96-001772.txt : 19961031
+<SEC-HEADER>0000893220-96-001772.hdr.sgml : 19961031
+ACCESSION NUMBER:		0000893220-96-001772
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		5
+CONFORMED PERIOD OF REPORT:	19960928
+FILED AS OF DATE:		19961030
+SROS:			NONE
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			K TRON INTERNATIONAL INC
+		CENTRAL INDEX KEY:			0000000020
+		STANDARD INDUSTRIAL CLASSIFICATION:	INDUSTRIAL INSTRUMENTS FOR MEASUREMENT, DISPLAY, AND CONTROL [3823]
+		IRS NUMBER:				221759452
+		STATE OF INCORPORATION:			NJ
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-09576
+		FILM NUMBER:		96650063
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ROUTE 55 & 553
+		STREET 2:		BOX 888
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071-0888
+		BUSINESS PHONE:		6096616240
+
+	MAIL ADDRESS:	
+		STREET 1:		ROUTE 55 & 553
+		STREET 2:		P O BOX 888
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071-0888
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<DESCRIPTION>QUARTERLY REPRT SECT 13 OR 15(D) SEC ENDED 9-28-96
+<TEXT>
+
+<PAGE>   1
+                                   FORM 10-Q
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+(Mark One)
+[X]            QUARTERLY REPORT UNDER SECTION 13 OR 15(d) OF THE
+                        SECURITIES EXCHANGE ACT OF 1934
+
+               For the quarterly period ended September 28, 1996
+
+                                       OR
+
+[ ]          TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+                         SECURITIES EXCHANGE ACT OF 1934
+
+               For the transition period from ________ to ______
+
+                       Commission File Number   0-9576  
+
+                              K-TRON INTERNATIONAL, INC.                 
+           -----------------------------------------------------------
+             (Exact name of registrant as specified in its charter)
+
+                New Jersey                                22-1759452    
+     (State or other jurisdiction of                  (IRS Employer ID #)
+     incorporation of organization)
+
+
+                                Routes 55 & 553
+                                  P.O. Box 888
+                               Pitman, New Jersey
+                                   08071-0888              
+                             ----------------------
+                    (Address of Principal Executive Offices)
+                                   (Zip Code)
+
+                                 (609) 589-0500                    
+                             ----------------------
+              (Registrant's Telephone Number Including Area Code)
+
+                                 Not Applicable                  
+                             ----------------------
+              (Former name, former address and formal fiscal year,
+                         if changed since last report)
+
+Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports) and (2) has been subject to such
+filing requirements for the past 90 days.
+
+                                                          YES   X     NO  ______
+
+The number of shares of Common Stock outstanding as of September 28, 1996 was:
+
+                                3,126,657 Shares
+<PAGE>   2
+
+                  K-TRON INTERNATIONAL, INC. AND SUBSIDIARIES
+
+
+                                     INDEX
+
+<TABLE>
+<CAPTION>
+                                                                                           Page No.
+                                                                                           --------
+<S>     <C>                                                                                   <C>
+PART  I.         FINANCIAL INFORMATION
+
+         Item 1. Financial Statements
+
+                 Consolidated Balance Sheets
+                  September 28, 1996 and December 30, 1995                                    1
+
+                 Consolidated Statements of Operations
+                  and Retained Earnings for the Three and
+                  Nine Months Ended September 28, 1996 and
+                  September 30, 1995                                                          2
+
+                 Consolidated Statements of Cash Flows
+                  Nine Months Ended September 28, 1996 and
+                  September 30, 1995                                                          3
+
+                 Notes to Consolidated Financial
+                  Statements                                                                  4
+
+         Item 2. Management's Discussion and Analysis
+                  of Financial Condition and Results
+                  of Operations                                                               5-10
+
+PART II.         OTHER INFORMATION
+
+         Item 3. Defaults upon Senior Securities                                              11
+
+         Item 6. Exhibits and Reports on Form 8-K                                             11
+</TABLE>
+<PAGE>   3
+
+ITEM 1.  FINANCIAL STATEMENTS
+                         PART I.  FINANCIAL STATEMENTS
+                   K-TRON INTERNATIONAL, INC. & SUBSIDIARIES
+                          CONSOLIDATED BALANCE SHEETS
+                    (Dollars in Thousands except Share Data)
+
+<TABLE>
+<CAPTION>
+                                                                                Sept. 28,                December 30,
+                                                                                  1996                       1995
+                                                                               (Unaudited)                (Audited)
+                                                                              ------------              ------------
+<S>                                                                           <C>                       <C>
+                                  ASSETS
+CURRENT ASSETS:
+  Cash and cash equivalents                                                   $  2,253                   $  3,239
+                                                                                                                 
+  Accounts receivable (less allowance for doubtful accounts of
+    $960 and $1,077)                                                            18,130                     20,849
+                                                                                                                 
+  Inventories                                                                   14,876                     18,534
+                                                                                                                 
+  Deferred income taxes                                                            714                      1,088
+  Prepaid expenses and other current assets                                      1,373                      1,512
+                                                                              --------                   --------
+         TOTAL CURRENT ASSETS                                                   37,346                     45,222
+  PROPERTY, PLANT AND EQUIPMENT, net                                            16,238                     17,595
+  PATENTS AND LICENSES (Net of accumulated amortization
+     of  $4,670  and $4,644)                                                       500                        480
+  EXCESS OF COST OVER NET ASSETS ACQUIRED
+     (Net of accumulated amortization of $3,198 and $3,009)                      4,911                      5,597
+                                                                                                                 
+  OTHER ASSETS                                                                     280                        402
+                                                                              --------                   --------
+         TOTAL ASSETS                                                         $ 59,275                   $ 69,296
+                                                                              ========                   ========
+
+
+                             LIABILITIES & SHAREHOLDERS' EQUITY
+CURRENT LIABILITIES:
+  Current portion of long-term debt                                           $ 21,970                  $   2,133
+  Revolver borrowings                                                            1,356                        --
+  Accounts payable                                                               5,368                      9,250
+  Accrued expenses & other current liabilities                                   5,038                      2,558
+  Accrued payroll                                                                2,781                      1,459
+  Accrued commissions                                                            2,154                      2,523
+  Customer advances                                                              2,052                      2,612
+  Accrued warranty                                                                 762                        893
+  Income taxes payable                                                             931                        680
+                                                                              --------                   --------
+         TOTAL CURRENT LIABILITIES                                              42,412                     22,108
+                                                                                                                 
+LONG-TERM DEBT, NET OF CURRENT PORTION                                           2,772                     35,004
+DEFERRED INCOME TAXES                                                              466                        466
+OTHER NONCURRENT LIABILITIES                                                     1,801                      2,297
+COMMITMENTS AND CONTINGENCIES
+SERIES A JUNIOR PARTICIPATING PREFERRED
+  SHARES, $.01 par value - authorized 50,000 shares; none issued                   --                          --
+SHAREHOLDERS' EQUITY:
+  Preferred stock, $.01 par value - authorized 950,000 shares;
+    none issued                                                                    --                          --
+  Common stock, $.01 par value - authorized 15,000,000 shares;
+    issued 4,189,607 shares and 4,175,585 shares                                    42                         42
+  Paid-in capital                                                               14,049                     13,980
+  Retained earnings                                                              8,617                      5,776
+  Cumulative translation adjustments                                              (320)                       187
+                                                                              --------                   --------
+                                                                                22,388                     19,985
+                                                                                                                 
+  Treasury stock, 1,062,950 shares - at cost                                   (10,564)                   (10,564)
+                                                                              --------                   --------
+         TOTAL SHAREHOLDERS' EQUITY                                             11,824                      9,421
+                                                                              --------                   --------
+         TOTAL LIABILITIES AND SHAREHOLDERS' EQUITY                           $ 59,275                   $ 69,296
+                                                                              ========                   ========
+</TABLE>
+                 See Notes to Consolidated Financial Statements
+
+
+
+
+
+                                      -1-
+<PAGE>   4
+                   K-TRON INTERNATIONAL, INC. & SUBSIDIARIES
+           CONSOLIDATED STATEMENTS OF OPERATIONS & RETAINED EARNINGS
+                    (Dollars in Thousands except Share Data)
+                                  (Unaudited)
+
+
+<TABLE>
+<CAPTION>
+                                                                     Three Months Ended               Nine Months Ended  
+                                                                --------------------------          ------------------------
+                                                                   Sept. 28,     Sept. 30,          Sept. 28,      Sept. 30,
+                                                                     1996          1995               1996            1995  
+                                                                ------------    ----------          ----------    ----------- 
+<S>                                                             <C>             <C>                 <C>            <C>
+REVENUES                                                           $22,547         $22,297             $68,006       $ 85,782
+                                                                                                                         
+
+COST OF REVENUES                                                    12,943          13,180              38,393         53,346
+                                                                   -------         -------             -------       --------
+  Gross profit                                                       9,604           9,117              29,613         32,436
+                                                                                                                         
+
+OPERATING EXPENSES
+  Selling, general and administrative                                7,145           7,080              22,063         27,015
+  Research and development                                             523             535               1,755          2,515
+  Loss on disposition of businesses                                     --             380                 --          10,909
+                                                                   -------         -------             -------       --------
+                                                                     7,668           7,995              23,818         40,439
+                                                                   -------         -------             -------       --------
+OPERATING PROFIT (LOSS)                                              1,936           1,122               5,795         (8,003)
+                                                                                                                          
+
+INTEREST EXPENSE                                                       505             747               1,684          3,402
+                                                                   -------         -------             -------       --------
+INCOME (LOSS) BEFORE INCOME TAXES                                    1,431             375               4,111        (11,405)
+                                                                                                                          
+
+INCOME TAX PROVISION (BENEFIT)                                         270              --               1,270         (1,550)
+                                                                   -------         -------             -------       --------
+
+NET INCOME (LOSS)                                                    1,161             375               2,841         (9,855)
+                                                                                                                          
+
+RETAINED EARNINGS
+  Beginning of period                                                7,456           4,840               5,776         15,070
+                                                                   -------         -------             -------       --------
+  End of period                                                    $ 8,617         $ 5,215             $ 8,617       $  5,215
+                                                                   =======         =======             =======       ========
+
+EARNINGS (LOSS) PER SHARE                                          $   .37         $   .12             $   .91       $  (3.19)
+                                                                   =======         =======             =======       ========
+
+WEIGHTED AVERAGE NUMBER OF COMMON AND
+  COMMON EQUIVALENT SHARES OUTSTANDING                           3,138,000       3,104,000           3,128,000      3,093,000
+                                                                 =========       =========           =========      =========
+</TABLE>
+
+
+
+                 See Notes to Consolidated Financial Statements
+
+
+
+
+
+                                      -2-
+<PAGE>   5
+                   K-TRON INTERNATIONAL, INC. & SUBSIDIARIES
+                     CONSOLIDATED STATEMENTS OF CASH FLOWS
+                             (Dollars in Thousands)
+                                  (Unaudited)
+<TABLE>
+<CAPTION>
+                                                                                       Nine Months Ended
+                                                                                    -----------------------
+                                                                                    Sept. 28,      Sept. 30,
+                                                                                      1996           1995
+                                                                                    --------       --------
+<S>                                                                                 <C>            <C>
+OPERATING ACTIVITIES:
+  Net Income (loss)                                                                 $  2,841       $(9,855)  
+  Adjustment to reconcile net income (loss) to net cash provided
+     by operating activities:
+  Loss on disposition of businesses                                                        -        10,909
+  Depreciation and amortization                                                        2,461         3,985
+  Amortization of deferred gain on sale/leaseback transaction                           (340)         (351)
+  Deferred income taxes                                                                  343        (1,474)
+  Changes in assets and liabilities:
+         Accounts receivable, net                                                      1,941           521
+         Inventories                                                                   3,028           (75)
+         Prepaid expenses and other current assets                                        86          (929)
+         Other assets                                                                   (102)          658
+         Accounts payable                                                             (3,646)       (1,008)
+         Accrued expenses and other current liabilities                                2,846          (230)
+         Accrued warranty                                                                (86)          606
+         Income taxes                                                                    256          (274)
+                                                                                    --------       -------
+  Net cash provided by operating activities                                            9,628         2,483
+                                                                                    --------       -------
+
+INVESTING ACTIVITIES:
+  Proceeds from disposition of business                                                   --         9,000
+  Capital expenditures                                                                (1,356)         (356)
+  Investment in patents and licenses                                                     (46)          (27)
+                                                                                    --------       -------
+
+  Net cash (used in) provided by investing activities                                 (1,402)        8,617
+                                                                                    --------       -------
+
+FINANCING ACTIVITIES:
+  Net payments under notes payable to banks                                          (14,907)       (9,222)
+  Principal payments on long-term debt                                                  (213)         (376)
+  Proceeds from issuance of debt                                                       5,949            --
+  Proceeds from issuance of common stock                                                  70            74
+                                                                                    --------       -------
+  Net cash used in financing activities                                               (9,101)       (9,524)
+                                                                                    --------       -------
+EFFECT OF EXCHANGE RATE CHANGES ON CASH AND
+  CASH  EQUIVALENTS                                                                     (111)         (155)
+                                                                                    --------       -------
+
+NET (DECREASE)  INCREASE IN CASH AND CASH EQUIVALENTS                                   (986)        1,421
+CASH AND CASH EQUIVALENTS
+  Beginning of period                                                                  3,239         1,086
+                                                                                    --------       -------
+  End of period                                                                     $  2,253       $ 2,507
+                                                                                    ========       =======
+</TABLE>
+
+
+
+
+
+                 See Notes to Consolidated Financial Statements
+
+
+
+
+
+                                      -3-
+<PAGE>   6
+
+                   K-TRON INTERNATIONAL, INC. & SUBSIDIARIES
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                  (Unaudited)
+
+1.       Basis of Presentation
+
+The accompanying unaudited financial statements have been prepared in
+accordance with the instructions for Form 10-Q and do not include all of the
+information and footnotes required by generally accepted accounting principles
+for complete financial statements.  The consolidated financial statements
+include the accounts of K-Tron International, Inc. ("K-Tron" or the "Company")
+and its subsidiaries.  All intercompany transactions have been eliminated in
+consolidation.  In the opinion of management, all adjustments (consisting of a
+normal recurring nature) considered necessary for a fair presentation of
+results for interim periods have been made.  The results for the interim
+periods are not necessarily indicative of the results for a full year.
+
+The unaudited financial statements herein should be read in conjunction with
+the Company's Annual Report on Form 10-K for the year ended December 30, 1995
+which was previously filed with the Securities and Exchange Commission.
+
+2.       Supplemental Disclosures of Cash Flow Information
+
+The Company considers all highly liquid short-term investments purchased with a
+maturity of three months or less to be cash equivalents.  Cash paid in the
+first nine months of 1996 and 1995 for interest was $1.1 million and $2.9
+million, respectively and for income taxes was $.6 million and $.6 million,
+respectively.
+
+3.       Disposition of Businesses
+
+In June 1995 the Company sold Colortronic GmbH and rights to several related
+patents and patent applications, resulting in a pretax loss of $10.5 million in
+1995.  In the fourth quarter of 1995, the Company sold certain operations in
+France and Brazil, resulting in a pretax loss of $0.7 million in 1995, of which
+$0.4 million was provided for in the third quarter of 1995.
+
+See Management's Discussion and Analysis of Financial Conditions and Results of
+Operations ("MD&A") for the pro forma impact of the sale of these businesses on
+the results of operations for the third quarter and nine months ended September
+1995.
+
+4.       Maturity of Debt
+
+As discussed in the MD&A, the Company is currently operating under a Swiss
+forbearance agreement, which is scheduled to expire March 31, 1997.  Swiss debt
+of $21.3 million as of September 28, 1996, is reclassified as short-term debt.
+The Company is exploring ways to extend the maturity, refinance or reduce its
+bank indebtedness in Switzerland.
+
+
+
+
+
+                                      -4-
+<PAGE>   7
+
+
+ITEM 2.                                                    
+
+                           K-TRON INTERNATIONAL, INC.
+                    MANAGEMENT'S DISCUSSION AND ANALYSIS OF
+                 FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+                      NINE MONTHS ENDED SEPTEMBER 28, 1996
+
+Overview
+
+         As reported in the Company's Annual Report on Form 10-K for the fiscal
+year ended December 30, 1995, at the end of that year the Company and its U.S.
+manufacturing subsidiary were in default under several financial covenants
+contained in their loan agreement with three U.S. banks, while the Company's
+Swiss manufacturing subsidiary was in violation of certain equity guarantees
+contained in its loan agreements with several Swiss lenders, resulting in a
+default under each of the loan agreements. In June 1996 the Company's U.S.
+manufacturing subsidiary refinanced the U.S. bank debt with two new lenders.
+The new loans were made directly to the subsidiary and consisted of a mortgage
+loan in the amount of $2.7 million and a two-year secured revolving credit
+facility with maximum availability of $5.7 million.  Borrowings under the new
+loan agreements of $5.9 million along with $1.4 million of cash were used to
+repay the $7.3 million outstanding under the old loan agreement and that loan
+facility and related forbearance agreement were terminated.  The Swiss loan
+agreement defaults are continuing, however, and have not been waived.  A
+forbearance agreement exists with Swiss lenders which is described in more
+detail in the 1995 Form 10-K and which expires on March 31, 1997.  At September
+28, 1996, the principal amount outstanding under the Swiss loan agreements was
+$19.6 million.  The Company will be requesting an extension to the Swiss
+forbearance agreement for at least one year.
+
+         Since the 1995 dispositions of the Company's Colortronic, Brazilian
+and Hasler France businesses and the discontinuance of the other Colortronic
+brand business (collectively the "Discontinued Businesses"), the Company's
+results have improved significantly, and it reported net income of $1,161,000,
+$928,000 and $752,000 for the third, second and first quarters of 1996,
+respectively, as well as $561,000 and $375,000 for the fourth and third
+quarters of 1995, respectively.  Cash flow from operations has also improved,
+enabling the Company to reduce indebtedness for monies borrowed in the first
+nine months of 1996 by $9,171,000 and by $5,368,000 in the second half of 1995
+($11,039,000 and $5,978,000, respectively, after taking into account the effect
+of foreign exchange translation).
+
+         At September 28, 1996, the Company had $4.3 million of availability
+under its U.S. revolving credit agreement and $7.6 million of availability
+under certain of its Swiss loan agreements.  Management believes that cash flow
+will be sufficient in 1996 to sustain the business and further that the Company
+and its subsidiaries will be able to comply with all of the covenants and
+payment provisions contained in the U.S.  loan agreements and Swiss forbearance
+agreement.  Management further believes that with the new U.S. financings and
+continuing operating improvement, the Company will be able to either refinance
+or extend the maturity of the Swiss forbearance agreement before it expires in
+1997, but there can be no assurance that this will happen.
+
+         K-Tron is an international company with approximately 60% of its
+revenues from products manufactured and services performed from its facilities
+outside the United States, primarily Europe.  As such the financial position
+and performance of the Company is sensitive to both translation and transaction
+fluctuations in foreign currency exchange rates.
+
+
+
+
+
+                                      -5-
+<PAGE>   8
+
+Results of Operations
+
+         For the third quarter and first nine months of 1996, the Company
+reported net income of $1,161,000 and $2,841,000, respectively, as compared to
+a net income of $375,000 and a net loss of $9,855,000, respectively, for the
+same periods in 1995.  On a pro forma basis, if the actions regarding the
+Discontinued Businesses had occurred at the beginning of the 1995 fiscal year,
+the Company would have had net income of $412,000 and $790,000 for the third
+quarter and first nine months of 1995, respectively.
+
+         The following table sets forth the Company's results of operations for
+the periods indicated, as well as 1995 on a pro forma basis as described above:
+
+<TABLE>
+<CAPTION>
+                                                                      Three Months Ended                                        
+                                        ------------------------------------------------------------------------------
+($ in 000's)                              Sept. 28, 1996                             Sept. 30, 1995                     
+                                        ------------------    --------------------------------------------------------
+                                                                             Proforma                 As Reported
+                                                                             --------                 -----------
+<S>                                       <C>        <C>                <C>          <C>           <C>          <C>
+Total Revenues                            $22,547    100.0%             $22,097      100.0%        $22,297      100.0%
+Cost of Revenues                           12,943     57.4               13,307       60.2          13,180       59.1
+                                          -------    -----              -------      -----         -------      -----
+Gross Profit                                9,604     42.6                8,790       39.8           9,117       40.9
+
+Selling, General & Administrative           7,145     31.7                6,629       30.0           7,080       31.8
+Research & Development                        523      2.3                  529        2.4             535        2.4
+Loss on Disposition of Business                --       --                   --         --             380        1.7
+                                          -------    -----              -------      -----         -------      -----
+Operating Profit                            1,936      8.6                1,632        7.4           1,122        5.0
+Interest                                      505      2.2                  780        3.5             747        3.3
+                                          -------    -----              -------      -----         -------      -----
+Income before income taxes                  1,431      6.4                  852        3.9             375        1.7
+Income tax                                    270      1.2                  440        2.0              --         --
+                                          -------    -----              -------      -----         -------      -----
+Net income                                $ 1,161      5.2%             $   412        1.9%        $   375        1.7%
+                                          =======    =====              =======      =====         =======      =====
+</TABLE>
+
+<TABLE>
+<CAPTION>
+                                                                           Nine Months Ended                            
+                                       -------------------------------------------------------------------------------
+($ in 000's)                             Sept. 28, 1996                                Sept. 30,1995                     
+                                       ------------------     --------------------------------------------------------
+                                                                             Proforma                 As Reported
+                                                                             --------                 -----------
+<S>                                      <C>         <C>                <C>          <C>           <C>          <C>
+Total Revenues                           $68,006     100.0%             $65,033      100.0%        $85,782      100.0%
+Cost of Revenues                          38,393      56.5               38,469       59.2          53,346       62.2
+                                         -------     -----              -------      -----         -------      -----
+Gross Profit                              29,613      43.5               26,564       40.8          32,436       37.8
+
+Selling, General & Administrative         22,063      32.4               21,206       32.6          27,015       31.5
+Research & Development                     1,755       2.6                1,850        2.8           2,515        2.9
+Loss on Disposition of Business               --        --                   --         --          10,909       12.7
+                                         -------     -----              -------      -----         -------      -----
+Operating Profit (loss)                    5,795       8.5                3,508        5.4          (8,003)      (9.3)
+Interest                                   1,684       2.5                2,128        3.3           3,402        4.0
+                                         -------     -----              -------      -----         -------      -----
+Income (loss) before income taxes          4,111       6.0                1,380        2.1         (11,405)     (13.3)
+Income tax (benefit)                       1,270       1.8                  590         .9          (1,550)      (1.8)
+                                         -------     -----              -------      -----         -------      -----
+Net income (loss)                        $ 2,841       4.2%             $   790        1.2%        $(9,855)     (11.5)%
+                                         =======     =====              =======       =====        =======      =====
+
+Backlog after excluding the
+  Discontinued Businesses
+  (at a constant foreign
+  exchange rate)                        $21,100                     $24,800
+                                        =======                     =======
+</TABLE>
+
+
+
+
+
+                                      -6-
+<PAGE>   9
+         Translation of the Company's foreign revenues and results of
+operations into U.S. dollars is affected by changes in foreign currency
+exchange rates, particularly with respect to the Swiss franc and the Deutsche
+mark.  Revenues and earnings for the third quarter and first nine months of
+1996 as well as for the same periods in 1995 were affected by changes in
+various foreign currency exchange rates, including in particular the average
+U.S. dollar/Swiss franc, average U.S. dollar/Deutsche mark and average Deutsche
+mark/Swiss franc exchange rates, as follows:
+
+<TABLE>
+<CAPTION>
+                                                                Three Months Ended           Nine Months Ended
+                                                                ------------------           -----------------
+                                                                Sept. 28,      Sept. 30,    Sept. 28,     Sept. 30,
+                                                                  1996           1995         1996           1995
+                                                                  ----           ----         ----           ----
+<S>                                                              <C>               <C>         <C>           <C>
+Swiss franc average rate                                         $.820             $.848       $.822         $.841
+% devaluation vs. prior year                                             -3.3%                         -2.3%
+
+Deutsche mark average rate                                       $.670             $.698       $.670         $.698
+% devaluation vs. prior year                                             -4.0%                         -4.0%
+
+Deutsche mark average rate vs.
+Swiss franc average rate                                          .817              .823        .815          .830
+% devaluation vs. prior year                                             -0.7%                         -1.8%
+</TABLE>
+
+         Total revenues increased by $.3 million or 1.1% (3.3% when using a
+constant foreign exchange rate) in the third quarter of 1996 when compared to
+the same period in 1995 and increased by $.5 million or 2.0% (4.3% when using a
+constant foreign exchange rate) in the third quarter of 1996 when compared to
+the pro forma 1995 third quarter revenues.  Total revenues for the third
+quarter of 1996 increased as compared to the pro forma 1995 third quarter
+revenues primarily due to an increased level of shipments from the U.S. despite
+the effect of a stronger U.S. dollar relative to the Swiss franc and Deutsche
+mark.  Total revenues increased by $3.0 million or 4.6% for the first nine
+months of 1996 as compared to the pro forma 1995 revenues for this same period,
+primarily due to a strong United States and European backlog at the end of 1995
+and strong 1996 order inflow offset in part by a lower foreign exchange
+translation rate.
+
+         Gross margin as a percent of revenues improved to 42.6% and 43.5% in
+the third quarter and first nine months of 1996, respectively, as compared to
+40.9% and 37.8% for the same periods in 1995 (39.8% and 40.8% in 1995,
+respectively, after excluding the Discontinued Businesses).  The improvement in
+gross margin in 1996 was due to volume, mix, price increases and cost
+reductions as well as the June 1995 sale and discontinuance of the Colortronic
+business which had low margins, offset in part by the inability to pass on
+increased costs caused by the appreciation of the Swiss franc to customers in
+certain European countries, primarily Germany.  The increase in margin when
+compared to the margins without the Discontinued Businesses was primarily due
+to volume, mix, price increases and cost reductions.
+
+
+
+
+
+                                      -7-
+<PAGE>   10
+         Selling, general and administrative (SG&A) expense increased by $.1
+million or 0.9% in the third quarter of 1996 and decreased by $5.0 million or
+18.3% for the first nine months of 1996 as compared to the same periods in
+1995.   The decrease in SG&A for the nine months was due to the elimination of
+SG&A expenses associated with the Discontinued Businesses as well as lower
+foreign exchange translation rates.  After excluding the SG&A expenses relating
+to the Discontinued Businesses from 1995, the 1996 third quarter SG&A increased
+by $.5 million and increased by 1.7% as a percent of revenues.  For the first
+nine months of 1996, SG&A increased by $.9 million but decreased by 0.2% as a
+percent of revenue when compared to the 1995 pro forma. The increase in dollars
+for the first nine months of 1996 was due to higher commissions and selling
+expenses related to the increased sales volume offset by lower foreign exchange
+translation rates.  The decrease as a percentage of revenues was due to an
+increase in revenues.
+
+         Research and development (R&D) expenditures were constant in the third
+quarter of 1996 as compared to the same period in 1995.  R&D decreased by $.8
+million or 30.2% for the first nine months of 1996 as compared to the same
+period in 1995 due to the elimination of Colortronic expenses and lower foreign
+exchange translation rates, offset in part by using for other purposes certain
+resources previously allocated to Colortronic.  R&D expense as a percent of
+revenues was 2.3% in the third quarter of 1996 and 2.6% for the first nine
+months of 1996, and 2.4% and 2.9%, respectively, for the same periods in 1995
+(2.4% and 2.8%, respectively, excluding the Discontinued Businesses).
+
+         Interest expense decreased by $.2 million or 32.4% in the third
+quarter of 1996 and $1.7 million or 50.5% for the first nine months of 1996 as
+compared to the same periods in 1995 due to lower debt levels and lower foreign
+exchange translation rates, offset in part by increased interest rates in the
+United States. Interest expense as a percent of revenues was 2.2% in the third
+quarter of 1996 and 2.5% for the first nine months of 1996 and 3.3% and 4.0%,
+respectively, for the same periods in 1995 (3.5% and 3.3% in 1995,
+respectively, excluding Discontinued Businesses).
+
+         A provision for income taxes was recorded on the third quarter and
+first nine months of 1996 income.  A tax benefit was recorded in 1995 due to
+the significant loss generated from the sale of Colortronic.  The effective tax
+rates for the third quarter and first nine months of 1996 were 18.9% and 30.9%,
+respectively.  The effective tax rate in the third quarter of 1996 was lower
+than the anticipated annual rate due to the reduction of the valuation
+allowance for certain foreign net operating loss carryforwards as a result of
+foreign operation restructuring.
+
+         The Company's backlog decreased by 14.9% at the end of the third
+quarter of 1996 compared to the same period in 1995 (excluding the Discontinued
+Businesses and at a constant foreign exchange rate), primarily due to a reduced
+backlog in Germany.
+
+
+
+
+
+                                      -8-
+<PAGE>   11
+Liquidity and Capital Resources
+
+      The Company's capitalization as of the end of the fiscal quarters from
+June 1995 through September 1996 is set forth below:
+
+<TABLE>
+<CAPTION>
+                                      Sept. 28,      June 29,       March 30,     Dec. 30,        Sept. 30,     July 1,
+(Dollars in Thousands)                  1996           1996            1996         1995            1995         1995 
+                                      ---------      --------       ----------    --------        ---------     ------
+<S>                                     <C>             <C>           <C>          <C>              <C>         <C>
+Short-term debt including
+   current portion of
+   long-term debt                       $23,326         $27,322       $ 7,882      $ 2,133          $41,114     $42,890
+
+Long-term debt                            2,772           2,725        26,593       35,004              189         225
+                                          -----           -----        ------      -------         --------    --------
+
+Total debt                               26,098          30,047        34,475       37,137           41,303      43,115
+
+Shareholders' equity                     11,824          10,592         9,897        9,421            8,439       8,152
+                                         ------        --------       -------        -----          -------     -------
+
+Total debt and
+shareholders' equity                    $37,922         $40,639       $44,372      $46,558          $49,742     $51,267
+                                        =======         =======       =======      =======          =======     =======
+
+Percent debt to total
+  capitalization                            69%             74%           78%          80%              83%         84%
+
+Percent long-term
+  debt to equity                            23%             26%          269%         372%               2%          3%
+
+Percent total debt to
+ equity                                    221%            284%          348%         394%             489%        529%
+</TABLE>
+
+
+         In June 1996 the Company's U.S. manufacturing subsidiary obtained a
+mortgage and a two-year secured revolving credit facility from two new lenders.
+Proceeds of $5.9 million together with $1.4 million of cash were used to repay
+all the outstanding U.S. debt under the old loan agreement.  The Company and
+its U.S. manufacturing subsidiary are no longer operating under a U.S.
+forbearance agreement.
+
+         In order to comply with a consensus issued in November 1995 set forth
+by the Emerging Issues Task Force in EITF 95-22 regarding classification of
+certain debt instruments that include both a requirement for a lock box
+arrangement and a subjective acceleration clause, $1.4 million of the
+borrowings under the new revolving line of credit in the U. S. have been
+classified as a current liability.  Under the terms of the revolving credit
+agreement, however, K-Tron will not be required to repay this amount during the
+next fiscal year.  Payment will only be required at the expiration of the
+agreement on June 14, 1998 or if the borrowing base is reduced below the amount
+outstanding.  Based on anticipated borrowing base levels, K-Tron believes the
+amount outstanding will be due and payable in June 1998.
+
+
+
+
+
+                                      -9-
+<PAGE>   12
+
+         Total debt decreased by $11.0 million for the first nine months of
+1996, of which $1.8 million was due to the effect of foreign exchange
+translation.  Total debt without the effect of the foreign exchange translation
+decreased by $9.2 million.  European and U.S. debt decreased by $3.8 million
+and $5.4 million, respectively.  At September 28, 1996, the Company had $4.3
+million of availability under its U.S.  revolving credit agreement and $7.6
+million of availability under certain of its Swiss loan agreements.
+
+         The increase in short-term debt of $21.2 million was primarily due to
+the reclassification which took place in the second quarter of 1996 of the
+Swiss bank debt to short-term as a result of the maturity in March 1997 of the
+debt in accordance with the forbearance agreement.
+
+         At September 28, 1996, there was a working capital deficit of $5.1
+million as compared to working capital of $23.1 million at December 1995, and
+the ratio of current assets to current liabilities at those dates was .88 and
+2.05, respectively.  Working capital decreased in 1996 primarily due to the
+reclassification of long-term debt to short-term debt as discussed above.
+
+         For the first nine months of 1996, the Company utilized earnings from
+operations and internally-generated funds to meet its working capital needs and
+reduce debt.  In 1995, the Company met its working capital needs by utilizing
+its short and long-term borrowings.
+
+         Operating activities provided $9.6 million in positive cash flow in
+the first nine months of 1996 as compared to providing $2.5 million in the same
+period of 1995. The increase in operating cash flow was primarily the result of
+operating profits generated in the first nine months of 1996, and reduction of
+accounts receivable and inventory levels, offset in part by a net reduction in
+accounts payable and accrued expenses.  The significant loss in 1995 was the
+primary reason for the use of cash in 1995.
+
+         Cash used in investing activities for the first nine months of 1996
+was for capital additions.  The funds provided in 1995 were primarily due to
+the funds received from the sale of Colortronic.
+
+         Cash used in financing activities for the first nine months of 1996
+was for the reduction of debt and was obtained from the cash provided from
+operating activities.  The funds used in 1995 were the result of using the
+proceeds from the sale of Colortronic to reduce bank debt.
+
+         Changes in foreign exchange rates, particularly with respect to the
+Swiss franc and Deutsche mark, caused a translation adjustment decrease in
+shareholders' equity of $.5 million in the first nine months of 1996.
+
+
+
+
+
+                                      -10-
+<PAGE>   13
+
+                          PART II.  OTHER INFORMATION
+
+Item 3.  Defaults Upon Senior Securities
+
+         As reported in the Company's Annual Report on Form 10-K for the fiscal
+year ended December 30, 1995, at the end of that year the Company and its U.S.
+manufacturing subsidiary were in default under several financial covenants
+contained in their loan agreement with three U.S. banks, while the Company's
+Swiss manufacturing subsidiary was in violation of certain equity guarantees
+contained in its loan agreements with several Swiss lenders, resulting in a
+default under each of the loan agreements.  In June 1996 the Company's U.S.
+manufacturing subsidiary refinanced the U.S. bank debt with two new lenders,
+the old lenders were repaid and the related loan and forbearance agreement was
+terminated.  The Swiss defaults are continuing, however, and have not been
+waived.
+
+         In early 1996, an agreement was entered into among the Company's Swiss
+subsidiary, several other K-Tron companies and the lenders to the Swiss
+subsidiary under which the lenders have agreed to defer until March 31, 1997
+the repayment of credit lines and the principal payments on fixed loans that
+become due prior to that date.  At September 28, 1996, the principal amount
+outstanding under the Swiss loan agreements was $19.6 million.
+
+         More details about the Swiss Forbearance Agreement are contained in
+the Company's Annual Report on Form 10-K for the fiscal year ending December
+30, 1995.
+
+         The Company will be requesting an extension to the Swiss forbearance
+agreement for at least one year.
+
+
+Item 6.  Exhibits and Reports on Form 8-K
+
+(a)      Exhibits
+
+         10.1         1996 Equity Compensation Plan as Amended
+         10.2         Amended and Restated Employee Stock Purchase Plan as
+                      Amended
+         11.1         Computation of Earnings (Loss) Per Share
+         27.1         Financial Data Schedule
+
+(b)      Reports on Form 8-K
+
+         There were no reports on Form 8-K for the nine months ended September
+28, 1996.
+
+
+
+
+
+                                      -11-
+<PAGE>   14
+
+                                   SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on his behalf by the
+undersigned thereunto duly authorized.
+
+                           K-TRON INTERNATIONAL, INC.
+
+
+
+
+Date: October 30, 1996
+
+
+
+                                       By:  /s/ Robert L. Weinberg
+                                           -----------------------
+                                       Robert L. Weinberg
+                                       Senior Vice President
+                                       & Chief Financial Officer
+                                       (Duly authorized officer and
+                                       principal financial officer
+                                       of the registrant)
+
+
+
+                                       By: /s/ Alan R. Sukoneck   
+                                          -----------------------
+                                       Alan R. Sukoneck
+                                       Vice President & Controller
+                                       (Duly authorized officer and
+                                       principal accounting officer
+                                       of the registrant)
+
+
+
+
+
+
+                                      -12-
+<PAGE>   15
+                                 EXHIBIT INDEX
+
+
+
+
+<TABLE>
+<CAPTION>
+Exhibit
+- -------
+<S>                <C>
+10.1               1996 Equity Compensation Plan as Amended
+
+10.2               Amended and Restated Employee Stock Purchase Plan as Amended
+
+11.1               Computation of Earnings (Loss) Per Share
+
+27.1               Financial Data Schedule
+</TABLE>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.1
+<SEQUENCE>2
+<DESCRIPTION>K-TRON INT'L '96 EQUITY COMPENSATION PLAN 9-11-96
+<TEXT>
+
+<PAGE>   1
+
+                                                                    Exhibit 10.1
+
+
+                           K-TRON INTERNATIONAL, INC.
+                         1996 EQUITY COMPENSATION PLAN
+                         (September 11, 1996 Revision)
+
+
+         The purpose of the K-Tron International, Inc. 1996 Equity Compensation
+Plan (the "Plan") is to provide officers and other employees of K-Tron
+International, Inc. (the "Company") and its subsidiaries with the opportunity
+to receive grants of incentive stock options, nonqualified stock options, stock
+appreciation rights and restricted stock.  The Company believes that the Plan
+will provide an incentive to the participants to contribute materially to the
+long-term growth of the Company, will align the economic interests of the
+participants with those of the Company's shareholders and will aid the Company
+and its subsidiaries in attracting and retaining officers and employees of
+outstanding ability.
+
+1.       Administration
+
+         The Plan shall be administered and interpreted by a committee (the
+"Committee"), which shall consist of two or more persons appointed by the
+Company's Board of Directors (the "Board"), all of whom shall be "non-employee
+directors" as defined in Rule 16b-3 under the Securities Exchange Act of 1934
+(the "Exchange Act") and "outside directors" as defined in Section 162(m) of
+the Internal Revenue Code of 1986, as amended (the "Code") and related Treasury
+regulations.
+
+         The Committee shall have the sole authority to (i) determine the
+individuals to whom grants shall be made under the Plan, (ii) determine the
+type, size and terms of the grants to be made to each such individual, (iii)
+determine the time when the grants will be made and the duration of any
+applicable exercise or restriction period, including the criteria for vesting
+and the acceleration of vesting and (iv) deal with any other matters arising
+under the Plan.
+
+         The Committee shall have full power and authority to administer and
+interpret the Plan, to make factual determinations and to adopt or amend such
+rules, regulations, agreements and instruments for implementing the Plan and
+for the conduct of its business as it deems necessary or advisable, in its sole
+discretion.  The Committee's interpretations of the Plan and all determinations
+made by the Committee pursuant to the powers vested in it hereunder shall be
+conclusive and binding on all persons having any interests in the Plan or in
+any awards granted hereunder.  All powers of the Committee shall be executed in
+its sole discretion, in the best interest of the Company and in keeping with
+the objectives of the Plan and need not be uniform as to similarly situated
+individuals.
+
+2.       Grants
+
+         Incentives under the Plan shall consist of incentive stock options,
+nonqualified stock options, stock appreciation rights and restricted stock
+(hereinafter collectively referred to as "Grants").  All Grants shall be
+subject to the terms and conditions set forth herein and to those
+<PAGE>   2
+other terms and conditions consistent with the Plan as the Committee deems
+appropriate and as are specified in writing by the Committee to the individual
+in a grant letter (the "Grant Letter") or an amendment thereto.  The Committee
+shall approve the form and provisions of each Grant Letter or amendment.
+Grants under a particular Section of the Plan need not be uniform as among the
+grantees.
+
+3.       Shares Subject to the Plan
+
+         (a)     Subject to the adjustments specified in Section 3(b), the
+aggregate number of shares of common stock of the Company (the "Company Stock")
+that may be issued or transferred pursuant to Grants or otherwise under the
+Plan is 450,000 shares.  Notwithstanding anything in the Plan to the contrary,
+the maximum aggregate number of shares of Company Stock that shall be subject
+to Grants made under the Plan to any single employee during any one year period
+shall be 100,000 shares.  The shares may be authorized but unissued shares of
+Company Stock or reacquired shares of Company Stock, including shares purchased
+by the Company on the open market for purposes of the Plan.  If and to the
+extent options granted under the Plan terminate, expire or are canceled,
+forfeited, exchanged or surrendered without having been exercised, or if any
+shares of restricted stock are forfeited, the shares subject to such Grants
+shall again be available for purposes of the Plan.
+
+         (b)     If there is any change in the number or kind of shares of
+Company Stock outstanding by reason of (i) a stock dividend, (ii) a
+recapitalization, (iii) a stock split, combination or exchange of shares, (iv)
+a merger, reorganization or consolidation in which the Company is the surviving
+corporation, (v) a reclassification or (vi) any other extraordinary or unusual
+event affecting the outstanding Company Stock as a class without in any of such
+cases the Company's receipt of consideration, or if in the opinion of the
+Committee the value of outstanding shares of Company Stock is substantially
+reduced due to the Company's payment of an extraordinary dividend or
+distribution, the maximum number of shares of Company Stock available for
+Grants, the maximum number of shares of Company Stock which any one individual
+participating in the Plan may be granted during any one year, the number of
+shares covered by outstanding Grants and the price per share or the applicable
+market value of such Grants shall be proportionately adjusted by the Committee
+to reflect any increase or decrease in the number or kind of issued shares of
+Company Stock to preclude the enlargement or dilution of rights and benefits
+under such Grants; provided, however, that any fractional shares resulting from
+such adjustment shall be eliminated.  The adjustments determined by the
+Committee shall be final, binding and conclusive.  Notwithstanding the
+foregoing, no adjustment shall be authorized or made pursuant to this Section
+if such authorization or adjustment would cause any Incentive Stock Option to
+fail to comply with Section 422 of the Code.
+
+4.       Eligibility for Participation
+
+         All employees employed by the Company or any subsidiary ("Employees")
+(including Employees who are officers or members of the Board) shall be
+eligible to participate in the Plan.
+
+
+
+
+
+<PAGE>   3
+The Committee shall select the Employees to receive Grants and determine the
+number of shares of Company Stock subject to a particular Grant in such manner
+as the Committee determines.  (Employees who receive Grants under this Plan
+shall hereinafter be referred to as "Grantees".)  The term "Company" as used
+hereinafter when referring to Employees or matters involving Employees (such as
+termination of employment or the withholding of taxes) shall include the
+Company's subsidiaries.
+
+         Nothing contained in this Plan shall be construed to limit the right
+of the Company to make Grants in connection with the acquisition, by purchase,
+lease, merger, consolidation or otherwise, of the business or assets of any
+corporation, firm or association, including options granted to employees
+thereof who become Employees of the Company, or for any other proper corporate
+purpose.
+
+5.       Granting of Stock Options
+
+         (a)     Number of Shares.  The Committee, in its sole discretion,
+shall determine the number of shares of Company Stock that will be subject to
+each Grant of stock options.
+
+         (b)     Type of Option and Price.  The Committee may grant options
+intended to qualify as incentive stock options ("Incentive Stock Options")
+within the meaning of Section 422 of the Code or options which are not intended
+so to qualify ("Nonqualified Stock Options") (hereinafter collectively referred
+to as "Stock Options") or any combination of Incentive Stock Options and
+Nonqualified Stock Options, all in accordance with the terms and conditions set
+forth herein.
+
+         The per share purchase price of Company Stock subject to a Stock
+Option shall be determined by the Committee and may be equal to, greater than
+or less than the Fair Market Value (as defined in the next paragraph) of a
+share of such Stock on the date such Stock Option is granted; provided,
+however, that (i) the per share purchase price of Company Stock subject to an
+Incentive Stock Option shall be equal to, or greater than, the Fair Market
+Value of a share of such Stock on the date such Stock Option is granted and
+(ii) an Incentive Stock Option may not be granted to an Employee who, at the
+time of grant, owns stock possessing more than ten percent (10%) of the total
+combined voting power of all classes of stock of the Company, or any parent or
+subsidiary of the Company, unless the purchase price per share is not less than
+one hundred ten percent (110%) of the Fair Market Value of a share of such
+Stock on the date of grant.
+
+         If the Company Stock is traded in a public market, then the Fair
+Market Value per share shall be determined as follows:  (i) if the principal
+trading market for the Company Stock is a national securities exchange or the
+National Market segment of The Nasdaq Stock Market, the last reported sale
+price thereof on the relevant date or, if there were no trades on that date,
+the latest preceding date upon which a sale was reported, or (ii) if the
+Company Stock is not principally traded on any such exchange or market, the
+mean between the last reported "bid" and "asked" prices thereof on the relevant
+date, as reported on Nasdaq or, if not so reported, as
+
+
+
+
+
+                                      -3-
+
+<PAGE>   4
+reported by the National Daily Quotation Bureau, Inc. or as reported in a
+customary financial reporting service, as applicable and as the Committee
+determines.  If the Company Stock is not traded in a public market or subject
+to reported transactions or "bid" and "asked" quotations as set forth above,
+the Fair Market Value per share shall be as determined by the Committee.
+
+         (c)     Exercise Period.  The Committee shall determine the option
+exercise period of each Stock Option.  The exercise period shall not exceed ten
+(10) years from the date of grant.  However, an Incentive Stock Option that is
+granted to an Employee who, at the time of grant, owns stock possessing more
+than ten percent (10%) of the total combined voting power of all classes of
+stock of the Company, or any parent or subsidiary of the Company, may not have
+a term that exceeds five (5) years from the date of grant.
+
+         (d)     Vesting and Exercisability of Options.  Stock Options shall
+become vested and exercisable in accordance with the terms and conditions
+determined by the Committee, in its sole discretion and as specified in the
+applicable Grant Letter.  The Committee, in its sole discretion, may accelerate
+the exercisability of any or all outstanding Stock Options at any time for any
+reason.  In addition, all outstanding Stock Options shall vest upon a Change of
+Control (as defined in Section 9) unless the Committee determines otherwise
+pursuant to Section 10.
+
+         (e)     Manner of Exercise.  A Grantee may exercise a Stock Option
+which has become exercisable, in whole or in part, by delivering a written
+notice of exercise to the Committee or other recipient designated by the
+Committee for this purpose, with accompanying payment of the option price in
+accordance with Section 5(g).  Such notice may instruct the Company to deliver
+shares of Company Stock due upon the exercise of the Stock Option to any
+registered broker or dealer designated by the Committee in lieu of delivery to
+the Grantee, in which case such instructions must also designate the account
+into which the shares are to be deposited.
+
+         (f)     Termination of Employment, Disability or Death.
+
+                 (1)  In the event that a Grantee ceases to be an employee of
+the Company for any reason other than "disability", death or "termination for
+cause", any Stock Option which is otherwise vested and exercisable by the
+Grantee shall terminate unless exercised within thirty (30) days of the date on
+which the Grantee ceases to be an employee of the Company (or within such other
+period of time as may be specified in the Grant Letter), but in any event no
+later than the date of expiration of the option exercise period.  Any of the
+Grantee's Stock Options which are not otherwise vested and exercisable as of
+the date on which the Grantee ceases to be an employee of the Company shall
+terminate as of such date.
+
+                 (2)  In the event that a Grantee ceases to be an employee of
+the Company on account of a "termination for cause" by the Company, any Stock
+Option held by the Grantee shall terminate as of the date the Grantee ceases to
+be an employee of the Company.
+
+                 (3)  In the event that a Grantee ceases to be an employee of
+the Company because
+
+
+
+
+
+                                      -4-
+
+<PAGE>   5
+the Grantee is "disabled", any Stock Option which is otherwise vested and
+exercisable by the Grantee shall terminate unless exercised within one (1) year
+of the date on which the Grantee ceases to be an employee of the Company (or
+within such other period of time as may be specified in the Grant Letter), but
+in any event no later than the date of expiration of the option exercise
+period.  Any of the Grantee's Stock Options which are not otherwise vested and
+exercisable as of the date on which the Grantee ceases to be an employee of the
+Company shall terminate as of such date.
+
+                 (4)  In the event of the death of a Grantee while the Grantee
+is an employee of the Company or within not more than thirty (30) days of the
+date on which the Grantee ceases to be an employee of the Company on account of
+a termination of employment for any reason other than "termination for cause"
+or "disability" (or within such other period of time as may be specified in the
+Grant Letter), any Stock Option which is otherwise vested and exercisable by
+the Grantee shall terminate unless exercised within one (1) year of the date on
+which the Grantee ceases to be an employee of the Company (or within such other
+period of time as may be specified in the Grant Letter), but in any event no
+later than the date of expiration of the option exercise period.  Any of the
+Grantee's Stock Options which are not otherwise vested and exercisable as of
+the date on which the Grantee ceases to be an employee of the Company shall
+terminate as of such date.
+
+                 (5) For purposes of this Section 5(f), the following terms
+shall be defined as follows: (A) "disability" shall mean a Grantee's becoming
+disabled within the meaning of section 22(e)(3) of the Code and (B)
+"termination for cause" shall mean, except to the extent otherwise provided in
+a Grantee's Grant Letter, a finding by the Committee, after full consideration
+of the facts presented on behalf of both the Company and the Grantee, that the
+Grantee has (i) breached his or her employment or service contract with the
+Company, or (ii) has engaged in disloyalty to the Company, fraud, embezzlement,
+theft, commission of a felony or proven dishonesty in the course of his or her
+employment by or service to the Company, or (iii) has disclosed trade secrets
+or other confidential information of the Company to persons not entitled to
+receive the same.  In the event of a finding by the Committee of "termination
+for cause" with respect to a Grantee, in addition to the immediate termination
+of all Stock Options held by such Grantee, the Grantee shall automatically
+forfeit all option shares for any exercised portion of a Stock Option for which
+the Company has not yet delivered the share certificates upon refund by the
+Company of the option price paid by the Grantee for such option shares.
+
+         (g)     Satisfaction of Option Price.  The Grantee shall pay the
+option price specified in the Grant Letter in (i) cash, (ii) with the approval
+of the Committee, by delivering shares of Company Stock owned by the Grantee
+(including Company Stock acquired in connection with the exercise of a Stock
+Option), subject to such restrictions as the Committee deems appropriate, and
+having a Fair Market Value on the date of exercise equal to the option price or
+(iii) through any combination of (i) and (ii).  The Grantee shall pay the
+option price and the amount of withholding tax due, if any, at the time of
+exercise.  Shares of Company Stock shall not be issued
+
+
+
+
+
+                                      -5-
+
+<PAGE>   6
+or transferred upon exercise of a Stock Option until the option price is fully
+paid and any required withholding is made.
+
+         (h)     Limits on Incentive Stock Options.  Each Incentive Stock
+Option shall provide that, if the aggregate Fair Market Value on the date of
+the Grant of the Company Stock with respect to which Incentive Stock Options
+are exercisable for the first time by a Grantee during any calendar year (under
+the Plan or any other stock option plan of the Company or a parent or
+subsidiary corporation) exceeds $100,000, then such option, as to the excess,
+shall be treated as a Nonqualified Stock Option.
+
+6.       Restricted Stock Grants
+
+         The Committee may issue or transfer shares of Company Stock to an
+Employee under a Grant (a "Restricted Stock Grant"), upon such terms as the
+Committee deems appropriate.  The following provisions are applicable to
+Restricted Stock Grants:
+
+         (a)     General Requirements.  Shares of Company Stock issued or
+transferred pursuant to Restricted Stock Grants may be issued or transferred
+for consideration or for no consideration, at the sole discretion of the
+Committee.  The Committee shall establish conditions under which restrictions
+on the transfer of shares of Company Stock shall lapse over a period of time or
+according to such other criteria as the Committee deems appropriate.  The
+period of years during which the Restricted Stock Grant will remain subject to
+restrictions will be designated in the Grant Letter as the "Restriction
+Period."
+
+         (b)     Number of Shares.  The Committee shall issue or transfer to
+each Grantee of a Restricted Stock Grant such number of shares of restricted
+Company Stock as the Committee deems appropriate.
+
+         (c)     Requirement of Employment.  If a Grantee's employment
+terminates during the period designated in the Grant Letter as the Restriction
+Period, or if other specified conditions are not met, the Restricted Stock
+Grant shall terminate as to all shares covered by the Grant as to which the
+restrictions on transfer have not lapsed, and those shares of Company Stock
+must be immediately returned to the Company.  The Committee may, however,
+provide for complete or partial exceptions to this requirement as it deems
+equitable.
+
+         (d)     Restrictions on Transfer and Legend on Share Certificate.
+During the Restriction Period, a Grantee may not sell, assign, transfer, pledge
+or otherwise dispose of the shares of Company Stock to which such Restriction
+Period applies except to a Successor Grantee under Section 8(a).  Each
+certificate for shares issued or transferred under a Restricted Stock Grant
+shall contain a legend giving appropriate notice of the restrictions in the
+Grant.  The Grantee shall be entitled to have the legend removed from the share
+certificate covering any of the shares subject to restrictions when all
+restrictions on such shares have lapsed.  The Committee, in its sole
+discretion, may determine that the Company will not issue certificates for
+shares of
+
+
+
+
+
+                                      -6-
+
+<PAGE>   7
+Restricted Stock until all restrictions on such shares have lapsed, or that the
+Company will retain possession of certificates for shares of Restricted Stock
+until all restrictions on such shares have lapsed.
+
+         (e)     Right to Vote and to Receive Dividends.  During the
+Restriction Period, unless the Committee determines otherwise, the Grantee
+shall have the right to vote shares subject to the Restricted Stock Grant and
+to receive any dividends or other distributions paid on such shares, subject to
+any restrictions deemed appropriate by the Committee.
+
+         (f)     Lapse of Restrictions.  All restrictions imposed under a
+Restricted Stock Grant shall lapse upon the expiration of the applicable
+Restriction Period and the satisfaction of any conditions imposed by the
+Committee.  The Committee may determine, as to any or all Restricted Stock
+Grants, that all the restrictions shall lapse without regard to any Restriction
+Period.  All outstanding Restricted Stock Grants shall vest upon a Change of
+Control, unless the Committee determines otherwise pursuant to Section 10.
+
+7.       Stock Appreciation Rights
+
+         (a)     The Committee may grant stock appreciation rights ("SARs") to
+any Grantee in tandem with any Stock Option, for all or a portion of the
+applicable Stock Option, either at the time the Stock Option is granted or at
+any time thereafter while the Stock Option remains outstanding; provided,
+however, that in the case of an Incentive Stock Option, such rights may be
+granted only at the time of the Grant of such Incentive Stock Option.  Unless
+the Committee determines otherwise, the base price of each SAR shall be equal to
+the greater of (i) the exercise price of the related Stock Option or (ii) the
+Fair Market Value of a share of Company Stock as of the date of Grant of such
+SAR.
+
+         (b)     The number of SARs granted to a Grantee which shall be
+exercisable during any given period of time shall not exceed the number of
+shares of Company Stock which the Grantee may purchase upon the exercise of the
+related Stock Option during such period of time.  Upon the exercise of a Stock
+Option, the SARs relating to the Company Stock covered by such Stock Option
+shall terminate.  Upon the exercise of SARs, the related Stock Option shall
+terminate to the extent of an equal number of shares of Company Stock.
+
+         (c)     Upon a Grantee's exercise of some or all of the Grantee's SARs,
+the Grantee shall receive in settlement of such SARs an amount equal to the
+value of the stock appreciation for the number of SARs exercised, payable in
+cash, Company Stock or a combination thereof.  The stock appreciation for an
+SAR is the difference between the base price of the SAR as described in Section
+7(a) and the Fair Market Value of the underlying Company Stock on the date of
+exercise of such SAR.
+
+         (d)     At the time of such exercise, the Grantee shall have the right
+to elect the portion of the amount to be received that shall consist of cash
+and the portion that shall consist of
+
+
+
+
+
+                                      -7-
+
+<PAGE>   8
+Company Stock, which, for purposes of calculating the number of shares of
+Company Stock to be received, shall be valued at their Fair Market Value on the
+date of exercise of such SARs.  The Committee shall have the right to
+disapprove a Grantee's election to receive cash in full or partial settlement
+of the SARs exercised and to require that shares of Company Stock be delivered
+in lieu of cash.  If shares of Company Stock are to be received upon exercise
+of an SAR, cash shall be delivered in lieu of any fractional share.  A SAR
+shall be exercisable only during the period when the Stock Option to which it
+is related is also exercisable.
+
+8.       Transferability of Grants
+
+         (a)     Only the Grantee or a Successor Grantee (as defined below) may
+exercise rights under a Grant.  Such persons may not transfer those rights,
+except that a Grantee may transfer rights under a Grant  by will or by the laws
+of descent and distribution or, with respect to Grants other than Incentive
+Stock Options, if permitted under Rule 16b-3 of the Exchange Act and if
+permitted in any specific case by the Committee in its sole discretion,
+pursuant to a domestic relations order as defined under the Code or Title I of
+the Employee Retirement Income Security Act of 1974, as amended, or the
+regulations thereunder.  When a Grantee dies, the representative or other
+person entitled to succeed to the rights of the Grantee ("Successor Grantee")
+may exercise such rights.  A Successor Grantee must furnish proof satisfactory
+to the Company of his or her right to receive the Grant under the Grantee's
+will or under the applicable laws of descent and distribution.
+
+         (b)     Notwithstanding the foregoing, the Committee may provide, in a
+Grant Letter, that a Grantee may transfer Nonqualified Stock Options to family
+members or other persons or entities according to such terms as the Committee
+may determine.
+
+9.       Change of Control of the Company
+
+         As used herein, a "Change of Control" shall be deemed to have occurred
+if:
+
+         (a)     A liquidation or dissolution of the Company or the sale
+(excluding transfers to subsidiaries) of all or substantially all of the
+Company's assets occurs;
+
+         (b)     As a result of a tender offer, stock purchase, other stock
+acquisition, merger, consolidation, recapitalization, reverse split or sale or
+transfer of assets, any person or group (as such terms are used in and under
+Section 13(d) of the Exchange Act) becomes the beneficial owner (as defined in
+Rule 13-d under the Exchange Act), directly or indirectly, of securities of the
+Company representing more than 20% of the common stock of the Company or the
+combined voting power of the Company's then outstanding securities; or
+
+         (c)     During any period of two consecutive years, individuals who,
+at the beginning of such period, constitute the Board cease for any reason to
+constitute at least a majority thereof, unless the election, or the nomination
+for election by the Company's shareholders, of at least two-
+
+
+
+
+
+                                      -8-
+
+<PAGE>   9
+thirds of the directors who were not directors at the beginning of such period
+was approved by a vote of at least two-thirds of the directors then still in
+office who were either directors at the beginning of the period or who, in
+connection with their election or nomination, received the foregoing two-thirds
+approval.
+
+10.      Consequences of a Change of Control
+
+         (a)     Upon a Change of Control, unless the Committee determines
+otherwise, (i) the Company shall provide to each Grantee who holds an
+outstanding Grant written notice of such Change of Control, (ii) all
+outstanding Stock Options and SARs shall automatically accelerate and become
+fully exercisable, and (iii) the restrictions and conditions on all outstanding
+Restricted Stock shall immediately lapse.  Notwithstanding the foregoing, if a
+Change of Control described in Section 9(a) will occur, or if a Change of
+Control described in Section 9(b) will occur and the Company will not be the
+surviving corporation (or will survive only as a subsidiary of another
+corporation), then the provisions of this Section 10(a) shall be mandatory,
+subject to the provisions of Section 10(d) below.
+
+         (b)     In the event of a Change of Control where the Company is not
+the surviving corporation (or survives only as a subsidiary of another
+corporation), unless the Committee determines otherwise, all outstanding Stock
+Options and SARs that are not exercised shall be assumed by, or replaced with
+comparable options or rights by, the surviving corporation.
+
+         (c)     In addition, in the event of a Change of Control, the
+Committee may take one or both of the following actions: the Committee may (i)
+require that Grantees surrender their outstanding Stock Options and SARs in
+exchange for a payment by the Company, in cash or Company Stock as determined
+by the Committee, in an amount equal to the amount by which the then Fair
+Market Value of the shares of Company Stock subject to the Grantee's
+outstanding Stock Options and SARs exceeds the purchase price of the Options or
+the base price of the SARs, as applicable, or (ii) after giving Grantees an
+opportunity to exercise their outstanding Stock Options and SARs, terminate any
+or all outstanding Stock Options and SARs at such time as the Committee deems
+appropriate.  Such surrender or termination shall take place as of the date of
+the Change of Control or such other date as the Committee may specify.
+
+         (d)     Notwithstanding anything in the Plan to the contrary, in the
+event of a Change of Control, the Committee shall not have the right to take
+any actions described in the Plan (including without limitation actions
+described in Section 10(c) above) that would make the Change of Control
+ineligible for pooling of interest accounting treatment or that would make the
+Change of Control ineligible for desired tax treatment if, in the absence of
+such right, the Change of Control would qualify for such treatment and the
+Company intends to use such treatment with respect to the Change of Control.
+
+         (e)     The Committee may make determinations under this Section 10
+prior to the Change of Control or, if the Committee making such determinations
+following a Change of
+
+
+
+
+
+                                      -9-
+
+<PAGE>   10
+Control is comprised of the same members as served on the Committee immediately
+prior to such Change of Control, within twenty (20) days following such Change
+of Control.
+
+11.      Amendment and Termination of the Plan
+
+         (a)     Amendment.  The Board may amend or terminate the Plan at any
+time; provided, however, that any amendment that increases the aggregate number
+(or individual limit for any single Grantee) of shares of Company Stock that
+may be issued or transferred under the Plan (other than by operation of Section
+3(b)), or modifies the requirements as to eligibility for participation in the
+Plan, shall be subject to approval by the shareholders of the Company and
+provided, further, that the Board shall not amend the Plan without shareholder
+approval if such approval is required by Section 162(m) of the Code.
+
+         (b)     Termination of Plan.  The Plan shall terminate on May 9, 2006
+unless terminated earlier by the Board or unless extended by the Board with the
+approval of the shareholders.
+
+         (c)     Termination and Amendment of Outstanding Grants.  A
+termination or amendment of the Plan that occurs after a Grant is made shall
+not materially impair the rights of a Grantee under such Grant unless the
+Grantee consents or unless the Committee acts under Section 19(b).  The
+termination of the Plan shall not impair the power and authority of the
+Committee with respect to any outstanding Grant.  Whether or not the Plan has
+terminated, an outstanding Grant may be terminated or amended under Section
+19(b) or may be amended by agreement of the Company and the Grantee consistent
+with the Plan.
+
+         (d)     Governing Document.  The Plan shall be the controlling
+document.  No other statements, representations, explanatory materials or
+examples, oral or written, may amend the Plan in any manner.  The Plan shall be
+binding upon and enforceable against the Company and its successors and
+assigns.
+
+12.      Funding of the Plan
+
+         The Plan shall be unfunded.  The Company shall not be required to
+establish any special or separate fund or to make any other segregation of
+assets to assure the payment of any Grants under the Plan.  In no event shall
+interest be paid or accrued on any Grant, including unpaid installments of
+Grants.
+
+13.      Rights of Participants
+
+         Nothing in the Plan shall entitle any Employee or other person to any
+claim or right to be granted a Grant under the Plan.  Neither the Plan nor any
+action taken hereunder shall be construed as giving any individual any rights
+to be retained by or in the employ of the Company or any other employment
+rights.
+
+
+
+
+
+                                      -10-
+
+<PAGE>   11
+14.      No Fractional Shares
+
+         No fractional shares of Company Stock shall be issued or delivered
+pursuant to the Plan or any Grant.  The Committee shall determine whether cash,
+other awards or other property shall be issued or paid in lieu of such
+fractional shares or whether such fractional shares or any rights thereto shall
+be forfeited or otherwise eliminated.
+
+15.      Withholding of Taxes
+
+         (a)     The Company shall have the right to deduct from all Grants
+paid in cash, or from other wages paid to a Grantee, any federal, state or
+local taxes required by law to be withheld with respect to such cash awards
+and, in the case of Grants paid in Company Stock, the Grantee or other person
+receiving such shares shall be required to pay to the Company the amount of any
+such taxes which the Company is required to withhold with respect to such
+Grants or the Company shall have the right to deduct from other wages paid to
+the Grantee by the Company the amount of any withholding due with respect to
+such Grants.
+
+         (b)     If the Committee so permits, a Grantee may elect to satisfy
+the Company's income tax withholding obligation with respect to a Grant paid in
+Company Stock by having shares withheld up to an amount that does not exceed
+the Grantee's maximum marginal tax rate for federal (including FICA), state and
+local tax liabilities.  The election must be in a form and manner prescribed by
+the Committee and shall be subject to the prior approval of the Committee.
+
+16.      Requirements for Issuance or Transfer of Shares
+
+         No Company Stock shall be issued or transferred in connection with any
+Grant hereunder unless and until all legal requirements applicable to the
+issuance or transfer of such Company Stock have been complied with to the
+satisfaction of the Committee.  The Committee shall have the right to condition
+any Grant made to any Grantee hereunder on such Grantee's undertaking in
+writing to comply with such restrictions on his or her subsequent disposition
+of such shares of Company Stock as the Committee shall deem necessary or
+advisable as a result of any applicable law, regulation or official
+interpretation thereof and certificates representing such shares may be
+legended to reflect any such restrictions.  Certificates representing shares of
+Company Stock issued or transferred under the Plan will be subject to such
+stop-transfer orders and other restrictions as may be applicable under such
+laws, regulations and other obligations of the Company, including any
+requirement that a legend or legends be placed thereon.
+
+17.      Headings
+
+         Section headings are for reference only.  In the event of a conflict
+between a title and the content of a Section, the content of the Section shall
+control.  References herein to a Section or a Subsection are references to
+Sections or Subsections of the Plan unless otherwise noted.
+
+
+
+
+
+                                      -11-
+
+<PAGE>   12
+18.      Effective Date of the Plan
+
+         The Plan became effective on May 10, 1996 when it was approved by the
+Company's shareholders.
+
+19.      Miscellaneous
+
+         (a)     Substitute Grants.  The Committee may make a Grant to an
+employee of another corporation who becomes an Employee by reason of a
+corporate merger, consolidation, acquisition of stock or property,
+reorganization or liquidation involving the Company or any of its subsidiaries
+in substitution for a stock option or restricted stock grant made by such
+corporation ("Substituted Stock Incentives").  The terms and conditions of the
+substitute grant may vary from the terms and conditions required by the Plan
+and from those of the Substituted Stock Incentives.  The Committee shall
+prescribe the provisions of the substitute grants.
+
+         (b)     Compliance with Law.  The Plan, the exercise of Stock Options
+and the obligation of the Company to issue or transfer shares of Company Stock
+under Grants shall be subject to all applicable laws and to approvals by any
+governmental or regulatory agency as may be required.  With respect to persons
+subject to Section 16 of the Exchange Act, it is the intent of the Company that
+the Plan and all transactions under the Plan comply with all applicable
+provisions of Rule 16b-3 or its successors under the Exchange Act.  The
+Committee may revoke any Grant if it is contrary to law or modify a Grant to
+bring it into compliance with any valid and mandatory government regulation.
+The Committee may also adopt rules regarding the withholding of taxes on
+payments to Grantees.  The Committee may, in its sole discretion, agree to
+limit its authority under this Section 19(b).
+
+         (c)     Ownership of Stock.  A Grantee or Successor Grantee shall have
+no rights as a shareholder with respect to any shares of Company Stock covered
+by a Grant until the shares are issued or transferred to the Grantee or
+Successor Grantee on the stock transfer records of the Company.
+
+         (d)     Governing Law.  The validity, construction, interpretation and
+effect of the Plan and Grant Letters issued under the Plan shall exclusively be
+governed by and determined in accordance with the law of the State of New
+Jersey.
+
+
+
+
+
+                                      -12-
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.2
+<SEQUENCE>3
+<DESCRIPTION>KTRON INT'L AMENDED/RESTATED EMPLY STK PUR 9-11-96
+<TEXT>
+
+<PAGE>   1
+
+
+                                                                    Exhibit 10.2
+
+
+                           K-TRON INTERNATIONAL, INC.
+                              AMENDED AND RESTATED
+                          EMPLOYEE STOCK PURCHASE PLAN
+                         (SEPTEMBER 11, 1996 REVISION)
+
+                                   ARTICLE I.
+
+                                  INTRODUCTION
+
+                 Sec. 1.01  Statement of Purpose.   The purpose of the K-Tron
+International, Inc. Amended and Restated Employee Stock Purchase Plan is to
+provide eligible employees of K-Tron International, Inc. (the Company) who wish
+to become shareholders an opportunity to purchase common stock of the Company.
+The Board of Directors of the Company believes that employee participation in
+ownership will be to the mutual benefit of both the employees and the Company.
+
+                 Sec. 1.02  Internal Revenue Code Considerations.  This Plan is
+intended to quality as an "employee stock purchase plan" within the meaning of
+Section 423 of the Internal Revenue Code of 1986, as amended.
+
+                 Sec. 1.03  History of the Plan.  This Plan was adopted by the
+Board of Directors and approved by the shareholders in 1981.  On February 24,
+1986 the Board voted to extend the Plan until June 30, 1996, which extension
+was approved by the shareholders on May 2, 1986.  On March 8, 1996, the Board
+of Directors voted to further extend the Plan until June 30, 2001, which
+extension was approved by shareholders on May 10, 1996.  On September 11, 1996,
+the Board authorized the amendment and restatement of the Plan to update and
+correct certain Internal Revenue Code references.
+
+
+                                  ARTICLE II.
+
+                                  DEFINITIONS
+
+                 Sec. 2.01  "Administrative Committee" shall mean the committee
+appointed by the Board of Directors to administer this Plan, as provided in
+Section 6.03 hereof.
+
+                 Sec. 2.02  "Board of Directors" shall mean the Board of
+Directors of the Company.
+
+                 Sec. 2.03  "Company" shall mean K-Tron International, Inc., a
+New Jersey corporation.
+<PAGE>   2
+                 Sec. 2.04  "Compensation" shall mean the total remuneration
+paid, during the period of reference, to an Employee by Employer, including
+regular salary or wages, overtime payments, bonuses and commissions, but
+excluding expense reimbursements of all types, payments in lieu of expenses,
+Employer contributions to any qualified retirement plan or other program of
+deferred compensation, Employer contributions to Social Security, the costs
+paid by Employer in connection with fringe benefits (whether or not the
+Employee could have elected to receive cash in lieu of such benefits), and any
+amounts accrued for the benefit of Employee but not paid during the period of
+reference.
+
+                 Sec. 2.05  "Continuous Service" shall mean the period of time,
+immediately preceding the Offering Date of reference, during which the Employee
+has been employed by Employer and during which there has been no interruption
+of Employee's employment by Employer.  For this purpose, periods of Excused
+Absence shall not be considered to be interruptions of Continuous Service.
+
+                 Sec. 2.06  "Effective Date" shall mean July 1, 1981.
+
+                 Sec. 2.07  "Eligible Employee" shall mean each person who, on
+an Offering Date, meets all of the following requirements:
+
+                          (a)     He/she is an Employee of Employer;
+
+                          (b)     He/she has completed at least twelve (12)
+                                  months of Continuous Service; and
+
+                          (c)     He/she is not deemed for purposes of Section
+                                  423(b)(3) of the Internal Revenue Code to
+                                  own  stock possessing five percent (5%) or
+                                  more of the total combined voting power or
+                                  value of all classes  of Stock of the Company
+                                  or his/her Employer.
+
+                 Sec. 2.08  "Employee" shall mean each person employed by
+Employer whose customary employment is for more than twenty (20) hours per week
+and for more than five (5) months per year.
+
+                 Sec. 2.09  "Employer" shall mean the Company and each
+subsidiary of Company designated by the Board of Directors as an Employer under
+the Plan.  A "subsidiary" of the Company shall be any corporation in which the
+Company holds, directly or indirectly, fifty percent (50%) or more of the total
+combined voting power of all classes of stock of such subsidiary, as described
+in Section 424(f) of the Internal Revenue Code.
+
+
+
+
+                                       -2-
+<PAGE>   3
+                 Sec. 2.10  "Excused Absence" shall mean absence pursuant to a
+leave of absence granted by the Company or any other entity constituting
+Employer, absence due to disability or illness, or absence by reason of a
+layoff.  An Excused Absence shall not exceed the greater of (a) ninety (90)
+days, or (b) the period during which, an Employee on such Excused Absence has a
+contractual or statutory right to reemployment (the greater of (a) or (b) being
+the "Excused Period").  Any absence shall cease to be an Excused Absence upon
+the earlier of (a) the last day of the Excused Period, or (1)) the last day of
+the calendar month in which the leave expires by its terms, the layoff ends by
+recall or permanent separation from service, or recovery from illness or
+disability occurs.
+
+                 Sec. 2.11  "Exercise Date" shall mean the last day of each
+Purchase Period.
+
+                 Sec. 2.12  "Internal Revenue Code" shall mean the United
+States Internal Revenue Code of 1986, as the same is presently constituted and
+as it may hereafter be amended, and successor statutes of similar purpose.
+
+                 Sec. 2.13  "Market Value" shall mean the closing price (or the
+average of the closing bid and asked prices) of the Stock as reported on the
+principal market, trading system or exchange on which the Stock is traded (as
+determined by the Administrative Committee) as of the date of reference.  If
+there is no such price reported for the date of reference, "Market Value" shall
+mean the "Market Value," computed as aforesaid, as of the date next preceding
+the date of reference on which such price is reported.  If the Stock is not
+publicly-traded, the "Market Value" shall mean the fair market value of the
+Stock determined by the Administrative Committee, whose determination shall be
+final and binding, subject to the approval of the Board of Directors.
+
+                 Sec. 2.14  "Offering" shall mean the offering of shares of
+Stock under this Plan.
+
+                 Sec. 2.15  "Offering Date" shall mean the first business day
+of January and the first business day of July of each Plan Year, commencing
+with July 1981.
+
+                 Sec. 2.16  "Participant" shall mean each Employee who elects
+to participate in this Plan.
+
+                 Sec. 2.17  "Plan" shall mean the K-Tron International, Inc.
+Amended and Restated Employee Stock Purchase Plan, as the same is set forth
+herein and as the same may hereafter be amended.
+
+                 Sec. 2.18  "Plan Year" shall mean the calendar year.
+
+
+
+
+
+                                      -3-
+<PAGE>   4
+                 Sec. 2.19  "Purchase Agreement" shall mean the document
+prescribed by the Administrative Committee pursuant to which an Eligible
+Employee has enrolled to be a Participant in this Plan.
+
+                 Sec. 2.20  "Purchase Period" shall mean the period beginning
+on an Offering Date and ending on the last business day of the fifth calendar
+month following the calendar month in which such Offering Date occurred.
+
+                 Sec. 2.21  "Stock" shall mean the common stock of the Company.
+Such Stock may be authorized but previously unissued shares or shares
+reacquired and held by the Company as treasury shares.
+
+                 Sec. 2.22  "Stock Purchase Account" shall mean with respect to
+any Employee a non-interest bearing account consisting of all amounts withheld
+from such Employee's Compensation (or otherwise paid into the Plan) for the
+purpose of purchasing shares of Stock under this Plan, reduced by all amounts
+applied to the purchase of Stock under this Plan.
+
+
+                                  ARTICLE III.
+
+                           ADMISSION TO PARTICIPATION
+
+
+                 Sec. 3.01  Initial Participation.  Any Eligible Employee may
+elect to be a Participant and may become a Participant by executing and filing
+with the Administrative Committee a Purchase Agreement on forms provided by the
+Administrative Committee.  The effective date of an Eligible Employee's
+participation shall be the Offering Date coincident with or next following the
+date on which the Administrative Committee receives from the Eligible Employee
+a properly executed Purchase Agreement.
+
+                 Sec. 3.02  Discontinuance of Participation.  Any Participant
+may voluntarily withdraw from the Plan by filing a notice of withdrawal with
+the Administrative Committee prior to an Exercise Date.  Upon such withdrawal,
+there shall be paid to the Participant the amount, if any, standing to his/her
+credit in his/her Stock Purchase Account.  Amounts paid to a Participant or
+former Participant pursuant to this Section 3.02 shall not be eligible for
+redeposit in the Participant's Stock Purchase Account in the event of the
+person's readmission to participation.
+
+                 Sec. 3.03  Involuntary Withdrawal; Termination of Eligible
+Employee Status.  If a Participant's Continuous Service terminates for any
+reason, or if a Participant ceases to be an Eligible Employee, no further
+amounts shall be deducted from such Participant's compensation
+
+
+
+
+
+                                      -4-
+<PAGE>   5
+and deposited into his/her Stock Purchase Account and the entire amount
+standing to the Participant's credit in his/her Stock Purchase Account on the
+effective date of such occurrence shall be used to purchase whole shares of
+Stock under this Plan as of the next succeeding Exercise Date, and any balance
+thereafter remaining to his/her credit in his/her Stock Purchase Account shall
+be refunded to him/her.  Notwithstanding the foregoing, if a Participant's
+Continuous Service is terminated for any reason three (3) months or more prior
+to the next succeeding Exercise Date, the entire amount, if any, standing to
+his/her credit in that Stock Purchase Account shall be refunded to him/her.
+
+                 Sec. 3.04  Readmission to Participation.  Any Eligible
+Employee who has previously been a Participant, who has discontinued
+participation (whether by interruption of Continuous Service or otherwise), and
+who wishes to be reinstated as a Participant may again become a Participant by
+executing and filing with the Administrative Committee a new Purchase Agreement
+on forms provided by the Administrative Committee.  Reinstatement to
+Participant status shall be effective as of the Offering Date coincident with
+or next following the date on which the Administrative Committee receives from
+the Eligible Employee the Properly executed Purchase Agreement.
+
+
+                                  ARTICLE IV.
+
+                                 STOCK PURCHASE
+
+                 Sec. 4.01  Reservation of Shares.  There shall be 500,000
+shares of Stock reserved for the Plan, subject to adjustment in accordance with
+the anti-dilution provisions hereinafter set forth.  Except as provided in
+Section 5.02 hereof, the aggregate number of shares that may be purchased under
+the Plan shall not exceed the number of shares reserved for the Plan.
+
+                 Sec. 4.02  Limitation on Shares Available.  Subject to the
+limitations described in Sections 4.04 (a) and (b), the maximum number of
+shares of Stock that may be purchased for each Participant on an Exercise Date
+is the lowest of (a) the number of whole shares of Stock that can be purchased
+by applying the full balance of his/her Stock Purchase Account to such purchase
+of shares at the Purchase Price (as hereinafter determined), (b) the
+Participant's proportionate part of the maximum number of shares of Stock
+available within the limitation established by the maximum aggregate number of
+such shares reserved for this Plan, as stated in Section 4.01 hereof, or (c)
+5,000 shares.  Notwithstanding the foregoing, if any person entitled to
+purchase shares pursuant to any offering hereunder would, upon such purchase,
+be deemed for the purposes of Section 423(b)(3) of the Internal Revenue Code to
+own stock (including any number of shares that such person would be entitled to
+purchase hereunder) possessing five percent (5%) or more of the total combined
+voting power or value of all classes of stock of the
+
+
+
+
+
+                                      -5-
+<PAGE>   6
+Company, the maximum number of shares that such person shall be entitled to
+purchase pursuant to this Plan shall be reduced to that number which, when
+added to the number of shares of Stock that such person is so deemed to own
+(excluding any number of shares that such person would be entitled to purchase
+hereunder), is one less than such five percent (5%).  Any portion of a
+Participant's Stock Purchase Account that cannot be applied by reason of the
+foregoing limitation, or by reason of the fact that no fractional shares are
+purchased or issued under this Plan, shall remain in the Participant's Stock
+Purchase Account for application to purchase of Stock on the next Offering Date
+(unless withdrawn before that Offering Date).
+
+                 Sec. 4.03  Purchase Price of Shares.  The Purchase Price per
+share of the Stock sold to Participants pursuant to any Offering shall be
+eighty-five percent (85%) of the Market Value of such share on the Offering
+Date on which such Offering commences or on the Exercise Date on which such
+Offering expires, whichever is the lower.  If the Exercise Date with respect.
+to the purchase of Stock is a day on which the Stock is selling exdividend but
+is on or before the record date for such dividend, then for Plan purposes the
+Purchase Price per share will be increased by an amount equal to the dividend
+per share.  In no event shall the Purchase Price be less than this par value of
+the Stock.
+
+                 Sec. 4.04  Exercise of Purchase Privilege.
+
+                          (a)     Subject to the provisions of Section 4.02
+                                  above and of paragraph (b) of this Section
+                                  4.04, if on the tenth business day prior to
+                                  any Exercise Date there is standing, to the
+                                  credit of a Participant in his/her Stock
+                                  Purchase Account an amount equal to, or
+                                  greater than, the Purchase Price of one share
+                                  of Stock for the Offering that expires on
+                                  such Exercise Date, there shall be purchased
+                                  for the Participant at such Purchase Price
+                                  the largest number of whole shares of Stock
+                                  as can be purchased with the amount then
+                                  standing to the Participant's credit in
+                                  his/her Stock Purchase Account.  Each such
+                                  purchase shall be deemed to have occurred on
+                                  the Exercise Date occurring at the close of
+                                  the offering from which the purchase was
+                                  made.
+
+                          (b)     A Participant may not purchase shares of
+                                  Stock having an aggregated Market Value of
+                                  more than twenty-five thousand dollars
+                                  ($25,000), determined at the time off the
+                                  Offering(s), for each calendar year in which
+                                  one or more such Offering(s) is/are
+                                  outstanding at any time, and a Participant
+                                  may not purchase a share of Stock under any
+                                  Offering after the expiration of the Purchase
+                                  Period for such Offering.
+
+
+
+
+
+                                      -6-
+<PAGE>   7
+                 Sec. 4.05  Establishment of Stock Purchase Account.  Each
+Participant shall authorize payroll deductions from Compensation for the
+purposes of funding his/her Stock Purchase Account.  In the Purchase Agreement,
+each Participant shall authorize a deduction from each payment of his/her
+Compensation during a Purchase Period, which deduction shall be not less than
+two percent (2%) nor more than ten percent (10%) of the gross amount of such
+payment, rounded to the nearest whole dollar amount.  Any Participant who has
+elected payroll deductions which exceed two percent (2%) of his/her payments of
+Compensation may reduce his/her payroll deduction rate during any Purchase
+Period, provided no such reduction shall reduce the payroll deduction rate
+below two percent (2%).  The payroll deduction rate may not be increased during
+any Purchase Period.  However, a Participant may change the deduction to any
+permissible level for any subsequent Offering by filing notice thereof prior to
+the Offering Date on which such subsequent Offering commences.
+
+                 Sec. 4.06  Payment for Stock.  The Purchase Price for all
+shares of Stock purchased by any Participant under this Plan shall be paid out
+of the Participant's Stock Purchase Account.  As of each Exercise Date, the
+amount standing to the credit of each Participant on the tenth (10th) business
+day prior to the Exercise Date in his/her Stock Purchase Account in the
+Offering that expires on such Exercise Date shall be charged with the aggregate
+Purchase Price of the shares of Stock purchased by such Participant on the
+Exercise Date.  The remaining balance standing to the Participant's credit in
+his/her Stock Purchase Account shall remain credited to such Stock Purchase
+Account for the next succeeding Offering under this Plan.  No interest shall be
+paid or payable with respect to any amount held in the Participant's Stock
+Purchase Account.
+
+                 Sec. 4.07  Share Ownership; Issuance of Certificates.
+
+                          (a)     The shares purchased by a Participant on an
+Exercise Date shall, for all purposes, be deemed to have been issued and/or
+sold at the close of business on such Exercise Date.  Prior to that time, none
+of the rights or privileges of a shareholder of the Company shall inure to the
+Participant with respect to such shares.  All the shares of Stock purchased
+under this Plan shall be delivered by the Company in a manner as determined by
+the Administrative Committee, provided, however, that all shares acquired by
+Participants during any Plan Year shall be delivered not later than one hundred
+twenty (120) days following the last day of such Plan Year.
+
+                          (b)     The Administrative Committee, in its sole
+discretion, may determine that the shares of Stock shall be delivered by the
+Company to the Participant by issuing and delivering to the Participant a
+certificate for the number of shares of Stock purchased by a Participant on an
+Exercise Date or during a Plan Year, or that the shares of Stock purchased by
+all Participants shall be delivered to a member firm of the New York Stock
+Exchange which
+
+
+
+
+
+                                      -7-
+<PAGE>   8
+is also a member of the National Association of Securities Dealers, as selected
+by the Administrative Committee from time to time, which shares shall be
+maintained by such member firm in separate brokerage accounts of each
+Participant.  Each certificate or brokerage account, as the case may be, may be
+in the name of the Participant or, if he/she designates on his/her Stock
+Purchase Agreement, in his/her name jointly with his/her spouse, with right of
+survivorship.  A Participant who is a resident of a jurisdiction that does not
+recognize such joint tenancy may have a certificate or brokerage account in
+his/her name as tenant in common with his/her spouse, without right of
+survivorship.  Such designation may be changed by filing notice thereof.
+
+
+                                   ARTICLE V.
+
+                              SPECIAL ADJUSTMENTS
+
+                 Sec. 5.01  Shares Unavailable.  If, on any Exercise Date, the
+aggregate funds available for the purchase of Stock would purchase a number of
+shares in excess of the number of shares then available for purchase under the
+Plan, the following events shall occur:
+
+                          (a)     The number of shares that would otherwise be
+                                  purchased by each Participant shall be
+                                  proportionately reduced on the Exercise Date
+                                  in order to eliminate such excess;
+
+                          (b)     The Plan shall automatically terminate
+                                  immediately after the Exercise Date as of
+                                  which the supply of available shares is
+                                  exhausted; and
+
+                          (c)     Any amount remaining in the Stock Purchase
+                                  Account of any Participant shall be repaid to
+                                  such Participant.
+
+                 Sec. 5.02  Anti-Dilution Provisions.  The aggregate number of
+shares of Stock reserved for purchase under the Plan, as hereinabove provided,
+and the calculation of the Purchase Price per share may be appropriately
+adjusted to reflect any increase or decrease in the number of issued shares of
+Stock resulting from a subdivision or consolidation of shares or other capital
+adjustment, or the payment of a stock dividend, or other increase or decrease
+in such shares, if effected without receipt of consideration by the Company.
+Any such adjustment shall be made by the Administrative Committee acting with
+the consent of, and subject to the approval, of the Board of Directors.
+
+                 Sec. 5.03  Effect of Certain Transactions.  Subject to any
+required action by the shareholders, it the Company shall be the surviving or
+resulting corporation in any merger or
+
+
+
+
+
+                                      -8-
+<PAGE>   9
+consolidation, any Offering hereunder shall pertain to and apply to the shares
+of stock of the Company.  However, in the event of a dissolution or liquidation
+of the Company, or of a merger or consolidation in which the Company is not the
+surviving or resulting corporation, this Plan and any offering hereunder shall
+terminate upon the effective date of such dissolution, liquidation, merger, or
+consolidation, and the balance then standing to the credit of each Participant
+in his/her Stock Purchase Account shall be returned to him/her.
+
+
+                                  ARTICLE VI.
+
+                                 MISCELLANEOUS
+
+                 Sec. 6.01  Non-Alienation.  The right to purchase shares of
+Stock under this Plan is personal to the Participant, is exercisable only by
+the Participant during his/her lifetime except as hereinafter set forth, and
+may not be assigned or otherwise transferred by the Participant.
+Notwithstanding the foregoing, there shall be delivered to the executor,
+administrator or other personal representative of a deceased Participant such
+shares of Stock and such residual balance as may remain in the Participant's
+Stock Purchase Account as of the Exercise Date occurring at the close of the
+Purchase Period in which the Participant's death occurs, including shares of
+Stock purchased as of that date or prior thereto with moneys deposited by the
+Participant and/or withheld from the Participant's compensation.
+
+                 Sec. 6.02  Administrative Costs.  The Company shall pay all
+administrative expenses associated with the operation of this Plan.  No
+administrative charges shall be levied against the Stock Purchase Accounts of
+the Participants.
+
+                 Sec. 6.03  Administrative Committee.  The Board of Directors
+shall designate a committee to be the Administrative Committee of the Plan.
+The Administrative Committee shall have the authority and power to administer
+the Plan and to make, adopt, construe, and enforce rules and regulations not
+inconsistent with the provisions of the Plan.  The Administrative Committee
+shall adopt and prescribe the contents of all forms required in connection with
+the administration of this Plan, including, but not limited to, the Purchase
+Agreement, payroll withholding authorizations, withdrawal documents, and all
+other notices required hereunder.  The Administrative Committee's
+interpretations and decisions in respect of this Plan, the rules and
+regulations pursuant to which it is operated, and the rights of Participants
+hereunder shall be final and conclusive.
+
+                 Sec. 6.04  Amendment of this Plan.  The Board of Directors
+may, at any time and from time to time, amend this Plan in any respect, except
+that no amendment may
+
+
+
+
+
+                                      -9-
+<PAGE>   10
+                          (a)     increase the number of shares reserved for
+                                  purposes of this Plan;
+
+                          (b)     reduce the Purchase Price per share; or
+
+                          (c)     allow any person who is not an Eligible
+                                  Employee to become a Participant
+
+without the approval of the shareholders.
+
+                 Sec. 6.05  Expiration and Termination of this Plan.  Unless
+terminated prior thereto pursuant to Section 5.01 to this Plan, this Plan shall
+continue in effect until 11:59 p.m., Pitman, New Jersey time on June 30, 2001,
+provided, however, that the Board of Directors shall have the right to
+terminate this Plan at any time prior thereto without notice to any
+Participant.  Upon the expiration or termination of this Plan, the balance, if
+any, then standing to the credit of each Participant in his/her Stock Purchase
+Account shall be refunded to him/her.
+
+                 Sec. 6.06  Repurchase of Stock.  The Company shall not be
+required to purchase or repurchase from any Participant any of the shares of
+Stock that the Participant acquired under this Plan.
+
+                 Sec. 6.07  Notice.  A Purchase Agreement and any notice that a
+Participant files pursuant to the Plan shall be on the form prescribed by the
+Administrative Committee and shall be effective only when received by the
+Administrative Committee.  Delivery of such forms may be made by hand or by
+certified mail, sent postage prepaid, to K-Tron International, Inc., Routes 55
+and 553, Pitman, New Jersey 08071, Attention: Stock Purchase Plan Committee.
+
+                 Sec. 6.08  Government Regulation.  The Company's obligation to
+sell and to deliver the Stock under the Plan is.at all times subject to all
+approvals of any governmental authority required in connection with the
+authorization, issuance, sale, or delivery of such Stock.
+
+                 Sec. 6.09  Headings, Captions, Gender.  The headings and
+captions herein are for convenience of reference only and shall not be
+considered as a part of the text.  The masculine shall include the feminine,
+and vice versa.
+
+                 Sec. 6.10  Severability of Provisions; Prevailing Law.  The
+provisions of this Plan shall be deemed severable.         In the event any
+such provision is determined to be unlawful or unenforceable by a court of
+competent jurisdiction or by reason of a change in an applicable statute, this
+Plan shall continue to exist as though such provision had never been included
+therein.  This Plan shall be governed by the laws of the State of New Jersey,
+to the extent such laws are not in conflict with or superseded by federal law.
+
+
+
+
+
+                                      -10-
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-11.1
+<SEQUENCE>4
+<DESCRIPTION>KTRON INT'L & SUB COMPUTATION OF EARNINGS PER SHAR
+<TEXT>
+
+<PAGE>   1
+
+
+
+                                                                    Exhibit 11.1
+
+
+                   K-TRON INTERNATIONAL, INC. & SUBSIDIARIES
+
+                    COMPUTATION OF EARNINGS (LOSS) PER SHARE
+                                  (Unaudited)
+
+<TABLE>
+<CAPTION>
+                                            Three Months Ended                       Nine Months Ended    
+                                       ----------------------------             ---------------------------
+                                       Sept. 28,         Sept. 30,              Sept. 28,         Sept. 30,
+                                         1996               1995                  1996              1995   
+                                       ---------         ----------             ---------         ---------
+<S>                                    <C>               <C>                    <C>              <C>
+AVERAGE COMMON AND
+ COMMON-EQUIVALENT
+ SHARES:
+
+ Weighted Average Common
+  Shares Outstanding per Period         3,127,000        3,104,000              3,117,000          3,093,000
+
+Stock Options                              11,000               --                 11,000                 --
+                                       ----------        ---------              ---------        -----------
+
+ADJUSTED AVERAGE COMMON
+  AND COMMON-EQUIVALENT
+  SHARES COMPUTATION                    3,138,000        3,104,000              3,128,000          3,093,000
+                                        =========        =========              =========        ===========
+
+EARNINGS FOR COMMON AND
+  COMMON-EQUIVALENT
+  SHARES COMPUTATION:
+
+     Net income (loss) applicable
+     to Common Stock                   $1,161,000         $375,000             $2,841,000        $(9,855,000)
+                                       ==========         ========             ==========        =========== 
+
+EARNINGS (loss) PER SHARE:
+
+  Earnings (loss) per Share            $      .37         $    .12             $      .91        $     (3.19)
+                                       ==========         ========             ==========        ===========
+</TABLE>
+
+
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>5
+<DESCRIPTION>FINANCIAL DATA SCHEDULE
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE> 5
+<MULTIPLIER> 1,000
+       
+<S>                             <C>
+<PERIOD-TYPE>                   9-MOS
+<FISCAL-YEAR-END>                          DEC-28-1996
+<PERIOD-END>                               SEP-28-1996
+<CASH>                                           2,253
+<SECURITIES>                                         0
+<RECEIVABLES>                                   19,090
+<ALLOWANCES>                                       960
+<INVENTORY>                                     14,876
+<CURRENT-ASSETS>                                37,346
+<PP&E>                                          44,174
+<DEPRECIATION>                                  27,936
+<TOTAL-ASSETS>                                  59,275
+<CURRENT-LIABILITIES>                           42,412
+<BONDS>                                          2,772
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                          0
+<COMMON>                                            42
+<OTHER-SE>                                      11,782
+<TOTAL-LIABILITY-AND-EQUITY>                    59,275
+<SALES>                                         68,006
+<TOTAL-REVENUES>                                68,006
+<CGS>                                           38,393
+<TOTAL-COSTS>                                   38,393
+<OTHER-EXPENSES>                                23,818
+<LOSS-PROVISION>                                     0
+<INTEREST-EXPENSE>                               1,684
+<INCOME-PRETAX>                                  4,111
+<INCOME-TAX>                                     1,270
+<INCOME-CONTINUING>                              2,841
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                     2,841
+<EPS-PRIMARY>                                      .91
+<EPS-DILUTED>                                      .91
+        
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----
